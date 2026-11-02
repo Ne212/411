@@ -1,0 +1,8 @@
+Optimizing clean slab...
+Optimizing combined system...
+------------------------------
+Energy of Slab: -0.2733 eV
+Energy of Atom: 0.0000 eV
+Total Energy:   -0.2841 eV
+Adsorption Energy (E_ads): -0.0108 eV
+------------------------------

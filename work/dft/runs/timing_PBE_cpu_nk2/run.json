@@ -1,0 +1,55 @@
+{
+ "energy_eV": -135996.33871086285,
+ "n_scf": 1,
+ "scf_iterations": [
+  22
+ ],
+ "job_done": true,
+ "relax_converged": false,
+ "bfgs_failed": false,
+ "scf_not_converged": false,
+ "wall_pw": "PWSCF        :  50m36.22s CPU  54m 6.34s WALL",
+ "nks_irr": 4,
+ "total_force_Ry_bohr": 0.033344,
+ "label": "timing_PBE_cpu_nk2",
+ "functional": "PBE",
+ "calculation": "scf",
+ "kpts": [
+  4,
+  4,
+  1
+ ],
+ "engine": "cpu",
+ "np": 10,
+ "npool": 2,
+ "wall_python_s": 3248.4120128154755,
+ "ecutwfc": 65.0,
+ "ecutrho": 390.0,
+ "input": {
+  "control": {
+   "tprnfor": true,
+   "tstress": false,
+   "forc_conv_thr": 0.0007778758693600284,
+   "etot_conv_thr": 1e-05,
+   "disk_io": "low",
+   "pseudo_dir": "/home/ne212/START/work/dft/pseudo",
+   "calculation": "scf",
+   "prefix": "pw",
+   "outdir": "/home/ne212/START/work/dft/runs/timing_PBE_cpu_nk2/tmp"
+  },
+  "system": {
+   "ecutwfc": 65.0,
+   "ecutrho": 390.0,
+   "occupations": "smearing",
+   "smearing": "mv",
+   "degauss": 0.01,
+   "nspin": 1
+  },
+  "electrons": {
+   "conv_thr": 1e-08,
+   "mixing_beta": 0.3,
+   "mixing_mode": "local-TF",
+   "electron_maxstep": 200
+  }
+ }
+}

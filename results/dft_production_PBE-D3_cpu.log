@@ -1,0 +1,12 @@
+PBE-D3: a0=4.1084 A B0=162.3 GPa
+[PBE-D3/slab] E=-134546.45382222955 n_scf=11 OK PWSCF        :      1h 8m CPU      1h11m WALL
+[PBE-D3/Hg_bulk] E=-1466.7504592971256 n_scf=17 OK PWSCF        :     46.38s CPU     48.20s WALL
+[PBE-D3/far] E=-136012.68750927414 n_scf=1 OK PWSCF        :  20m32.69s CPU  21m35.29s WALL
+[PBE-D3/site_ontop] E=-136013.25662153965 n_scf=17 OK PWSCF        :      1h44m CPU      1h49m WALL
+  ontop: E_ads(A)=-0.5794 E_ads(B)=-0.5691 h=2.791 d=2.811
+[PBE-D3/site_bridge] E=-136013.33748017385 n_scf=15 OK PWSCF        :      2h49m CPU      2h57m WALL
+  bridge: E_ads(A)=-0.6602 E_ads(B)=-0.6500 h=2.488 d=2.908
+[PBE-D3/site_fcc] E=-136013.36276227285 n_scf=11 OK PWSCF        :      1h11m CPU      1h11m WALL
+  fcc: E_ads(A)=-0.6855 E_ads(B)=-0.6753 h=2.434 d=2.974
+[PBE-D3/site_hcp] E=-136013.362320496 n_scf=15 OK PWSCF        :      1h32m CPU      1h32m WALL
+  hcp: E_ads(A)=-0.6851 E_ads(B)=-0.6748 h=2.422 d=2.970

@@ -1,0 +1,3 @@
+functional,a0_A,B0_GPa,start_geometry,E_slab,slab_status,E_Hg_atom,E_Hg_bulk_per_atom,Hg_bulk_status,Ecoh_Hg,E_far,far_status,E_far_minus_slab_minus_atom
+PBE,4.150305,142.294463,ideal slab; Hg at MACE-relaxed heights,-134529.837855,OK,-1466.223337,-1466.392521,OK,0.169184,-135996.061374,OK,-0.000181
+PBE-D3,4.108420,162.299381,ideal D3 slab + PBE relaxation displacements; Hg at PBE heights,-134546.453822,OK,-1466.223422,-1466.750459,OK,0.527037,-136012.687509,OK,-0.010265

@@ -1,0 +1,6 @@
+PBE: a0=4.1503 A B0=142.3 GPa
+[PBE/slab] E=-134529.8378554892 n_scf=13 OK PWSCF        :      1h58m CPU      2h 3m WALL
+[PBE/Hg_bulk] E=-1466.3925214027304 n_scf=28 OK PWSCF        :   1m50.00s CPU   1m55.42s WALL
+[PBE/far] E=-135996.06137363875 n_scf=1 OK PWSCF        :  18m 7.41s CPU  19m 6.79s WALL
+[PBE/site_ontop] E=-135996.32735908887 n_scf=16 OK PWSCF        :      2h20m CPU      2h28m WALL
+  ontop: E_ads(A)=-0.2662 E_ads(B)=-0.2660 h=2.873 d=2.855

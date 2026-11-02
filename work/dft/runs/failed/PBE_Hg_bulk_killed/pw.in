@@ -1,0 +1,54 @@
+&CONTROL
+   calculation      = 'vc-relax'
+   nstep            = 200
+   tstress          = .true.
+   tprnfor          = .true.
+   outdir           = '/home/ne212/START/work/dft/runs/prod/PBE/Hg_bulk/tmp'
+   prefix           = 'pw'
+   etot_conv_thr    = 1e-05
+   forc_conv_thr    = 0.0007778758693600284
+   disk_io          = 'low'
+   pseudo_dir       = '/home/ne212/START/work/dft/pseudo'
+/
+&SYSTEM
+   ecutwfc          = 50.0
+   ecutrho          = 300.0
+   occupations      = 'smearing'
+   degauss          = 0.01
+   smearing         = 'mv'
+   nspin            = 1
+   ntyp             = 1
+   nat              = 1
+   ibrav            = 0
+/
+&ELECTRONS
+   electron_maxstep = 200
+   conv_thr         = 1e-08
+   mixing_mode      = 'local-TF'
+   mixing_beta      = 0.3
+/
+&IONS
+   ion_dynamics     = 'bfgs'
+/
+&CELL
+   cell_dynamics    = 'bfgs'
+   press_conv_thr   = 0.1
+/
+&FCP
+/
+&RISM
+/
+ATOMIC_SPECIES
+Hg 200.592 Hg.us.z_12.uspp.gbrv.v1.upf
+
+K_POINTS automatic
+12 12 12  0 0 0
+
+CELL_PARAMETERS angstrom
+2.44251098048753 -1.72459853594911 0.00000000000000
+2.44251098048753 1.72459853594911 0.00000000000000
+1.22481323666648 0.00000000000000 2.72762397248715
+
+ATOMIC_POSITIONS angstrom
+Hg 0.0000000000 0.0000000000 0.0000000000  
+

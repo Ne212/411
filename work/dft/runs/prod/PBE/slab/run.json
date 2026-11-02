@@ -1,0 +1,72 @@
+{
+ "energy_eV": -134529.8378554892,
+ "n_scf": 13,
+ "scf_iterations": [
+  20,
+  8,
+  13,
+  13,
+  22,
+  15,
+  14,
+  13,
+  14,
+  10,
+  10,
+  14,
+  11
+ ],
+ "job_done": true,
+ "relax_converged": true,
+ "bfgs_failed": false,
+ "scf_not_converged": false,
+ "wall_pw": "PWSCF        :      1h58m CPU      2h 3m WALL",
+ "nks_irr": 4,
+ "total_force_Ry_bohr": 0.000318,
+ "label": "prod/PBE/slab",
+ "functional": "PBE",
+ "calculation": "relax",
+ "kpts": [
+  4,
+  4,
+  1
+ ],
+ "engine": "cpu",
+ "np": 10,
+ "npool": 2,
+ "wall_python_s": 7428.981293439865,
+ "ecutwfc": 50.0,
+ "ecutrho": 300.0,
+ "input": {
+  "control": {
+   "tprnfor": true,
+   "tstress": false,
+   "forc_conv_thr": 0.0007778758693600284,
+   "etot_conv_thr": 1e-05,
+   "disk_io": "low",
+   "pseudo_dir": "/home/ne212/START/work/dft/pseudo",
+   "calculation": "relax",
+   "nstep": 200,
+   "prefix": "pw",
+   "outdir": "/home/ne212/START/work/dft/runs/prod/PBE/slab/tmp"
+  },
+  "system": {
+   "ecutwfc": 50.0,
+   "ecutrho": 300.0,
+   "occupations": "smearing",
+   "smearing": "mv",
+   "degauss": 0.01,
+   "nspin": 1
+  },
+  "electrons": {
+   "conv_thr": 1e-08,
+   "mixing_beta": 0.3,
+   "mixing_mode": "local-TF",
+   "electron_maxstep": 200
+  },
+  "ions": {
+   "ion_dynamics": "bfgs",
+   "upscale": 1.0
+  }
+ }
+}

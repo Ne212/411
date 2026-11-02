@@ -1,0 +1,61 @@
+{
+ "energy_eV": -46308.94239138896,
+ "n_scf": 1,
+ "scf_iterations": [
+  19
+ ],
+ "job_done": true,
+ "relax_converged": false,
+ "bfgs_failed": false,
+ "scf_not_converged": false,
+ "wall_pw": "PWSCF        :   9m39.24s CPU  10m30.15s WALL",
+ "nks_irr": 20,
+ "total_force_Ry_bohr": 0.062575,
+ "label": "conv/dipole_PBE_65_390_k6_v8_ontop",
+ "functional": "PBE",
+ "calculation": "scf",
+ "kpts": [
+  6,
+  6,
+  1
+ ],
+ "engine": "cpu",
+ "np": 10,
+ "npool": 2,
+ "wall_python_s": 632.2304120063782,
+ "ecutwfc": 65,
+ "ecutrho": 390,
+ "input": {
+  "control": {
+   "tprnfor": true,
+   "tstress": false,
+   "forc_conv_thr": 0.0007778758693600284,
+   "etot_conv_thr": 1e-05,
+   "disk_io": "low",
+   "pseudo_dir": "/home/ne212/START/work/dft/pseudo",
+   "calculation": "scf",
+   "tefield": true,
+   "dipfield": true,
+   "prefix": "pw",
+   "outdir": "/home/ne212/START/work/dft/runs/conv/dipole_PBE_65_390_k6_v8_ontop/tmp"
+  },
+  "system": {
+   "ecutwfc": 65,
+   "ecutrho": 390,
+   "occupations": "smearing",
+   "smearing": "mv",
+   "degauss": 0.01,
+   "nspin": 1,
+   "edir": 3,
+   "eamp": 0.0,
+   "emaxpos": 0.95,
+   "eopreg": 0.04
+  },
+  "electrons": {
+   "conv_thr": 1e-08,
+   "mixing_beta": 0.3,
+   "mixing_mode": "local-TF",
+   "electron_maxstep": 200
+  }
+ }
+}

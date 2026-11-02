@@ -1,0 +1,53 @@
+{
+ "energy_eV": null,
+ "n_scf": 0,
+ "scf_iterations": [],
+ "job_done": true,
+ "relax_converged": false,
+ "bfgs_failed": false,
+ "scf_not_converged": true,
+ "wall_pw": "PWSCF        :   4m19.00s CPU   4m23.92s WALL",
+ "nks_irr": 4,
+ "label": "gpu_test/PBE_hcp_4iter",
+ "functional": "PBE",
+ "calculation": "scf",
+ "kpts": [
+  4,
+  4,
+  1
+ ],
+ "engine": "gpu",
+ "np": 1,
+ "npool": 1,
+ "wall_python_s": 266.9461863040924,
+ "ecutwfc": 50.0,
+ "ecutrho": 300.0,
+ "read_error": "((2, 0), 4)",
+ "input": {
+  "control": {
+   "tprnfor": true,
+   "tstress": false,
+   "forc_conv_thr": 0.0007778758693600284,
+   "etot_conv_thr": 1e-05,
+   "disk_io": "low",
+   "pseudo_dir": "/home/ne212/START/work/dft/pseudo",
+   "calculation": "scf",
+   "prefix": "pw",
+   "outdir": "/home/ne212/START/work/dft/runs/gpu_test/PBE_hcp_4iter/tmp"
+  },
+  "system": {
+   "ecutwfc": 50.0,
+   "ecutrho": 300.0,
+   "occupations": "smearing",
+   "smearing": "mv",
+   "degauss": 0.01,
+   "nspin": 1
+  },
+  "electrons": {
+   "conv_thr": 1e-08,
+   "mixing_beta": 0.3,
+   "mixing_mode": "local-TF",
+   "electron_maxstep": 4
+  }
+ }
+}

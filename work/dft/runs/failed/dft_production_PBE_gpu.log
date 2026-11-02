@@ -1,0 +1,13 @@
+PBE: a0=4.1503 A B0=142.3 GPa
+[PBE/slab] E=-134529.8378554892 n_scf=13 OK PWSCF        :      1h58m CPU      2h 3m WALL
+[PBE/Hg_bulk] E=-1466.3925214027304 n_scf=28 OK PWSCF        :   1m50.00s CPU   1m55.42s WALL
+[PBE/far] E=-135996.06137363875 n_scf=1 OK PWSCF        :  18m 7.41s CPU  19m 6.79s WALL
+[PBE/site_hcp] E=-135996.37622992223 n_scf=2 NOT CONVERGED/FAILED PWSCF        :      2h28m CPU      2h28m WALL
+Traceback (most recent call last):
+  File "/home/ne212/START/work/dft/dft_production.py", line 205, in <module>
+    rows, info = run(a.functional)
+                 ^^^^^^^^^^^^^^^^^
+  File "/home/ne212/START/work/dft/dft_production.py", line 174, in run
+    au = [a.index for a in at if a.symbol == "Au"]
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'NoneType' object is not iterable

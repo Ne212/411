@@ -1,0 +1,45 @@
+PBE 50 300 16 a0=4.1503 B0=142.3
+PBE 65 390 16 a0=4.1502 B0=142.4
+PBE 80 480 16 a0=4.1501 B0=142.4
+PBE 65 390 20 a0=4.1509 B0=142.4
+PBE-D3 50 300 16 a0=4.1084 B0=162.3
+PBE-D3 65 390 16 a0=4.1083 B0=162.4
+PBE-D3 80 480 16 a0=4.1083 B0=162.4
+PBE-D3 65 390 20 a0=4.1089 B0=161.6
+  conv/cutoff_PBE_50_300_k6_v8_slab: E=-44842.576093 iters=[15] PWSCF        :   1m47.11s CPU   1m55.61s WALL
+  conv/cutoff_PBE_50_300_k6_v8_fcc: E=-46309.071122 iters=[17] PWSCF        :   2m26.06s CPU   2m39.80s WALL
+  conv/cutoff_PBE_50_300_k6_v8_ontop: E=-46308.911986 iters=[16] PWSCF        :   2m44.52s CPU   3m 2.27s WALL
+cutoff PBE 50 300 6 8.0 {'E_ads_fcc': -0.2717, 'E_ads_ontop': -0.1126, 'dE_fcc_minus_ontop': -0.1591}
+  conv/cutoff_PBE_65_390_k6_v8_slab: E=-44842.603542 iters=[13] PWSCF        :   2m31.98s CPU   2m45.41s WALL
+  conv/cutoff_PBE_65_390_k6_v8_fcc: E=-46309.105322 iters=[17] PWSCF        :   3m39.64s CPU   3m59.05s WALL
+  conv/cutoff_PBE_65_390_k6_v8_ontop: E=-46308.946175 iters=[16] PWSCF        :   3m23.44s CPU   3m42.83s WALL
+cutoff PBE 65 390 6 8.0 {'E_ads_fcc': -0.2718, 'E_ads_ontop': -0.1126, 'dE_fcc_minus_ontop': -0.1591}
+  conv/cutoff_PBE_80_480_k6_v8_slab: E=-44842.607357 iters=[13] PWSCF        :   3m38.77s CPU   3m53.99s WALL
+  conv/cutoff_PBE_80_480_k6_v8_fcc: E=-46309.110421 iters=[17] PWSCF        :   5m 8.70s CPU   5m38.00s WALL
+  conv/cutoff_PBE_80_480_k6_v8_ontop: E=-46308.951284 iters=[16] PWSCF        :   4m55.83s CPU   5m22.11s WALL
+cutoff PBE 80 480 6 8.0 {'E_ads_fcc': -0.2716, 'E_ads_ontop': -0.1125, 'dE_fcc_minus_ontop': -0.1591}
+  conv/ecutrho_PBE_65_520_k6_v8_slab: E=-44842.603536 iters=[14] PWSCF        :   2m43.41s CPU   2m55.08s WALL
+  conv/ecutrho_PBE_65_520_k6_v8_fcc: E=-46309.105280 iters=[17] PWSCF        :   3m50.31s CPU   4m11.34s WALL
+  conv/ecutrho_PBE_65_520_k6_v8_ontop: E=-46308.946126 iters=[16] PWSCF        :   3m34.87s CPU   3m55.40s WALL
+ecutrho PBE 65 520 6 8.0 {'E_ads_fcc': -0.2715, 'E_ads_ontop': -0.1123, 'dE_fcc_minus_ontop': -0.1592}
+  conv/kmesh_PBE_65_390_k4_v8_slab: E=-44842.525255 iters=[14] PWSCF        :   1m31.71s CPU   1m38.57s WALL
+  conv/kmesh_PBE_65_390_k4_v8_fcc: E=-46309.013076 iters=[16] PWSCF        :   2m13.56s CPU   2m28.52s WALL
+  conv/kmesh_PBE_65_390_k4_v8_ontop: E=-46308.842622 iters=[17] PWSCF        :   2m26.09s CPU   2m48.62s WALL
+kmesh PBE 65 390 4 8.0 {'E_ads_fcc': -0.2578, 'E_ads_ontop': -0.0874, 'dE_fcc_minus_ontop': -0.1705}
+  conv/kmesh_PBE_65_390_k9_v8_slab: E=-44842.578056 iters=[14] PWSCF        :   4m15.68s CPU   4m33.26s WALL
+  conv/kmesh_PBE_65_390_k9_v8_fcc: E=-46309.091777 iters=[17] PWSCF        :   5m47.46s CPU   6m17.68s WALL
+  conv/kmesh_PBE_65_390_k9_v8_ontop: E=-46308.922588 iters=[17] PWSCF        :   5m40.93s CPU   6m 9.07s WALL
+kmesh PBE 65 390 9 8.0 {'E_ads_fcc': -0.2837, 'E_ads_ontop': -0.1145, 'dE_fcc_minus_ontop': -0.1692}
+  conv/vacuum_PBE_65_390_k6_v12_slab: E=-44842.603556 iters=[18] PWSCF        :   4m59.56s CPU   5m21.04s WALL
+  conv/vacuum_PBE_65_390_k6_v12_fcc: E=-46309.103982 iters=[19] PWSCF        :   6m 0.53s CPU   6m35.97s WALL
+  conv/vacuum_PBE_65_390_k6_v12_ontop: E=-46308.944615 iters=[21] PWSCF        :   6m44.13s CPU   7m20.03s WALL
+vacuum PBE 65 390 6 12.0 {'E_ads_fcc': -0.2704, 'E_ads_ontop': -0.1111, 'dE_fcc_minus_ontop': -0.1594}
+  conv/dipole_PBE_65_390_k6_v8_slab: E=-44842.603542 iters=[18] PWSCF        :   8m25.77s CPU   9m14.82s WALL
+  conv/dipole_PBE_65_390_k6_v8_fcc: E=-46309.102047 iters=[19] PWSCF        :   9m43.37s CPU  10m33.91s WALL
+  conv/dipole_PBE_65_390_k6_v8_ontop: E=-46308.942391 iters=[19] PWSCF        :   9m39.24s CPU  10m30.15s WALL
+dipole PBE 65 390 6 8.0 {'E_ads_fcc': -0.2685, 'E_ads_ontop': -0.1089, 'dE_fcc_minus_ontop': -0.1597}
+  conv/D3_PBE-D3_65_390_k6_v8_slab: E=-44847.509763 iters=[13] PWSCF        :   2m27.22s CPU   2m38.23s WALL
+  conv/D3_PBE-D3_65_390_k6_v8_fcc: E=-46314.393348 iters=[17] PWSCF        :   3m40.36s CPU   3m59.98s WALL
+  conv/D3_PBE-D3_65_390_k6_v8_ontop: E=-46314.209466 iters=[16] PWSCF        :   3m24.91s CPU   3m43.48s WALL
+D3 PBE-D3 65 390 6 8.0 {'E_ads_fcc': -0.6535, 'E_ads_ontop': -0.4696, 'dE_fcc_minus_ontop': -0.1839}
+done

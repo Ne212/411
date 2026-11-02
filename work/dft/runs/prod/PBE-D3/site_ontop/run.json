@@ -1,0 +1,79 @@
+{
+ "energy_eV": -136013.25662153965,
+ "n_scf": 17,
+ "scf_iterations": [
+  23,
+  5,
+  5,
+  5,
+  6,
+  6,
+  6,
+  5,
+  5,
+  5,
+  6,
+  6,
+  5,
+  5,
+  5,
+  5,
+  4
+ ],
+ "job_done": true,
+ "relax_converged": true,
+ "bfgs_failed": false,
+ "scf_not_converged": false,
+ "wall_pw": "PWSCF        :      1h44m CPU      1h49m WALL",
+ "nks_irr": 4,
+ "total_force_Ry_bohr": 0.000908,
+ "label": "prod/PBE-D3/site_ontop",
+ "functional": "PBE-D3",
+ "calculation": "relax",
+ "kpts": [
+  4,
+  4,
+  1
+ ],
+ "engine": "cpu",
+ "np": 10,
+ "npool": 2,
+ "wall_python_s": 6552.24183344841,
+ "ecutwfc": 50.0,
+ "ecutrho": 300.0,
+ "input": {
+  "control": {
+   "tprnfor": true,
+   "tstress": false,
+   "forc_conv_thr": 0.0007778758693600284,
+   "etot_conv_thr": 1e-05,
+   "disk_io": "low",
+   "pseudo_dir": "/home/ne212/START/work/dft/pseudo",
+   "calculation": "relax",
+   "nstep": 200,
+   "prefix": "pw",
+   "outdir": "/home/ne212/START/work/dft/runs/prod/PBE-D3/site_ontop/tmp"
+  },
+  "system": {
+   "ecutwfc": 50.0,
+   "ecutrho": 300.0,
+   "occupations": "smearing",
+   "smearing": "mv",
+   "degauss": 0.01,
+   "nspin": 1,
+   "vdw_corr": "dft-d3",
+   "dftd3_version": 4,
+   "dftd3_threebody": true
+  },
+  "electrons": {
+   "conv_thr": 1e-08,
+   "mixing_beta": 0.3,
+   "mixing_mode": "local-TF",
+   "electron_maxstep": 200
+  },
+  "ions": {
+   "ion_dynamics": "bfgs",
+   "upscale": 1.0
+  }
+ }
+}

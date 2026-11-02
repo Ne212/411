@@ -1,0 +1,23 @@
+# environments / tools
+venv/
+.venv/
+tools/
+__pycache__/
+*.pyc
+# local copy of the supervisor's repository (link to it instead)
+upstream/
+# pseudopotentials are not redistributed (see work/dft/pseudo/README.md)
+work/dft/pseudo/*.upf
+work/dft/pseudo/*.UPF
+# QE scratch / run-time files
+tmp/
+LOCK
+*.pid
+# large intermediate trajectories (final structures are in .xyz)
+results/structures/**/*.traj
+# LaTeX build artefacts
+*.aux
+*.log.tex
+*.out
+*.synctex.gz
+report/overleaf_upload.zip

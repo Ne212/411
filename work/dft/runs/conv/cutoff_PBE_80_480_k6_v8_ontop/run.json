@@ -1,0 +1,55 @@
+{
+ "energy_eV": -46308.95128379788,
+ "n_scf": 1,
+ "scf_iterations": [
+  16
+ ],
+ "job_done": true,
+ "relax_converged": false,
+ "bfgs_failed": false,
+ "scf_not_converged": false,
+ "wall_pw": "PWSCF        :   4m55.83s CPU   5m22.11s WALL",
+ "nks_irr": 7,
+ "total_force_Ry_bohr": 0.062256,
+ "label": "conv/cutoff_PBE_80_480_k6_v8_ontop",
+ "functional": "PBE",
+ "calculation": "scf",
+ "kpts": [
+  6,
+  6,
+  1
+ ],
+ "engine": "cpu",
+ "np": 10,
+ "npool": 2,
+ "wall_python_s": 324.2082133293152,
+ "ecutwfc": 80,
+ "ecutrho": 480,
+ "input": {
+  "control": {
+   "tprnfor": true,
+   "tstress": false,
+   "forc_conv_thr": 0.0007778758693600284,
+   "etot_conv_thr": 1e-05,
+   "disk_io": "low",
+   "pseudo_dir": "/home/ne212/START/work/dft/pseudo",
+   "calculation": "scf",
+   "prefix": "pw",
+   "outdir": "/home/ne212/START/work/dft/runs/conv/cutoff_PBE_80_480_k6_v8_ontop/tmp"
+  },
+  "system": {
+   "ecutwfc": 80,
+   "ecutrho": 480,
+   "occupations": "smearing",
+   "smearing": "mv",
+   "degauss": 0.01,
+   "nspin": 1
+  },
+  "electrons": {
+   "conv_thr": 1e-08,
+   "mixing_beta": 0.3,
+   "mixing_mode": "local-TF",
+   "electron_maxstep": 200
+  }
+ }
+}

@@ -1,0 +1,69 @@
+{
+ "energy_eV": -135996.39436413426,
+ "n_scf": 10,
+ "scf_iterations": [
+  24,
+  6,
+  6,
+  7,
+  8,
+  5,
+  5,
+  5,
+  6,
+  4
+ ],
+ "job_done": true,
+ "relax_converged": true,
+ "bfgs_failed": false,
+ "scf_not_converged": false,
+ "wall_pw": "PWSCF        :      1h11m CPU      1h11m WALL",
+ "nks_irr": 4,
+ "total_force_Ry_bohr": 0.001674,
+ "label": "prod/PBE/site_hcp",
+ "functional": "PBE",
+ "calculation": "relax",
+ "kpts": [
+  4,
+  4,
+  1
+ ],
+ "engine": "gpu",
+ "np": 1,
+ "npool": 1,
+ "wall_python_s": 4276.156942844391,
+ "ecutwfc": 50.0,
+ "ecutrho": 300.0,
+ "input": {
+  "control": {
+   "tprnfor": true,
+   "tstress": false,
+   "forc_conv_thr": 0.0007778758693600284,
+   "etot_conv_thr": 1e-05,
+   "disk_io": "low",
+   "pseudo_dir": "/home/ne212/START/work/dft/pseudo",
+   "calculation": "relax",
+   "nstep": 200,
+   "prefix": "pw",
+   "outdir": "/home/ne212/START/work/dft/runs/prod/PBE/site_hcp/tmp"
+  },
+  "system": {
+   "ecutwfc": 50.0,
+   "ecutrho": 300.0,
+   "occupations": "smearing",
+   "smearing": "mv",
+   "degauss": 0.01,
+   "nspin": 1
+  },
+  "electrons": {
+   "conv_thr": 1e-08,
+   "mixing_beta": 0.3,
+   "mixing_mode": "local-TF",
+   "electron_maxstep": 200
+  },
+  "ions": {
+   "ion_dynamics": "bfgs",
+   "upscale": 1.0
+  }
+ }
+}

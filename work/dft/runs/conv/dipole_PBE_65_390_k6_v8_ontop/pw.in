@@ -1,0 +1,69 @@
+&CONTROL
+   calculation      = 'scf'
+   tstress          = .false.
+   tprnfor          = .true.
+   outdir           = '/home/ne212/START/work/dft/runs/conv/dipole_PBE_65_390_k6_v8_ontop/tmp'
+   prefix           = 'pw'
+   etot_conv_thr    = 1e-05
+   forc_conv_thr    = 0.0007778758693600284
+   disk_io          = 'low'
+   pseudo_dir       = '/home/ne212/START/work/dft/pseudo'
+   tefield          = .true.
+   dipfield         = .true.
+/
+&SYSTEM
+   ecutwfc          = 65
+   ecutrho          = 390
+   occupations      = 'smearing'
+   degauss          = 0.01
+   smearing         = 'mv'
+   nspin            = 1
+   edir             = 3
+   emaxpos          = 0.95
+   eopreg           = 0.04
+   eamp             = 0.0
+   ntyp             = 2
+   nat              = 13
+   ibrav            = 0
+/
+&ELECTRONS
+   electron_maxstep = 200
+   conv_thr         = 1e-08
+   mixing_mode      = 'local-TF'
+   mixing_beta      = 0.3
+/
+&IONS
+/
+&CELL
+/
+&FCP
+/
+&RISM
+/
+ATOMIC_SPECIES
+Au 196.966569 Au_ONCV_PBE-1.0.oncvpsp.upf
+Hg 200.592 Hg.us.z_12.uspp.gbrv.v1.upf
+
+K_POINTS automatic
+6 6 1  0 0 0
+
+CELL_PARAMETERS angstrom
+5.86921376272576 0.00000000000000 0.00000000000000
+2.93460688136288 5.08288821876176 0.00000000000000
+0.00000000000000 0.00000000000000 20.79219296999953
+
+ATOMIC_POSITIONS angstrom
+Au 1.4673034407 0.8471480365 8.0000000000  
+Au 4.4019103220 0.8471480365 8.0000000000  
+Au 2.9346068814 3.3885921458 8.0000000000  
+Au 5.8692137627 3.3885921458 8.0000000000  
+Au -0.0000000000 1.6942960729 10.3960964850  
+Au 2.9346068814 1.6942960729 10.3960964850  
+Au 1.4673034407 4.2357401823 10.3960964850  
+Au 4.4019103220 4.2357401823 10.3960964850  
+Au 0.0000000000 0.0000000000 12.7921929700  
+Au 2.9346068814 0.0000000000 12.7921929700  
+Au 1.4673034407 2.5414441094 12.7921929700  
+Au 4.4019103220 2.5414441094 12.7921929700  
+Hg 0.0000000000 0.0000000000 15.3921929700  
+

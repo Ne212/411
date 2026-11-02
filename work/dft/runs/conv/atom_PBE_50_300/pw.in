@@ -1,0 +1,49 @@
+&CONTROL
+   calculation      = 'scf'
+   tstress          = .false.
+   tprnfor          = .true.
+   outdir           = '/home/ne212/START/work/dft/runs/conv/atom_PBE_50_300/tmp'
+   prefix           = 'pw'
+   etot_conv_thr    = 1e-05
+   forc_conv_thr    = 0.0007778758693600284
+   disk_io          = 'low'
+   pseudo_dir       = '/home/ne212/START/work/dft/pseudo'
+/
+&SYSTEM
+   ecutwfc          = 50
+   ecutrho          = 300
+   occupations      = 'smearing'
+   degauss          = 0.01
+   smearing         = 'mv'
+   nspin            = 1
+   ntyp             = 1
+   nat              = 1
+   ibrav            = 0
+/
+&ELECTRONS
+   electron_maxstep = 200
+   conv_thr         = 1e-08
+   mixing_mode      = 'local-TF'
+   mixing_beta      = 0.3
+/
+&IONS
+/
+&CELL
+/
+&FCP
+/
+&RISM
+/
+ATOMIC_SPECIES
+Hg 200.592 Hg.us.z_12.uspp.gbrv.v1.upf
+
+K_POINTS gamma
+
+CELL_PARAMETERS angstrom
+15.00000000000000 0.00000000000000 0.00000000000000
+0.00000000000000 15.00000000000000 0.00000000000000
+0.00000000000000 0.00000000000000 15.00000000000000
+
+ATOMIC_POSITIONS angstrom
+Hg 7.5000000000 7.5000000000 7.5000000000  
+

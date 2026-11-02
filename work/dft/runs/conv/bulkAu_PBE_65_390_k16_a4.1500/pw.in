@@ -1,0 +1,50 @@
+&CONTROL
+   calculation      = 'scf'
+   tstress          = .false.
+   tprnfor          = .true.
+   outdir           = '/home/ne212/START/work/dft/runs/conv/bulkAu_PBE_65_390_k16_a4.1500/tmp'
+   prefix           = 'pw'
+   etot_conv_thr    = 1e-05
+   forc_conv_thr    = 0.0007778758693600284
+   disk_io          = 'low'
+   pseudo_dir       = '/home/ne212/START/work/dft/pseudo'
+/
+&SYSTEM
+   ecutwfc          = 65
+   ecutrho          = 390
+   occupations      = 'smearing'
+   degauss          = 0.01
+   smearing         = 'mv'
+   nspin            = 1
+   ntyp             = 1
+   nat              = 1
+   ibrav            = 0
+/
+&ELECTRONS
+   electron_maxstep = 200
+   conv_thr         = 1e-08
+   mixing_mode      = 'local-TF'
+   mixing_beta      = 0.3
+/
+&IONS
+/
+&CELL
+/
+&FCP
+/
+&RISM
+/
+ATOMIC_SPECIES
+Au 196.966569 Au_ONCV_PBE-1.0.oncvpsp.upf
+
+K_POINTS automatic
+16 16 16  0 0 0
+
+CELL_PARAMETERS angstrom
+0.00000000000000 2.07500000000000 2.07500000000000
+2.07500000000000 0.00000000000000 2.07500000000000
+2.07500000000000 2.07500000000000 0.00000000000000
+
+ATOMIC_POSITIONS angstrom
+Au 0.0000000000 0.0000000000 0.0000000000  
+

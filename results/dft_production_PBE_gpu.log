@@ -1,0 +1,8 @@
+PBE: a0=4.1503 A B0=142.3 GPa
+[PBE/slab] E=-134529.8378554892 n_scf=13 OK PWSCF        :      1h58m CPU      2h 3m WALL
+[PBE/Hg_bulk] E=-1466.3925214027304 n_scf=28 OK PWSCF        :   1m50.00s CPU   1m55.42s WALL
+[PBE/far] E=-135996.06137363875 n_scf=1 OK PWSCF        :  18m 7.41s CPU  19m 6.79s WALL
+[PBE/site_hcp] E=-135996.39436413426 n_scf=10 OK PWSCF        :      1h11m CPU      1h11m WALL
+  hcp: E_ads(A)=-0.3332 E_ads(B)=-0.3330 h=2.455 d=3.006
+[PBE/site_fcc] E=-135996.39424494837 n_scf=16 OK PWSCF        :      1h38m CPU      1h38m WALL
+  fcc: E_ads(A)=-0.3331 E_ads(B)=-0.3329 h=2.472 d=3.007

@@ -100,7 +100,7 @@ python dft_production.py --functional PBE --engine cpu --sites ontop bridge
 python dft_production.py --functional PBE-D3 --engine gpu --sites hcp fcc bridge ontop
 python dft_production.py --functional PBE-D3 --engine cpu --sites ontop bridge fcc hcp
 ```
-* Engine: `pw-mkl.x` (QE 7.6, MKL) with 10 MPI ranks, `-nk 2`. The GPU build could not be used because the GPU was occupied by another job (an OOM error at 3 GB free).
+* Engines: QE 7.6 in two builds, `pw-mkl.x` (CPU, MKL, 10 MPI ranks, `-nk 2`) and `pw-gpu.x` (CUDA, 1 MPI rank, one RTX PRO 4000). In an early timing test the GPU was occupied by another job (out of memory with 3 GB free); once it was free, production used both engines in parallel (see above). `run.json` in each run directory records which engine ran that calculation.
 * Pseudopotentials: SSSP 1.3 precision (md5-checked copies in `work/dft/pseudo/`).
 * Production cutoff 50/300 Ry. Convergence test: E_ads changes < 0.3 meV up to 80/480 Ry. k 4×4×1 (error ≈ 10–15 meV from the k test). MV smearing 0.01 Ry, nspin = 1, conv_thr 1e-8 Ry, forc_conv_thr 7.78e-4 Ry/bohr (= 0.02 eV/Å).
 * Fully fixed atoms (bottom 2 layers; Hg in scheme B) get their own species label (`Au1`, same pseudopotential and mass; `split_fixed_species` in `qe_common.py`). Without it QE keeps the inversion of the clean 4-layer slab, which maps fixed onto free layers, and the first BFGS step stops with `checkallsym`. The failed first attempt is kept in `work/dft/runs/failed/`.

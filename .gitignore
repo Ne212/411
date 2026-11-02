@@ -18,6 +18,7 @@ results/structures/**/*.traj
 # LaTeX build artefacts
 *.aux
 *.log.tex
-*.out
+# LaTeX build files only: *.out must NOT be global, QE output files are named pw.out
+report/*.out
 *.synctex.gz
 report/overleaf_upload.zip

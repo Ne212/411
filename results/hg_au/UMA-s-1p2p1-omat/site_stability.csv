@@ -1,0 +1,5 @@
+method,start_site,E_constrained,E_free,dE_free_minus_constrained,lateral_drift_free_A,height_free_A,d_AuHg_min_free_A,converged_free,n_steps_free
+UMA-s-1p2p1-omat,ontop,-110.224851,-110.224853,-0.000002,0.000002,2.945166,2.928586,True,19
+UMA-s-1p2p1-omat,bridge,-110.282258,-110.282271,-0.000013,0.001766,2.527025,2.954240,True,6
+UMA-s-1p2p1-omat,fcc,-110.304048,-110.304046,0.000002,0.000000,2.457793,3.007776,True,10
+UMA-s-1p2p1-omat,hcp,-110.313105,-110.313103,0.000002,0.000000,2.418597,2.980558,True,12

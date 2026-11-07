@@ -1,0 +1,5 @@
+method,start_site,E_constrained,E_free,dE_free_minus_constrained,lateral_drift_free_A,height_free_A,d_AuHg_min_free_A,converged_free,n_steps_free
+SevenNet-MF-ompa-mpa,ontop,-112.485931,-112.485931,0.000000,0.000000,2.898407,2.888069,True,20
+SevenNet-MF-ompa-mpa,bridge,-112.555244,-112.555260,-0.000015,0.002076,2.549641,2.975189,True,7
+SevenNet-MF-ompa-mpa,fcc,-112.577469,-112.577469,0.000000,0.000000,2.513332,3.055033,True,5
+SevenNet-MF-ompa-mpa,hcp,-112.572128,-112.572128,0.000000,0.000000,2.513392,3.054263,True,6

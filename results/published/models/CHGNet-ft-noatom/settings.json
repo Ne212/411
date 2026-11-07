@@ -1,0 +1,42 @@
+{
+ "settings": {
+  "layers": 4,
+  "vacuum": 12.0,
+  "fmax": 0.02,
+  "max_steps": 1000,
+  "atom_box": 15.0,
+  "start_height_top_bridge": 2.6,
+  "eos": {
+   "points": 11,
+   "rel_range": 0.03
+  },
+  "a_guess": {
+   "Ag": 4.09,
+   "Au": 4.08,
+   "Cu": 3.61,
+   "Ni": 3.52,
+   "Pd": 3.89,
+   "Pt": 3.92
+  }
+ },
+ "info": {
+  "model": "CHGNet-ft-noatom",
+  "base": "CHGNet 0.3.0",
+  "checkpoint": "/home/ne212/START/work/survey/finetune/runs/CHGNet-ft-noatom/bestE_epoch143_e1_f7_sNA_mNA.pth.tar",
+  "package": "chgnet 0.4.2",
+  "device": "cuda",
+  "dtype": "float32"
+ },
+ "a0": {
+  "Ag": 4.157339931172315,
+  "Au": 4.1458469100740185,
+  "Cu": 3.6225454916111866,
+  "Ni": 3.517381082911507,
+  "Pd": 3.949953635865017,
+  "Pt": 3.915506754438083
+ },
+ "E_Hg_atom": "0.2852921",
+ "E_ref_D": -0.13136399999999998,
+ "Ecoh_PBE": 0.169184,
+ "wall_s": 105.3120744228363
+}

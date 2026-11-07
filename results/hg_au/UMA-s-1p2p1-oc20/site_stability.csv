@@ -1,0 +1,5 @@
+method,start_site,E_constrained,E_free,dE_free_minus_constrained,lateral_drift_free_A,height_free_A,d_AuHg_min_free_A,converged_free,n_steps_free
+UMA-s-1p2p1-oc20,ontop,-90.475991,-90.475989,0.000002,0.000001,3.043054,3.010244,True,20
+UMA-s-1p2p1-oc20,bridge,-90.470814,-90.470826,-0.000011,0.005411,2.751028,3.128684,True,18
+UMA-s-1p2p1-oc20,fcc,-90.475288,-90.475292,-0.000003,0.000002,2.632235,3.153449,True,14
+UMA-s-1p2p1-oc20,hcp,-90.473399,-90.473397,0.000002,0.000002,2.628634,3.152768,True,16

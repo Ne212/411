@@ -19,6 +19,12 @@ Main finding: relative to PBE, the MLIPs' free Hg atom energy is too high by +0.
 
 License: MIT (see `LICENSE`); the scripts in `work/upstream_runs/` are © Miro Iliaš, MIT.
 
+**MLIP survey (November 2026, follow-up):** 31 ASE-compatible MLIP models/tasks from 12 packages tested on Hg/Au(111),
+against published VASP-PBE data (Steckel 2008, Hg on six metals) and with a fine-tuning feasibility test (MACE, CHGNet).
+Report: [`report/mlip_survey.md`](report/mlip_survey.md); talk outline: [`report/talk_outline.md`](report/talk_outline.md);
+how to reproduce: section "MLIP survey" below.
+
+
 ## Project layout (original workstation)
 
 ```
@@ -121,3 +127,93 @@ cd work
 cd ../report && ../tools/tex/bin/tectonic main.tex   # local compile check (tectonic in tools/tex)
 ```
 For Overleaf, upload `report/` (main.tex, refs.bib, figures/, tables/).
+
+---
+
+# MLIP survey for the HybriLIT talk (27 Nov 2026) — Stage 1
+
+> **Not in this repository (survey):** `venvs/` (rebuild with `work/survey/install_envs.sh`), `upstream_latest/` (https://github.com/miroi/open-collection, commit 7d60709; the ALIGNN-FF script copy is in `work/survey/upstream_runs/alignn_ff/`, © Miro Iliaš, MIT), compiled NequIP/Allegro models (`nequip-compile`, see below), fine-tuned checkpoints (`work/survey/finetune/runs/`, retrain with the scripts), MPtrj replay subsets, `.traj` trajectories and `_discarded_*` runs. Paths are those of the original workstation.
+
+
+```
+venvs/<env>/             one venv per MLIP (mace chgnet matgl alignn sevenn mattersim orb fairchem grace nequip deepmd upet), venvs/_tools = uv
+upstream_latest/         sparse clone of miroi/open-collection at 7d60709 (2026-11-03), contains ML-ALIGNN-FF; NOT modified
+work/survey/             scripts of the survey
+results/mlip_inventory.md  Stage 1 deliverable (inventory, install record, smoke test, Miro reproduction)
+results/survey_logs/     install logs, pip freezes, smoke-test JSON/CSV, compile logs
+results/hg_au/<model>/   Hg/Au(111) 411-protocol results per model
+tools/cuda13             symlink to NVHPC 26.9 CUDA 13.3 (CUDA_HOME for nequip-compile)
+```
+
+```bash
+bash work/survey/install_envs.sh                 # all envs (or: install_envs.sh mace orb ...), ~30 min with downloads
+# NequIP/Allegro foundation models must be compiled once:
+export CUDA_HOME=$PWD/tools/cuda13
+for m in NequIP-OAM-L Allegro-OAM-L; do venvs/nequip/bin/nequip-compile nequip.net:mir-group/$m:0.1 \
+    work/survey/models/$m.nequip.pt2 --device cuda --mode aotinductor --target ase; done
+# smoke test of one model (env of the model: see VENV in work/survey/calcs.py)
+cd work/survey && ../../venvs/mace/bin/python smoke_test.py MACE-MPA-0-medium
+# Miro's ALIGNN-FF script, unchanged (CPU)
+cd work/survey/upstream_runs/alignn_ff && ../../../../venvs/alignn/bin/python Hg_on_Gold111_adsorption.py
+# site-label check and protocol bridge (Miro -> 411)
+cd work/survey && ../../venvs/alignn/bin/python check_miro_sites.py
+../../venvs/alignn/bin/python hg_au_protocol.py ALIGNN-FF-mptrj     # 411 protocol, ~20 s on the GPU
+../../venvs/alignn/bin/python protocol_bridge.py ALIGNN-FF-mptrj    # needs hg_au_protocol output first
+```
+* `work/survey/calcs.py` is the only place where calculators are built (model, head/task, dtype, device,
+  wrappers). Every script imports it, so settings cannot differ silently between models.
+* `work/survey/hg_au_protocol.py` is generated from `work/mlip_benchmark.py`; `SETTINGS` is
+  byte-identical to the 411 protocol (checked with diff) + scheme D (E_coh,PBE of Hg from `results/dft_bulk_refs.csv`).
+* UMA (fairchem) needs Hugging Face access to `facebook/UMA`; not granted on this machine (403).
+
+## MLIP survey — Stage 2 (Hg/Au(111), 31 model/task combinations)
+
+```bash
+cd work/survey
+python3 run_all_hg_au.py                      # every model in its own venv, resumable; ~20 min on the GPU in total
+python3 run_all_hg_au.py --models ORB-v3-cons-inf-omat --force   # rerun selected models
+../../venvs/mace/bin/python collect_hg_au.py  # -> results/hg_au_all_models.csv, hg_au_model_summary.csv, figures/survey_*
+```
+Findings and caveats: `results/hg_au_stage2_notes.md`. UMA uses the fairchem `"batch"` preset (FP32, no
+torch.compile); its venv uses uv's managed CPython 3.12 (ships Python.h, needed by triton in torch 2.13).
+
+## MLIP survey — Stage 3 (published DFT: Steckel 2008, VASP-PBE, Hg on 6 metals)
+
+```bash
+cd work/survey
+# 1. reference table (44 systems) parsed from the OSTI full text of Steckel, PRB 77, 115412 (2008)
+pdftotext -layout steckel_osti.pdf steckel.txt && python3 -I build_steckel_table.py steckel.txt
+# 2. all models (resumable), ~40 min on the GPU in total
+python3 run_all_hg_au.py --task published
+# 3. errors per source/subset, parity plots
+../../venvs/mace/bin/python published_analysis.py
+```
+Outputs: `results/published/steckel2008_systems.csv` (sources), `results/published_benchmark.csv` (wide:
+system, source, DOI, functional, DFT value, one column per model), `results/published_benchmark_long.csv`,
+`results/published_mae.{csv,md}`, `results/figures/published_*.png|pdf`, notes and talk subset in
+`results/published_notes.md`. Main MAE = 30 systems with 1 Hg per cell; the 14 systems with >1 Hg per cell
+(per-Hg normalisation not stated in the paper) and the 5 Ni systems are reported separately.
+
+## MLIP survey — Stage 4 (fine-tuning feasibility test: MACE-MP-0 medium, CHGNet 0.3.0)
+
+```bash
+cd work/survey/finetune
+../../../venvs/mace/bin/python prepare_ft_data.py MACE-MP-0-medium      # splits + per-element energy shift
+../../../venvs/chgnet/bin/python prepare_ft_data.py CHGNet-0.3.0
+bash train_all.sh                      # 2 models x {noatom, atom}; MACE ~20 min/run, CHGNet ~3 min/run
+bash eval_all.sh                       # frame errors, 411 protocol, Steckel test for the fine-tuned models
+../../../venvs/mace/bin/python ft_analysis.py   # -> results/finetune/ft_summary.{csv,md}, figures/finetune_summary
+```
+Notes, results and pitfalls: `results/finetune/stage4_notes.md`. Fine-tuned models are registered in
+`work/survey/calcs.py` (keys `*-ft-noatom`, `*-ft-atom`) and are excluded from the Stage 2/3 tables.
+Stage 4b (lr vs replay, MACE): `bash work/survey/finetune/train_mace_ctrl.sh` (~3 min) and
+`bash work/survey/finetune/train_mace_mh.sh` (replay, downloads mp_traj_combined.xyz 595 MB, ~50 min), then the same
+evaluation commands with keys `MACE-MP-0-ft-atom-lr1e-4` / `MACE-MP-0-ft-atom-replay`; table
+`results/finetune/ft_lr_replay_comparison.csv`. CHGNet isolated-atom reproduction: `work/survey/finetune/repro/`.
+
+## MLIP survey — Stage 5 (report and talk)
+* `report/mlip_survey.md`: recommendations by purpose, risks for heavy/superheavy elements, findings F1–F4.
+* `report/talk_outline.md`: title proposals, 150-word abstract, 8-slide structure with the figure for each slide.
+* Talk figures (all in `results/figures/`): `survey_atom_error_talk`, `element_coverage`
+  (`work/survey/plot_element_coverage.py`), `published_parity_talk`, `finetune_lr_replay`
+  (`work/survey/finetune/plot_lr_replay.py`), `finetune_summary`, `survey_sites`.

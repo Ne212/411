@@ -1,0 +1,5 @@
+method,start_site,E_constrained,E_free,dE_free_minus_constrained,lateral_drift_free_A,height_free_A,d_AuHg_min_free_A,converged_free,n_steps_free
+DPA-3.1-3M-mptrj,ontop,-111.559454,-111.559454,-0.000000,0.000000,2.845777,2.850031,True,19
+DPA-3.1-3M-mptrj,bridge,-111.605028,-111.605032,-0.000004,0.000980,2.534082,2.952771,True,7
+DPA-3.1-3M-mptrj,fcc,-111.627857,-111.627858,-0.000001,0.000000,2.434206,2.990229,True,10
+DPA-3.1-3M-mptrj,hcp,-111.625340,-111.625339,0.000000,0.000000,2.440951,2.994528,True,9

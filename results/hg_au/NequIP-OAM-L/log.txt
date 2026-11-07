@@ -1,0 +1,111 @@
+{
+ "settings": {
+  "slab_size": [
+   3,
+   3,
+   4
+  ],
+  "vacuum": 12.0,
+  "fixed_layers": "tag >= 3 (bottom 2 of 4)",
+  "sites": [
+   "ontop",
+   "bridge",
+   "fcc",
+   "hcp"
+  ],
+  "hg_start_height": 2.5,
+  "hg_lateral": "fixed (FixedLine along z) so each site stays at its high-symmetry position; an unconstrained relaxation is also run per site -> mlip_site_stability.csv",
+  "far_height": 10.0,
+  "far_lateral_site": "fcc",
+  "atom_box": 15.0,
+  "optimizer": "BFGS",
+  "fmax": 0.02,
+  "max_steps": 1000,
+  "eos_grid": {
+   "points": 11,
+   "rel_range": 0.03,
+   "eos": "birchmurnaghan"
+  },
+  "hg_bulk": "alpha-Hg rhombohedral (ASE reference a=2.99 A, alpha=70.45 deg), full cell+position relaxation with FrechetCellFilter",
+  "Ecoh_exp_Hg": 0.67,
+  "scan_heights": [
+   1.8,
+   1.9,
+   2.0,
+   2.1,
+   2.2,
+   2.3,
+   2.4,
+   2.5,
+   2.6,
+   2.7,
+   2.8,
+   2.9,
+   3.0,
+   3.1,
+   3.2,
+   3.3,
+   3.4,
+   3.5,
+   3.6,
+   3.7,
+   3.8,
+   3.9,
+   4.0,
+   4.25,
+   4.5,
+   4.75,
+   5.0,
+   5.25,
+   5.5,
+   5.75,
+   6.0,
+   6.25,
+   6.5,
+   6.75,
+   7.0,
+   7.25,
+   7.5,
+   7.75,
+   8.0,
+   8.25,
+   8.5,
+   8.75,
+   9.0,
+   9.25,
+   9.5,
+   9.75,
+   10.0,
+   10.25,
+   10.5,
+   10.75,
+   11.0,
+   11.25,
+   11.5,
+   11.75,
+   12.0
+  ],
+  "scan_note": "rigid scan: relaxed clean slab frozen, Hg above fcc hollow, single points"
+ },
+ "Ecoh_PBE_Hg": 0.169184,
+ "ase": "3.29.0",
+ "torch": "2.11.0+cu130",
+ "cuda": true,
+ "gpu": "NVIDIA RTX PRO 4000 Blackwell",
+ "date": "2026-11-04 16:15:25"
+}
+
+===== NequIP-OAM-L: {"model": "NequIP-OAM-L", "nequip_id": "nequip.net:mir-group/NequIP-OAM-L:0.1", "compiled": "/home/ne212/START/work/survey/models/NequIP-OAM-L.nequip.pt2", "package": "nequip 0.19.1 / nequip-allegro 0.8.3", "device": "cuda", "a_bracket": [3.8, 4.4]}
+Au bulk: {'a_brent': 4.173134253686352, 'a0': 4.1734127403503765, 'B0_GPa': 135.33363533309176, 'E0_per_atom': -3.2726289961013983}
+[NequIP-OAM-L_slab] steps=6 converged=True fmax=0.0188 E=-112.133693 eV (0.1 s)
+[NequIP-OAM-L_far] steps=0 converged=True fmax=0.0188 E=-112.257190 eV (0.0 s)
+alpha-Hg: E/atom=-0.290177 converged=True cellpar=[3.2858, 3.2858, 3.2858, 69.9265, 69.9265, 69.9265] V/atom=30.256 E_coh(model)=0.1667
+[NequIP-OAM-L_ontop] steps=19 converged=True fmax=0.0183 E=-112.517903 eV (0.6 s)
+[NequIP-OAM-L_ontop_free] steps=19 converged=True fmax=0.0183 E=-112.517905 eV (0.4 s)
+[NequIP-OAM-L_bridge] steps=6 converged=True fmax=0.0171 E=-112.570070 eV (0.1 s)
+[NequIP-OAM-L_bridge_free] steps=6 converged=True fmax=0.0171 E=-112.570086 eV (0.1 s)
+[NequIP-OAM-L_fcc] steps=10 converged=True fmax=0.0199 E=-112.598077 eV (0.1 s)
+[NequIP-OAM-L_fcc_free] steps=10 converged=True fmax=0.0199 E=-112.598081 eV (0.2 s)
+[NequIP-OAM-L_hcp] steps=10 converged=True fmax=0.0171 E=-112.590015 eV (0.1 s)
+[NequIP-OAM-L_hcp_free] steps=10 converged=True fmax=0.0171 E=-112.590015 eV (0.1 s)
+wall time 25.9 s

@@ -1,0 +1,5 @@
+method,start_site,E_constrained,E_free,dE_free_minus_constrained,lateral_drift_free_A,height_free_A,d_AuHg_min_free_A,converged_free,n_steps_free
+GRACE-2L-SMAX-OMAT-L,ontop,-110.087554,-110.087554,0.000000,0.000000,2.830500,2.843491,True,18
+GRACE-2L-SMAX-OMAT-L,bridge,-110.171941,-110.171942,-0.000001,0.001105,2.492690,2.923434,True,11
+GRACE-2L-SMAX-OMAT-L,fcc,-110.197164,-110.197164,0.000000,0.000000,2.409482,2.969511,True,12
+GRACE-2L-SMAX-OMAT-L,hcp,-110.199064,-110.199064,0.000000,0.000000,2.414403,2.976736,True,13

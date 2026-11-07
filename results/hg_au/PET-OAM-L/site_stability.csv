@@ -1,0 +1,5 @@
+method,start_site,E_constrained,E_free,dE_free_minus_constrained,lateral_drift_free_A,height_free_A,d_AuHg_min_free_A,converged_free,n_steps_free
+PET-OAM-L,ontop,-110.159393,-110.159401,-0.000008,0.004023,2.811472,2.822559,True,19
+PET-OAM-L,bridge,-110.251167,-110.251175,-0.000008,0.003086,2.464275,2.900450,True,13
+PET-OAM-L,fcc,-110.272835,-110.272835,0.000000,0.002099,2.390448,2.954598,True,12
+PET-OAM-L,hcp,-110.278381,-110.278389,-0.000008,0.003488,2.379755,2.953117,True,15

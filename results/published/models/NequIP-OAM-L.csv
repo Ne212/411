@@ -1,0 +1,87 @@
+model,system,metal,facet,overlayer,coverage_ML,n_Hg_our_cell,site_kind,a0_metal_A,E_ads_ref_eV,d_MHg_ref_A,in_main_MAE,Ni_flag,mode,E_ads_A_eV,E_ads_D_eV,d_MHg_A,converged,n_steps
+NequIP-OAM-L,S08-Ag111-0.083,Ag,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,4.15938,-0.34000,3.00000,True,False,source,-0.33631,-0.33882,3.00000,True,0
+NequIP-OAM-L,S08-Ag111-0.083,Ag,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,4.15938,-0.34000,3.00000,True,False,relaxed,-0.33913,-0.34164,3.01662,True,2
+NequIP-OAM-L,S08-Au111-0.083,Au,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,4.17341,-0.36000,2.99000,True,False,source,-0.32624,-0.32874,2.99000,True,0
+NequIP-OAM-L,S08-Au111-0.083,Au,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,4.17341,-0.36000,2.99000,True,False,relaxed,-0.34236,-0.34487,2.99765,True,11
+NequIP-OAM-L,S08-Cu111-0.083,Cu,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.63062,-0.52000,2.75000,True,False,source,-0.50510,-0.50761,2.75000,True,0
+NequIP-OAM-L,S08-Cu111-0.083,Cu,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.63062,-0.52000,2.75000,True,False,relaxed,-0.51307,-0.51557,2.78598,True,5
+NequIP-OAM-L,S08-Ni111-0.083,Ni,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.51503,-0.67000,2.72000,True,True,source,-0.59815,-0.60065,2.72000,True,0
+NequIP-OAM-L,S08-Ni111-0.083,Ni,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.51503,-0.67000,2.72000,True,True,relaxed,-0.60361,-0.60611,2.73238,True,8
+NequIP-OAM-L,S08-Pd111-0.083,Pd,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.94230,-0.84000,2.81000,True,False,source,-0.81018,-0.81268,2.81000,True,0
+NequIP-OAM-L,S08-Pd111-0.083,Pd,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.94230,-0.84000,2.81000,True,False,relaxed,-0.82678,-0.82928,2.80911,True,6
+NequIP-OAM-L,S08-Pt111-0.083,Pt,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.97498,-0.75000,2.86000,True,False,source,-0.66182,-0.66433,2.86000,True,0
+NequIP-OAM-L,S08-Pt111-0.083,Pt,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.97498,-0.75000,2.86000,True,False,relaxed,-0.70114,-0.70364,2.84062,True,9
+NequIP-OAM-L,S08-Ag111-0.25,Ag,(111),p(2x2),0.25000,1,fcc hollow,4.15938,-0.36000,3.01000,True,False,source,-0.34125,-0.34375,3.01000,True,0
+NequIP-OAM-L,S08-Ag111-0.25,Ag,(111),p(2x2),0.25000,1,fcc hollow,4.15938,-0.36000,3.01000,True,False,relaxed,-0.34284,-0.34535,3.01984,True,2
+NequIP-OAM-L,S08-Au111-0.25,Au,(111),p(2x2),0.25000,1,fcc hollow,4.17341,-0.38000,3.01000,True,False,source,-0.32986,-0.33237,3.01000,True,0
+NequIP-OAM-L,S08-Au111-0.25,Au,(111),p(2x2),0.25000,1,fcc hollow,4.17341,-0.38000,3.01000,True,False,relaxed,-0.33497,-0.33748,3.01921,True,4
+NequIP-OAM-L,S08-Cu111-0.25,Cu,(111),p(2x2),0.25000,1,fcc hollow,3.63062,-0.53000,2.78000,True,False,source,-0.51101,-0.51352,2.78000,True,0
+NequIP-OAM-L,S08-Cu111-0.25,Cu,(111),p(2x2),0.25000,1,fcc hollow,3.63062,-0.53000,2.78000,True,False,relaxed,-0.51368,-0.51619,2.79080,True,4
+NequIP-OAM-L,S08-Ni111-0.25,Ni,(111),p(2x2),0.25000,1,fcc hollow,3.51503,-0.64000,2.74000,True,True,source,-0.59910,-0.60160,2.74000,True,0
+NequIP-OAM-L,S08-Ni111-0.25,Ni,(111),p(2x2),0.25000,1,fcc hollow,3.51503,-0.64000,2.74000,True,True,relaxed,-0.59749,-0.60000,2.73478,True,5
+NequIP-OAM-L,S08-Pd111-0.25,Pd,(111),p(2x2),0.25000,1,fcc hollow,3.94230,-0.81000,2.83000,True,False,source,-0.80413,-0.80664,2.83000,True,0
+NequIP-OAM-L,S08-Pd111-0.25,Pd,(111),p(2x2),0.25000,1,fcc hollow,3.94230,-0.81000,2.83000,True,False,relaxed,-0.81077,-0.81327,2.81173,True,6
+NequIP-OAM-L,S08-Pt111-0.25,Pt,(111),p(2x2),0.25000,1,fcc hollow,3.97498,-0.68000,2.88000,True,False,source,-0.66798,-0.67048,2.88000,True,0
+NequIP-OAM-L,S08-Pt111-0.25,Pt,(111),p(2x2),0.25000,1,fcc hollow,3.97498,-0.68000,2.88000,True,False,relaxed,-0.68151,-0.68402,2.84560,True,6
+NequIP-OAM-L,S08-Ag111-0.333,Ag,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,4.15938,-0.31000,3.06000,True,False,source,-0.34123,-0.34374,3.06000,True,0
+NequIP-OAM-L,S08-Ag111-0.333,Ag,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,4.15938,-0.31000,3.06000,True,False,relaxed,-0.34548,-0.34798,3.00976,True,4
+NequIP-OAM-L,S08-Au111-0.333,Au,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,4.17341,-0.32000,3.05000,True,False,source,-0.32524,-0.32775,3.05000,True,0
+NequIP-OAM-L,S08-Au111-0.333,Au,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,4.17341,-0.32000,3.05000,True,False,relaxed,-0.33162,-0.33413,3.00728,True,9
+NequIP-OAM-L,S08-Cu111-0.333,Cu,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.63062,-0.48000,2.82000,True,False,source,-0.51492,-0.51743,2.82000,True,0
+NequIP-OAM-L,S08-Cu111-0.333,Cu,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.63062,-0.48000,2.82000,True,False,relaxed,-0.51807,-0.52058,2.79424,True,5
+NequIP-OAM-L,S08-Ni111-0.333,Ni,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.51503,-0.61000,2.76000,True,True,source,-0.62532,-0.62783,2.76000,True,0
+NequIP-OAM-L,S08-Ni111-0.333,Ni,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.51503,-0.61000,2.76000,True,True,relaxed,-0.62521,-0.62772,2.73313,True,5
+NequIP-OAM-L,S08-Pd111-0.333,Pd,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.94230,-0.80000,2.83000,True,False,source,-0.80462,-0.80713,2.83000,True,0
+NequIP-OAM-L,S08-Pd111-0.333,Pd,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.94230,-0.80000,2.83000,True,False,relaxed,-0.81065,-0.81315,2.80851,True,5
+NequIP-OAM-L,S08-Pt111-0.333,Pt,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.97498,-0.67000,2.89000,True,False,source,-0.67496,-0.67747,2.89000,True,0
+NequIP-OAM-L,S08-Pt111-0.333,Pt,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.97498,-0.67000,2.89000,True,False,relaxed,-0.68780,-0.69031,2.84340,True,5
+NequIP-OAM-L,S08-Ag111-0.5,Ag,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,4.15938,-0.37000,3.09000,False,False,source,-0.34753,-0.35003,3.09000,True,0
+NequIP-OAM-L,S08-Ag111-0.5,Ag,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,4.15938,-0.37000,3.09000,False,False,relaxed,-0.34757,-0.35007,3.07587,True,2
+NequIP-OAM-L,S08-Au111-0.5,Au,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,4.17341,-0.35000,3.11000,False,False,source,-0.31483,-0.31734,3.11000,True,0
+NequIP-OAM-L,S08-Au111-0.5,Au,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,4.17341,-0.35000,3.11000,False,False,relaxed,-0.31544,-0.31795,3.11436,True,4
+NequIP-OAM-L,S08-Cu111-0.5,Cu,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.63062,-0.51000,2.87000,False,False,source,-0.48598,-0.48849,2.87000,True,0
+NequIP-OAM-L,S08-Cu111-0.5,Cu,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.63062,-0.51000,2.87000,False,False,relaxed,-0.48648,-0.48898,2.87078,True,2
+NequIP-OAM-L,S08-Ni111-0.5,Ni,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.51503,-0.61000,2.75000,False,True,source,-0.59092,-0.59342,2.75000,True,0
+NequIP-OAM-L,S08-Ni111-0.5,Ni,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.51503,-0.61000,2.75000,False,True,relaxed,-0.59087,-0.59338,2.78914,True,12
+NequIP-OAM-L,S08-Pd111-0.5,Pd,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.94230,-0.81000,2.85000,False,False,source,-0.81257,-0.81508,2.85000,True,0
+NequIP-OAM-L,S08-Pd111-0.5,Pd,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.94230,-0.81000,2.85000,False,False,relaxed,-0.81596,-0.81846,2.84339,True,10
+NequIP-OAM-L,S08-Pt111-0.5,Pt,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.97498,-0.69000,2.92000,False,False,source,-0.68750,-0.69000,2.92000,True,0
+NequIP-OAM-L,S08-Pt111-0.5,Pt,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.97498,-0.69000,2.92000,False,False,relaxed,-0.69366,-0.69617,2.90302,True,8
+NequIP-OAM-L,S08-Ag001-0.125,Ag,(001),c(4x4),0.12500,2,4-fold hollow,4.15938,-0.50000,3.01000,False,False,source,-0.41276,-0.41527,3.01000,True,0
+NequIP-OAM-L,S08-Ag001-0.125,Ag,(001),c(4x4),0.12500,2,4-fold hollow,4.15938,-0.50000,3.01000,False,False,relaxed,-0.41859,-0.42110,3.02113,True,9
+NequIP-OAM-L,S08-Au001-0.125,Au,(001),c(4x4),0.12500,2,4-fold hollow,4.17341,-0.61000,2.94000,False,False,source,-0.46051,-0.46301,2.94000,True,0
+NequIP-OAM-L,S08-Au001-0.125,Au,(001),c(4x4),0.12500,2,4-fold hollow,4.17341,-0.61000,2.94000,False,False,relaxed,-0.49862,-0.50113,2.93872,True,17
+NequIP-OAM-L,S08-Cu001-0.125,Cu,(001),c(4x4),0.12500,2,4-fold hollow,3.63062,-0.67000,2.78000,False,False,source,-0.59746,-0.59997,2.78000,True,0
+NequIP-OAM-L,S08-Cu001-0.125,Cu,(001),c(4x4),0.12500,2,4-fold hollow,3.63062,-0.67000,2.78000,False,False,relaxed,-0.60368,-0.60619,2.81031,True,8
+NequIP-OAM-L,S08-Ni001-0.125,Ni,(001),c(4x4),0.12500,2,4-fold hollow,3.51503,-0.82000,2.73000,False,True,source,-0.81018,-0.81269,2.73000,True,0
+NequIP-OAM-L,S08-Ni001-0.125,Ni,(001),c(4x4),0.12500,2,4-fold hollow,3.51503,-0.82000,2.73000,False,True,relaxed,-0.81016,-0.81266,2.73507,True,6
+NequIP-OAM-L,S08-Pd001-0.125,Pd,(001),c(4x4),0.12500,2,4-fold hollow,3.94230,-1.10000,2.83000,False,False,source,-1.12584,-1.12834,2.83000,True,0
+NequIP-OAM-L,S08-Pd001-0.125,Pd,(001),c(4x4),0.12500,2,4-fold hollow,3.94230,-1.10000,2.83000,False,False,relaxed,-1.15715,-1.15965,2.80566,True,9
+NequIP-OAM-L,S08-Pt001-0.125,Pt,(001),c(4x4),0.12500,2,4-fold hollow,3.97498,-1.09000,2.83000,False,False,source,-1.07621,-1.07871,2.83000,True,0
+NequIP-OAM-L,S08-Pt001-0.125,Pt,(001),c(4x4),0.12500,2,4-fold hollow,3.97498,-1.09000,2.83000,False,False,relaxed,-1.12107,-1.12358,2.81892,True,10
+NequIP-OAM-L,S08-Ag001-0.5,Ag,(001),c(2x2),0.50000,2,4-fold hollow,4.15938,-0.51000,3.02000,True,False,source,-0.39800,-0.40051,3.02000,True,0
+NequIP-OAM-L,S08-Ag001-0.5,Ag,(001),c(2x2),0.50000,2,4-fold hollow,4.15938,-0.51000,3.02000,True,False,relaxed,-0.39685,-0.39936,3.02424,True,4
+NequIP-OAM-L,S08-Au001-0.5,Au,(001),c(2x2),0.50000,2,4-fold hollow,4.17341,-0.51000,3.00000,True,False,source,-0.40805,-0.41056,3.00000,True,0
+NequIP-OAM-L,S08-Au001-0.5,Au,(001),c(2x2),0.50000,2,4-fold hollow,4.17341,-0.51000,3.00000,True,False,relaxed,-0.40574,-0.40825,3.00878,True,11
+NequIP-OAM-L,S08-Cu001-0.5,Cu,(001),c(2x2),0.50000,2,4-fold hollow,3.63062,-0.71000,2.80000,True,False,source,-0.61008,-0.61258,2.80000,True,0
+NequIP-OAM-L,S08-Cu001-0.5,Cu,(001),c(2x2),0.50000,2,4-fold hollow,3.63062,-0.71000,2.80000,True,False,relaxed,-0.60886,-0.61136,2.83396,True,9
+NequIP-OAM-L,S08-Ni001-0.5,Ni,(001),c(2x2),0.50000,2,4-fold hollow,3.51503,-0.81000,2.77000,True,True,source,-0.86029,-0.86280,2.77000,True,0
+NequIP-OAM-L,S08-Ni001-0.5,Ni,(001),c(2x2),0.50000,2,4-fold hollow,3.51503,-0.81000,2.77000,True,True,relaxed,-0.85383,-0.85634,2.73887,True,4
+NequIP-OAM-L,S08-Pd001-0.5,Pd,(001),c(2x2),0.50000,2,4-fold hollow,3.94230,-1.08000,2.83000,True,False,source,-1.09452,-1.09703,2.83000,True,0
+NequIP-OAM-L,S08-Pd001-0.5,Pd,(001),c(2x2),0.50000,2,4-fold hollow,3.94230,-1.08000,2.83000,True,False,relaxed,-1.10194,-1.10444,2.82080,True,11
+NequIP-OAM-L,S08-Pt001-0.5,Pt,(001),c(2x2),0.50000,2,4-fold hollow,3.97498,-0.97000,2.85000,True,False,source,-1.03944,-1.04195,2.85000,True,0
+NequIP-OAM-L,S08-Pt001-0.5,Pt,(001),c(2x2),0.50000,2,4-fold hollow,3.97498,-0.97000,2.85000,True,False,relaxed,-1.03069,-1.03319,2.83463,True,10
+NequIP-OAM-L,S08-Ag001-1,Ag,(001),c(1x1),1.00000,4,4-fold hollow,4.15938,-0.30000,3.30000,True,False,source,-0.32293,-0.32544,3.30000,True,0
+NequIP-OAM-L,S08-Ag001-1,Ag,(001),c(1x1),1.00000,4,4-fold hollow,4.15938,-0.30000,3.30000,True,False,relaxed,-0.32677,-0.32928,3.22204,True,7
+NequIP-OAM-L,S08-Au001-1,Au,(001),c(1x1),1.00000,4,4-fold hollow,4.17341,-0.35000,3.39000,True,False,source,-0.32998,-0.33248,3.39000,True,0
+NequIP-OAM-L,S08-Au001-1,Au,(001),c(1x1),1.00000,4,4-fold hollow,4.17341,-0.35000,3.39000,True,False,relaxed,-0.33960,-0.34211,3.25981,True,13
+NequIP-OAM-L,S08-Cu001-1,Cu,(001),c(1x1),1.00000,4,4-fold hollow,3.63062,0.27000,3.14000,True,False,source,0.29588,0.29337,3.14000,True,0
+NequIP-OAM-L,S08-Cu001-1,Cu,(001),c(1x1),1.00000,4,4-fold hollow,3.63062,0.27000,3.14000,True,False,relaxed,0.29639,0.29389,3.10077,True,6
+NequIP-OAM-L,S08-Ni001-1,Ni,(001),c(1x1),1.00000,4,4-fold hollow,3.51503,0.55000,2.99000,True,True,source,0.59539,0.59288,2.99000,True,0
+NequIP-OAM-L,S08-Ni001-1,Ni,(001),c(1x1),1.00000,4,4-fold hollow,3.51503,0.55000,2.99000,True,True,relaxed,0.60013,0.59763,2.98240,True,2
+NequIP-OAM-L,S08-Pd001-1,Pd,(001),c(1x1),1.00000,4,4-fold hollow,3.94230,-0.67000,2.95000,True,False,source,-0.68710,-0.68961,2.95000,True,0
+NequIP-OAM-L,S08-Pd001-1,Pd,(001),c(1x1),1.00000,4,4-fold hollow,3.94230,-0.67000,2.95000,True,False,relaxed,-0.69106,-0.69356,2.93938,True,11
+NequIP-OAM-L,S08-Pt001-1,Pt,(001),c(1x1),1.00000,4,4-fold hollow,3.97498,-0.58000,3.05000,True,False,source,-0.63243,-0.63494,3.05000,True,0
+NequIP-OAM-L,S08-Pt001-1,Pt,(001),c(1x1),1.00000,4,4-fold hollow,3.97498,-0.58000,3.05000,True,False,relaxed,-0.62827,-0.63078,3.02448,True,12
+NequIP-OAM-L,S08-Au001-0.125-bridge,Au,(001),c(4x4),0.12500,2,bridge,4.17341,-0.47000,,False,False,relaxed,-0.37557,-0.37807,2.92999,True,14
+NequIP-OAM-L,S08-Au001-0.125-top,Au,(001),c(4x4),0.12500,2,top,4.17341,-0.36000,,False,False,relaxed,-0.29490,-0.29741,2.84750,True,21

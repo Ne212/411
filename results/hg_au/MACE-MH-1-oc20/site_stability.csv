@@ -1,0 +1,5 @@
+method,start_site,E_constrained,E_free,dE_free_minus_constrained,lateral_drift_free_A,height_free_A,d_AuHg_min_free_A,converged_free,n_steps_free
+MACE-MH-1-oc20,ontop,-90.646811,-90.646811,0.000000,0.000000,3.110585,3.016443,True,24
+MACE-MH-1-oc20,bridge,-90.660464,-90.660463,0.000001,0.000688,2.692062,3.072834,True,17
+MACE-MH-1-oc20,fcc,-90.669728,-90.669728,0.000000,0.000000,2.546199,3.093990,True,7
+MACE-MH-1-oc20,hcp,-90.669764,-90.669764,0.000000,0.000000,2.589497,3.115330,True,14

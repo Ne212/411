@@ -1,0 +1,39 @@
+{
+ "model": "NequIP-OAM-L",
+ "ok": true,
+ "info": {
+  "model": "NequIP-OAM-L",
+  "nequip_id": "nequip.net:mir-group/NequIP-OAM-L:0.1",
+  "compiled": "/home/ne212/START/work/survey/models/NequIP-OAM-L.nequip.pt2",
+  "package": "nequip 0.19.1 / nequip-allegro 0.8.3",
+  "device": "cuda"
+ },
+ "t_load_s": 24.3,
+ "E_Au_bulk_a4.08_per_atom": -3.2339542448297607,
+ "E_Hg_atom_15A": -0.1235,
+ "E_Au_atom_15A": -0.2872,
+ "sum_forces_rattled_Au32": 6.938893903907228e-16,
+ "stress_analytic_eVA3": [
+  -0.037176364110066557,
+  -0.03703477965161072,
+  -0.036486458331288864,
+  5.698832782399239e-09,
+  -1.5601106807179947e-08,
+  0.0044917699004938605
+ ],
+ "stress_numeric_eVA3": [
+  -0.037101363146773335,
+  -0.03736267655395991,
+  -0.03638529824586326,
+  0.0003452675784829076,
+  -2.5400283525188733e-13,
+  0.004828041269757783
+ ],
+ "stress_max_abs_diff_eVA3": 0.0003452618796501252,
+ "t_single_point_37atoms_s": 0.009,
+ "E_slab_Hg_37": -112.26661084254687,
+ "torch": "2.11.0+cu130",
+ "cuda": true,
+ "gpu_mem_peak_MB": 336.7,
+ "t_total_s": 24.6
+}

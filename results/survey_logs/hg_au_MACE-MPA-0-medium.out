@@ -1,0 +1,23 @@
+cuequivariance or cuequivariance_torch is not available. Cuequivariance acceleration will be disabled.
+Using medium MPA-0 model as default MACE-MP model, to use previous (before 3.10) default model please specify 'medium' as model argument
+Using Materials Project MACE for MACECalculator with /home/ne212/.cache/mace/macempa0mediummodel
+Using float64 for MACECalculator, which is slower but more accurate. Recommended for geometry optimization.
+
+===== MACE-MPA-0-medium
+Au bulk a0 = 4.1665 A, B0 = 135.5 GPa
+[MACE-MPA-0-medium_slab] steps=2 converged=True fmax=0.0095 E=-112.090646 eV (0.6 s)
+[MACE-MPA-0-medium_far] steps=0 converged=True fmax=0.0095 E=-112.215193 eV (0.1 s)
+E(Hg atom)=-0.12455  E(far)-E(slab)=-0.12455  E_coh(Hg, model)=0.1680 eV
+[MACE-MPA-0-medium_ontop] steps=21 converged=True fmax=0.0196 E=-112.452647 eV (1.5 s)
+[MACE-MPA-0-medium_ontop_free] steps=21 converged=True fmax=0.0196 E=-112.452647 eV (1.5 s)
+  ontop  E_ads(A)=-0.2375 E_ads(B)=-0.2375 E_ads(C)=-0.7395  h=2.946 d=2.914 drift=0.000
+[MACE-MPA-0-medium_bridge] steps=8 converged=True fmax=0.0198 E=-112.573897 eV (0.6 s)
+[MACE-MPA-0-medium_bridge_free] steps=9 converged=True fmax=0.0183 E=-112.574023 eV (0.7 s)
+  bridge E_ads(A)=-0.3587 E_ads(B)=-0.3587 E_ads(C)=-0.8607  h=2.516 d=2.943 drift=0.000
+[MACE-MPA-0-medium_fcc] steps=7 converged=True fmax=0.0176 E=-112.599480 eV (0.6 s)
+[MACE-MPA-0-medium_fcc_free] steps=7 converged=True fmax=0.0176 E=-112.599480 eV (0.5 s)
+  fcc    E_ads(A)=-0.3843 E_ads(B)=-0.3843 E_ads(C)=-0.8863  h=2.509 d=3.049 drift=0.000
+[MACE-MPA-0-medium_hcp] steps=9 converged=True fmax=0.0174 E=-112.592701 eV (0.7 s)
+[MACE-MPA-0-medium_hcp_free] steps=9 converged=True fmax=0.0174 E=-112.592701 eV (0.7 s)
+  hcp    E_ads(A)=-0.3775 E_ads(B)=-0.3775 E_ads(C)=-0.8795  h=2.516 d=3.053 drift=0.000
+done MACE-MPA-0-medium (17 s)

@@ -1,0 +1,9 @@
+model,rule,training_group,architecture,fine_tune,MAE_D_Steckel_main
+CHGNet-0.3.0,R1 context,MPtrj,"invariant GNN, 3-body",Python API,0.16
+MACE-MP-0-medium,R1 context,MPtrj,MACE (equivariant ACE message passing),documented CLI,0.219
+ALIGNN-FF-mptrj,R1 context,MPtrj,"invariant GNN, 3-body",continue-training only,0.514
+UMA-s-1p2p1-omat,R2 user decision,OMat24 multi-domain,eSEN + mixture of linear experts,documented CLI,0.041
+NequIP-OAM-L,"R3+R4 new architecture, lowest MAE_D in group 'OMat24->sAlex+MPtrj / MPtrj+sAlex'",OMat24->sAlex+MPtrj / MPtrj+sAlex,NequIP-type (e3nn),documented CLI,0.034
+DPA4-Plus-OMat24,"R3+R4 new architecture, lowest MAE_D in group 'OMat24 only'",OMat24 only,DeePMD DPA,documented CLI,0.049
+M3GNet-MatPES-PBE,"R3 no new architecture available, lowest MAE_D in group 'MatPES-PBE'",MatPES-PBE,"invariant GNN, 3-body",documented CLI,0.077
+UMA-s-1p2p1-oc20,R3+R4b OC20 head of a network in the subset in group 'OC20 head',OC20 head,eSEN + mixture of linear experts,documented CLI,0.251

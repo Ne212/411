@@ -1,0 +1,42 @@
+{
+ "settings": {
+  "layers": 4,
+  "vacuum": 12.0,
+  "fmax": 0.02,
+  "max_steps": 1000,
+  "atom_box": 15.0,
+  "start_height_top_bridge": 2.6,
+  "eos": {
+   "points": 11,
+   "rel_range": 0.03
+  },
+  "a_guess": {
+   "Ag": 4.09,
+   "Au": 4.08,
+   "Cu": 3.61,
+   "Ni": 3.52,
+   "Pd": 3.89,
+   "Pt": 3.92
+  }
+ },
+ "info": {
+  "model": "SevenNet-Omni-mpa",
+  "sevenn_model": "7net-omni",
+  "modal": "mpa",
+  "package": "sevenn 0.13.0",
+  "device": "cuda",
+  "dtype": "float32"
+ },
+ "a0": {
+  "Ag": 4.158272839008609,
+  "Au": 4.1677682274485095,
+  "Cu": 3.6222336171476823,
+  "Ni": 3.518472828384559,
+  "Pd": 3.94894393575313,
+  "Pt": 3.972509387446497
+ },
+ "E_Hg_atom": -0.011155366897583008,
+ "E_ref_D": -0.13188899999999998,
+ "Ecoh_PBE": 0.169184,
+ "wall_s": 62.960832357406616
+}

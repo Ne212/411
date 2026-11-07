@@ -1,0 +1,40 @@
+{
+ "model": "UMA-s-1p2p1-omat",
+ "ok": true,
+ "info": {
+  "model": "UMA-s-1p2p1-omat",
+  "checkpoint": "uma-s-1p2p1",
+  "task": "omat",
+  "inference_settings": "batch (fp32, no compile)",
+  "package": "fairchem-core 2.25.0",
+  "device": "cuda"
+ },
+ "t_load_s": 11.9,
+ "E_Au_bulk_a4.08_per_atom": -3.1888890380562795,
+ "E_Hg_atom_15A": -0.011041658674397437,
+ "E_Au_atom_15A": -0.18588619668489237,
+ "sum_forces_rattled_Au32": 5.662441253662109e-07,
+ "stress_analytic_eVA3": [
+  -0.02852107963173624,
+  -0.028345754796335068,
+  -0.027998934487306955,
+  2.0275382191252182e-08,
+  -1.4033557830214044e-08,
+  0.004754721242297677
+ ],
+ "stress_numeric_eVA3": [
+  -0.028534351419537918,
+  -0.02816262422397324,
+  -0.0279767606261909,
+  0.0001343936783964608,
+  4.575103945411431e-05,
+  0.004984003860532577
+ ],
+ "stress_max_abs_diff_eVA3": 0.0002292826182349007,
+ "t_single_point_37atoms_s": 0.0474,
+ "E_slab_Hg_37": -110.29091562842041,
+ "torch": "2.13.0+cu130",
+ "cuda": true,
+ "gpu_mem_peak_MB": 1282.5,
+ "t_total_s": 15.1
+}

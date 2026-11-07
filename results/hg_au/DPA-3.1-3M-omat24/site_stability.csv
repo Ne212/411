@@ -1,0 +1,5 @@
+method,start_site,E_constrained,E_free,dE_free_minus_constrained,lateral_drift_free_A,height_free_A,d_AuHg_min_free_A,converged_free,n_steps_free
+DPA-3.1-3M-omat24,ontop,-110.817429,-110.817429,0.000000,0.000000,2.903187,2.880150,True,19
+DPA-3.1-3M-omat24,bridge,-110.860053,-110.860066,-0.000012,0.004029,2.552861,2.953843,True,13
+DPA-3.1-3M-omat24,fcc,-110.885209,-110.885208,0.000001,0.000000,2.423251,2.975787,True,11
+DPA-3.1-3M-omat24,hcp,-110.879310,-110.879311,-0.000001,0.000000,2.443390,2.990051,True,10

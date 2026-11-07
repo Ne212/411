@@ -1,0 +1,20 @@
+Converting model backend...
+
+===== SevenNet-Omni-omat24
+Au bulk a0 = 4.1539 A, B0 = 137.7 GPa
+[SevenNet-Omni-omat24_slab] steps=2 converged=True fmax=0.0182 E=-110.148697 eV (0.2 s)
+[SevenNet-Omni-omat24_far] steps=0 converged=True fmax=0.0182 E=-110.039833 eV (0.1 s)
+E(Hg atom)=0.10887  E(far)-E(slab)=0.10886  E_coh(Hg, model)=0.2938 eV
+[SevenNet-Omni-omat24_ontop] steps=22 converged=True fmax=0.0145 E=-110.394295 eV (1.8 s)
+[SevenNet-Omni-omat24_ontop_free] steps=22 converged=True fmax=0.0145 E=-110.394295 eV (1.6 s)
+  ontop  E_ads(A)=-0.3545 E_ads(B)=-0.3545 E_ads(C)=-0.7307  h=2.939 d=2.900 drift=0.000
+[SevenNet-Omni-omat24_bridge] steps=7 converged=True fmax=0.0184 E=-110.458443 eV (0.5 s)
+[SevenNet-Omni-omat24_bridge_free] steps=7 converged=True fmax=0.0183 E=-110.458458 eV (0.7 s)
+  bridge E_ads(A)=-0.4186 E_ads(B)=-0.4186 E_ads(C)=-0.7949  h=2.537 d=2.957 drift=0.000
+[SevenNet-Omni-omat24_fcc] steps=10 converged=True fmax=0.0193 E=-110.487015 eV (0.8 s)
+[SevenNet-Omni-omat24_fcc_free] steps=10 converged=True fmax=0.0193 E=-110.487015 eV (0.8 s)
+  fcc    E_ads(A)=-0.4472 E_ads(B)=-0.4472 E_ads(C)=-0.8234  h=2.468 d=3.007 drift=0.000
+[SevenNet-Omni-omat24_hcp] steps=12 converged=True fmax=0.0162 E=-110.478928 eV (0.9 s)
+[SevenNet-Omni-omat24_hcp_free] steps=12 converged=True fmax=0.0162 E=-110.478928 eV (0.9 s)
+  hcp    E_ads(A)=-0.4391 E_ads(B)=-0.4391 E_ads(C)=-0.8153  h=2.472 d=3.010 drift=0.000
+done SevenNet-Omni-omat24 (19 s)

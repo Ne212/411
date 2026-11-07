@@ -1,0 +1,24 @@
+{
+ "model": "MACE-MH-1-oc20",
+ "ok": true,
+ "info": {
+  "model": "MACE-MH-1-oc20",
+  "mace_name": "mh-1",
+  "head": "oc20_usemppbe",
+  "package": "mace-torch 0.3.17",
+  "device": "cuda",
+  "dtype": "float64",
+  "dispersion": false
+ },
+ "t_load_s": 5.8,
+ "E_Au_bulk_a4.08_per_atom": -2.5868591676102484,
+ "E_Hg_atom_15A": 0.017904255524624796,
+ "E_Au_atom_15A": -0.6854721302463582,
+ "sum_forces_rattled_Au32": 1.0547118733938987e-15,
+ "t_single_point_37atoms_s": 0.391,
+ "E_slab_Hg_37": -89.88842536287103,
+ "torch": "2.11.0+cu130",
+ "cuda": true,
+ "gpu_mem_peak_MB": 551.6,
+ "t_total_s": 7.6
+}

@@ -1,0 +1,2 @@
+method,a0_A,a_brent_A,B0_GPa,E_slab,slab_converged,E_Hg_atom,E_far,far_converged,far_height_A,far_dmin_AuHg_A,E_far_minus_slab,E_Hg_bulk_per_atom,Hg_bulk_converged,Hg_bulk_a_A,Hg_bulk_alpha_deg,Hg_bulk_V_per_atom,Ecoh_Hg_model,Ecoh_Hg_exp,Ecoh_Hg_PBE,atom_error_vs_PBE,model,wall_time_s
+GRACE-2L-SMAX-OMAT-L,4.156905,4.156995,134.911690,-109.888109,True,-0.117066,-110.005175,True,10.000000,10.142977,-0.117066,-0.181921,True,3.506427,60.742849,30.995500,0.064855,0.670000,0.169184,-0.104329,GRACE-2L-SMAX-OMAT-L,23.617568

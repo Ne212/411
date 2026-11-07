@@ -1,0 +1,87 @@
+model,system,metal,facet,overlayer,coverage_ML,n_Hg_our_cell,site_kind,a0_metal_A,E_ads_ref_eV,d_MHg_ref_A,in_main_MAE,Ni_flag,mode,E_ads_A_eV,E_ads_D_eV,d_MHg_A,converged,n_steps
+PET-OAM-L,S08-Ag111-0.083,Ag,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,4.14633,-0.34000,3.00000,True,False,source,-0.24105,-0.32566,3.00000,True,0
+PET-OAM-L,S08-Ag111-0.083,Ag,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,4.14633,-0.34000,3.00000,True,False,relaxed,-0.24731,-0.33191,2.98167,True,7
+PET-OAM-L,S08-Au111-0.083,Au,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,4.15636,-0.36000,2.99000,True,False,source,-0.27868,-0.36328,2.99000,True,0
+PET-OAM-L,S08-Au111-0.083,Au,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,4.15636,-0.36000,2.99000,True,False,relaxed,-0.29595,-0.38056,2.95283,True,12
+PET-OAM-L,S08-Cu111-0.083,Cu,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.61627,-0.52000,2.75000,True,False,source,-0.46729,-0.55190,2.75000,True,0
+PET-OAM-L,S08-Cu111-0.083,Cu,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.61627,-0.52000,2.75000,True,False,relaxed,-0.47256,-0.55716,2.74386,True,5
+PET-OAM-L,S08-Ni111-0.083,Ni,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.50602,-0.67000,2.72000,True,True,source,-0.64272,-0.72733,2.72000,True,0
+PET-OAM-L,S08-Ni111-0.083,Ni,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.50602,-0.67000,2.72000,True,True,relaxed,-0.64158,-0.72618,2.71466,True,6
+PET-OAM-L,S08-Pd111-0.083,Pd,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.94173,-0.84000,2.81000,True,False,source,-0.73042,-0.81502,2.81000,True,0
+PET-OAM-L,S08-Pd111-0.083,Pd,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.94173,-0.84000,2.81000,True,False,relaxed,-0.73998,-0.82459,2.82311,True,6
+PET-OAM-L,S08-Pt111-0.083,Pt,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.96709,-0.75000,2.86000,True,False,source,-0.71024,-0.79485,2.86000,True,0
+PET-OAM-L,S08-Pt111-0.083,Pt,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.96709,-0.75000,2.86000,True,False,relaxed,-0.73289,-0.81749,2.84810,True,8
+PET-OAM-L,S08-Ag111-0.25,Ag,(111),p(2x2),0.25000,1,fcc hollow,4.14633,-0.36000,3.01000,True,False,source,-0.27979,-0.36440,3.01000,True,0
+PET-OAM-L,S08-Ag111-0.25,Ag,(111),p(2x2),0.25000,1,fcc hollow,4.14633,-0.36000,3.01000,True,False,relaxed,-0.28378,-0.36839,2.98683,True,4
+PET-OAM-L,S08-Au111-0.25,Au,(111),p(2x2),0.25000,1,fcc hollow,4.15636,-0.38000,3.01000,True,False,source,-0.28196,-0.36656,3.01000,True,0
+PET-OAM-L,S08-Au111-0.25,Au,(111),p(2x2),0.25000,1,fcc hollow,4.15636,-0.38000,3.01000,True,False,relaxed,-0.29013,-0.37473,2.97603,True,5
+PET-OAM-L,S08-Cu111-0.25,Cu,(111),p(2x2),0.25000,1,fcc hollow,3.61627,-0.53000,2.78000,True,False,source,-0.49176,-0.57636,2.78000,True,0
+PET-OAM-L,S08-Cu111-0.25,Cu,(111),p(2x2),0.25000,1,fcc hollow,3.61627,-0.53000,2.78000,True,False,relaxed,-0.49414,-0.57875,2.75092,True,4
+PET-OAM-L,S08-Ni111-0.25,Ni,(111),p(2x2),0.25000,1,fcc hollow,3.50602,-0.64000,2.74000,True,True,source,-0.64267,-0.72727,2.74000,True,0
+PET-OAM-L,S08-Ni111-0.25,Ni,(111),p(2x2),0.25000,1,fcc hollow,3.50602,-0.64000,2.74000,True,True,relaxed,-0.63770,-0.72230,2.71481,True,5
+PET-OAM-L,S08-Pd111-0.25,Pd,(111),p(2x2),0.25000,1,fcc hollow,3.94173,-0.81000,2.83000,True,False,source,-0.73946,-0.82407,2.83000,True,0
+PET-OAM-L,S08-Pd111-0.25,Pd,(111),p(2x2),0.25000,1,fcc hollow,3.94173,-0.81000,2.83000,True,False,relaxed,-0.74164,-0.82624,2.82231,True,5
+PET-OAM-L,S08-Pt111-0.25,Pt,(111),p(2x2),0.25000,1,fcc hollow,3.96709,-0.68000,2.88000,True,False,source,-0.69175,-0.77635,2.88000,True,0
+PET-OAM-L,S08-Pt111-0.25,Pt,(111),p(2x2),0.25000,1,fcc hollow,3.96709,-0.68000,2.88000,True,False,relaxed,-0.69968,-0.78428,2.85532,True,10
+PET-OAM-L,S08-Ag111-0.333,Ag,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,4.14633,-0.31000,3.06000,True,False,source,-0.29287,-0.37747,3.06000,True,0
+PET-OAM-L,S08-Ag111-0.333,Ag,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,4.14633,-0.31000,3.06000,True,False,relaxed,-0.30148,-0.38608,2.99295,True,4
+PET-OAM-L,S08-Au111-0.333,Au,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,4.15636,-0.32000,3.05000,True,False,source,-0.28748,-0.37208,3.05000,True,0
+PET-OAM-L,S08-Au111-0.333,Au,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,4.15636,-0.32000,3.05000,True,False,relaxed,-0.29960,-0.38421,2.98026,True,12
+PET-OAM-L,S08-Cu111-0.333,Cu,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.61627,-0.48000,2.82000,True,False,source,-0.48791,-0.57251,2.82000,True,0
+PET-OAM-L,S08-Cu111-0.333,Cu,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.61627,-0.48000,2.82000,True,False,relaxed,-0.49451,-0.57911,2.76776,True,5
+PET-OAM-L,S08-Ni111-0.333,Ni,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.50602,-0.61000,2.76000,True,True,source,-0.63802,-0.72263,2.76000,True,0
+PET-OAM-L,S08-Ni111-0.333,Ni,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.50602,-0.61000,2.76000,True,True,relaxed,-0.64202,-0.72663,2.70842,True,5
+PET-OAM-L,S08-Pd111-0.333,Pd,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.94173,-0.80000,2.83000,True,False,source,-0.73687,-0.82147,2.83000,True,0
+PET-OAM-L,S08-Pd111-0.333,Pd,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.94173,-0.80000,2.83000,True,False,relaxed,-0.73767,-0.82228,2.82552,True,5
+PET-OAM-L,S08-Pt111-0.333,Pt,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.96709,-0.67000,2.89000,True,False,source,-0.67710,-0.76171,2.89000,True,0
+PET-OAM-L,S08-Pt111-0.333,Pt,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.96709,-0.67000,2.89000,True,False,relaxed,-0.68092,-0.76552,2.86382,True,7
+PET-OAM-L,S08-Ag111-0.5,Ag,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,4.14633,-0.37000,3.09000,False,False,source,-0.27204,-0.35665,3.09000,True,0
+PET-OAM-L,S08-Ag111-0.5,Ag,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,4.14633,-0.37000,3.09000,False,False,relaxed,-0.27362,-0.35822,3.06497,True,4
+PET-OAM-L,S08-Au111-0.5,Au,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,4.15636,-0.35000,3.11000,False,False,source,-0.23907,-0.32368,3.11000,True,0
+PET-OAM-L,S08-Au111-0.5,Au,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,4.15636,-0.35000,3.11000,False,False,relaxed,-0.24131,-0.32591,3.08914,True,4
+PET-OAM-L,S08-Cu111-0.5,Cu,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.61627,-0.51000,2.87000,False,False,source,-0.44877,-0.53337,2.87000,True,0
+PET-OAM-L,S08-Cu111-0.5,Cu,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.61627,-0.51000,2.87000,False,False,relaxed,-0.44832,-0.53292,2.85101,True,4
+PET-OAM-L,S08-Ni111-0.5,Ni,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.50602,-0.61000,2.75000,False,True,source,-0.58234,-0.66695,2.75000,True,0
+PET-OAM-L,S08-Ni111-0.5,Ni,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.50602,-0.61000,2.75000,False,True,relaxed,-0.57714,-0.66175,2.76102,True,9
+PET-OAM-L,S08-Pd111-0.5,Pd,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.94173,-0.81000,2.85000,False,False,source,-0.69603,-0.78063,2.85000,True,0
+PET-OAM-L,S08-Pd111-0.5,Pd,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.94173,-0.81000,2.85000,False,False,relaxed,-0.69451,-0.77912,2.84331,True,9
+PET-OAM-L,S08-Pt111-0.5,Pt,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.96709,-0.69000,2.92000,False,False,source,-0.61385,-0.69845,2.92000,True,0
+PET-OAM-L,S08-Pt111-0.5,Pt,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.96709,-0.69000,2.92000,False,False,relaxed,-0.61664,-0.70124,2.89175,True,13
+PET-OAM-L,S08-Ag001-0.125,Ag,(001),c(4x4),0.12500,2,4-fold hollow,4.14633,-0.50000,3.01000,False,False,source,-0.35203,-0.43663,3.01000,True,0
+PET-OAM-L,S08-Ag001-0.125,Ag,(001),c(4x4),0.12500,2,4-fold hollow,4.14633,-0.50000,3.01000,False,False,relaxed,-0.35704,-0.44164,2.99570,True,10
+PET-OAM-L,S08-Au001-0.125,Au,(001),c(4x4),0.12500,2,4-fold hollow,4.15636,-0.61000,2.94000,False,False,source,-0.41445,-0.49906,2.94000,True,0
+PET-OAM-L,S08-Au001-0.125,Au,(001),c(4x4),0.12500,2,4-fold hollow,4.15636,-0.61000,2.94000,False,False,relaxed,-0.43679,-0.52139,2.94662,True,16
+PET-OAM-L,S08-Cu001-0.125,Cu,(001),c(4x4),0.12500,2,4-fold hollow,3.61627,-0.67000,2.78000,False,False,source,-0.62077,-0.70537,2.78000,True,0
+PET-OAM-L,S08-Cu001-0.125,Cu,(001),c(4x4),0.12500,2,4-fold hollow,3.61627,-0.67000,2.78000,False,False,relaxed,-0.61746,-0.70207,2.77216,True,8
+PET-OAM-L,S08-Ni001-0.125,Ni,(001),c(4x4),0.12500,2,4-fold hollow,3.50602,-0.82000,2.73000,False,True,source,-0.81303,-0.89763,2.73000,True,0
+PET-OAM-L,S08-Ni001-0.125,Ni,(001),c(4x4),0.12500,2,4-fold hollow,3.50602,-0.82000,2.73000,False,True,relaxed,-0.80711,-0.89171,2.72217,True,7
+PET-OAM-L,S08-Pd001-0.125,Pd,(001),c(4x4),0.12500,2,4-fold hollow,3.94173,-1.10000,2.83000,False,False,source,-0.93227,-1.01688,2.83000,True,0
+PET-OAM-L,S08-Pd001-0.125,Pd,(001),c(4x4),0.12500,2,4-fold hollow,3.94173,-1.10000,2.83000,False,False,relaxed,-0.94683,-1.03144,2.82428,True,9
+PET-OAM-L,S08-Pt001-0.125,Pt,(001),c(4x4),0.12500,2,4-fold hollow,3.96709,-1.09000,2.83000,False,False,source,-0.94773,-1.03234,2.83000,True,0
+PET-OAM-L,S08-Pt001-0.125,Pt,(001),c(4x4),0.12500,2,4-fold hollow,3.96709,-1.09000,2.83000,False,False,relaxed,-0.98042,-1.06502,2.83475,True,11
+PET-OAM-L,S08-Ag001-0.5,Ag,(001),c(2x2),0.50000,2,4-fold hollow,4.14633,-0.51000,3.02000,True,False,source,-0.37261,-0.45722,3.02000,True,0
+PET-OAM-L,S08-Ag001-0.5,Ag,(001),c(2x2),0.50000,2,4-fold hollow,4.14633,-0.51000,3.02000,True,False,relaxed,-0.37118,-0.45578,3.02369,True,5
+PET-OAM-L,S08-Au001-0.5,Au,(001),c(2x2),0.50000,2,4-fold hollow,4.15636,-0.51000,3.00000,True,False,source,-0.36780,-0.45240,3.00000,True,0
+PET-OAM-L,S08-Au001-0.5,Au,(001),c(2x2),0.50000,2,4-fold hollow,4.15636,-0.51000,3.00000,True,False,relaxed,-0.36655,-0.45115,2.99936,True,12
+PET-OAM-L,S08-Cu001-0.5,Cu,(001),c(2x2),0.50000,2,4-fold hollow,3.61627,-0.71000,2.80000,True,False,source,-0.63160,-0.71620,2.80000,True,0
+PET-OAM-L,S08-Cu001-0.5,Cu,(001),c(2x2),0.50000,2,4-fold hollow,3.61627,-0.71000,2.80000,True,False,relaxed,-0.62546,-0.71006,2.80705,True,11
+PET-OAM-L,S08-Ni001-0.5,Ni,(001),c(2x2),0.50000,2,4-fold hollow,3.50602,-0.81000,2.77000,True,True,source,-0.86118,-0.94579,2.77000,True,0
+PET-OAM-L,S08-Ni001-0.5,Ni,(001),c(2x2),0.50000,2,4-fold hollow,3.50602,-0.81000,2.77000,True,True,relaxed,-0.85121,-0.93581,2.72851,True,4
+PET-OAM-L,S08-Pd001-0.5,Pd,(001),c(2x2),0.50000,2,4-fold hollow,3.94173,-1.08000,2.83000,True,False,source,-0.93510,-1.01971,2.83000,True,0
+PET-OAM-L,S08-Pd001-0.5,Pd,(001),c(2x2),0.50000,2,4-fold hollow,3.94173,-1.08000,2.83000,True,False,relaxed,-0.93181,-1.01642,2.83529,True,10
+PET-OAM-L,S08-Pt001-0.5,Pt,(001),c(2x2),0.50000,2,4-fold hollow,3.96709,-0.97000,2.85000,True,False,source,-0.90305,-0.98765,2.85000,True,0
+PET-OAM-L,S08-Pt001-0.5,Pt,(001),c(2x2),0.50000,2,4-fold hollow,3.96709,-0.97000,2.85000,True,False,relaxed,-0.87728,-0.96189,2.85906,True,9
+PET-OAM-L,S08-Ag001-1,Ag,(001),c(1x1),1.00000,4,4-fold hollow,4.14633,-0.30000,3.30000,True,False,source,-0.25729,-0.34190,3.30000,True,0
+PET-OAM-L,S08-Ag001-1,Ag,(001),c(1x1),1.00000,4,4-fold hollow,4.14633,-0.30000,3.30000,True,False,relaxed,-0.25990,-0.34451,3.22548,True,7
+PET-OAM-L,S08-Au001-1,Au,(001),c(1x1),1.00000,4,4-fold hollow,4.15636,-0.35000,3.39000,True,False,source,-0.24780,-0.33241,3.39000,True,0
+PET-OAM-L,S08-Au001-1,Au,(001),c(1x1),1.00000,4,4-fold hollow,4.15636,-0.35000,3.39000,True,False,relaxed,-0.25448,-0.33908,3.27871,True,13
+PET-OAM-L,S08-Cu001-1,Cu,(001),c(1x1),1.00000,4,4-fold hollow,3.61627,0.27000,3.14000,True,False,source,0.29771,0.21311,3.14000,True,0
+PET-OAM-L,S08-Cu001-1,Cu,(001),c(1x1),1.00000,4,4-fold hollow,3.61627,0.27000,3.14000,True,False,relaxed,0.29642,0.21182,3.07326,True,6
+PET-OAM-L,S08-Ni001-1,Ni,(001),c(1x1),1.00000,4,4-fold hollow,3.50602,0.55000,2.99000,True,True,source,0.59628,0.51167,2.99000,True,0
+PET-OAM-L,S08-Ni001-1,Ni,(001),c(1x1),1.00000,4,4-fold hollow,3.50602,0.55000,2.99000,True,True,relaxed,0.60406,0.51946,2.98011,True,2
+PET-OAM-L,S08-Pd001-1,Pd,(001),c(1x1),1.00000,4,4-fold hollow,3.94173,-0.67000,2.95000,True,False,source,-0.53006,-0.61466,2.95000,True,0
+PET-OAM-L,S08-Pd001-1,Pd,(001),c(1x1),1.00000,4,4-fold hollow,3.94173,-0.67000,2.95000,True,False,relaxed,-0.52962,-0.61422,2.96464,True,8
+PET-OAM-L,S08-Pt001-1,Pt,(001),c(1x1),1.00000,4,4-fold hollow,3.96709,-0.58000,3.05000,True,False,source,-0.50601,-0.59061,3.05000,True,0
+PET-OAM-L,S08-Pt001-1,Pt,(001),c(1x1),1.00000,4,4-fold hollow,3.96709,-0.58000,3.05000,True,False,relaxed,-0.49269,-0.57730,3.05249,True,12
+PET-OAM-L,S08-Au001-0.125-bridge,Au,(001),c(4x4),0.12500,2,bridge,4.15636,-0.47000,,False,False,relaxed,-0.29801,-0.38262,2.86591,True,12
+PET-OAM-L,S08-Au001-0.125-top,Au,(001),c(4x4),0.12500,2,top,4.15636,-0.36000,,False,False,relaxed,-0.18629,-0.27089,2.78499,True,21

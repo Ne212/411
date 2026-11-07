@@ -1,0 +1,41 @@
+{
+ "settings": {
+  "layers": 4,
+  "vacuum": 12.0,
+  "fmax": 0.02,
+  "max_steps": 1000,
+  "atom_box": 15.0,
+  "start_height_top_bridge": 2.6,
+  "eos": {
+   "points": 11,
+   "rel_range": 0.03
+  },
+  "a_guess": {
+   "Ag": 4.09,
+   "Au": 4.08,
+   "Cu": 3.61,
+   "Ni": 3.52,
+   "Pd": 3.89,
+   "Pt": 3.92
+  }
+ },
+ "info": {
+  "model": "DPA4-Plus-OMat24",
+  "checkpoint": "DPA4-Plus-OMat24-v20260805",
+  "head": null,
+  "package": "deepmd-kit 3.2.0",
+  "device": "torch default (cuda)"
+ },
+ "a0": {
+  "Ag": 4.147198441465224,
+  "Au": 4.157229607066211,
+  "Cu": 3.609679229838438,
+  "Ni": 3.5008701388873096,
+  "Pd": 3.9402805248409374,
+  "Pt": 3.967319704983603
+ },
+ "E_Hg_atom": 0.007978710332281258,
+ "E_ref_D": -0.015340999999999994,
+ "Ecoh_PBE": 0.169184,
+ "wall_s": 43.355008125305176
+}

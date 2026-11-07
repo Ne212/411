@@ -1,0 +1,20 @@
+To get the best performance, it is recommended to adjust the number of threads by setting the environment variables OMP_NUM_THREADS, DP_INTRA_OP_PARALLELISM_THREADS, and DP_INTER_OP_PARALLELISM_THREADS. See https://deepmd.rtfd.io/parallelism/ for more information.
+
+===== DPA-3.1-3M-mptrj
+Au bulk a0 = 4.1703 A, B0 = 123.3 GPa
+[DPA-3.1-3M-mptrj_slab] steps=2 converged=True fmax=0.0057 E=-111.210131 eV (6.7 s)
+[DPA-3.1-3M-mptrj_far] steps=0 converged=True fmax=0.0057 E=-111.247602 eV (0.1 s)
+E(Hg atom)=-0.03747  E(far)-E(slab)=-0.03747  E_coh(Hg, model)=0.2609 eV
+[DPA-3.1-3M-mptrj_ontop] steps=19 converged=True fmax=0.0145 E=-111.559454 eV (9.9 s)
+[DPA-3.1-3M-mptrj_ontop_free] steps=19 converged=True fmax=0.0144 E=-111.559454 eV (2.8 s)
+  ontop  E_ads(A)=-0.3119 E_ads(B)=-0.3119 E_ads(C)=-0.7209  h=2.846 d=2.850 drift=0.000
+[DPA-3.1-3M-mptrj_bridge] steps=7 converged=True fmax=0.0140 E=-111.605028 eV (1.0 s)
+[DPA-3.1-3M-mptrj_bridge_free] steps=7 converged=True fmax=0.0140 E=-111.605032 eV (0.7 s)
+  bridge E_ads(A)=-0.3574 E_ads(B)=-0.3574 E_ads(C)=-0.7665  h=2.534 d=2.953 drift=0.000
+[DPA-3.1-3M-mptrj_fcc] steps=10 converged=True fmax=0.0181 E=-111.627857 eV (1.2 s)
+[DPA-3.1-3M-mptrj_fcc_free] steps=10 converged=True fmax=0.0181 E=-111.627858 eV (0.8 s)
+  fcc    E_ads(A)=-0.3803 E_ads(B)=-0.3803 E_ads(C)=-0.7894  h=2.434 d=2.990 drift=0.000
+[DPA-3.1-3M-mptrj_hcp] steps=9 converged=True fmax=0.0187 E=-111.625340 eV (0.7 s)
+[DPA-3.1-3M-mptrj_hcp_free] steps=9 converged=True fmax=0.0187 E=-111.625339 eV (0.7 s)
+  hcp    E_ads(A)=-0.3777 E_ads(B)=-0.3777 E_ads(C)=-0.7868  h=2.441 d=2.995 drift=0.000
+done DPA-3.1-3M-mptrj (67 s)

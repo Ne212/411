@@ -1,0 +1,2 @@
+method,a0_A,a_brent_A,B0_GPa,E_slab,slab_converged,E_Hg_atom,E_far,far_converged,far_height_A,far_dmin_AuHg_A,E_far_minus_slab,E_Hg_bulk_per_atom,Hg_bulk_converged,Hg_bulk_a_A,Hg_bulk_alpha_deg,Hg_bulk_V_per_atom,Ecoh_Hg_model,Ecoh_Hg_exp,Ecoh_Hg_PBE,atom_error_vs_PBE,model,wall_time_s
+DPA4-Plus-OMat24,4.157230,4.157227,135.119928,-109.824434,True,0.007979,-109.816456,True,10.000000,10.142999,0.007978,-0.184525,True,3.561884,60.202759,32.100723,0.192504,0.670000,0.169184,0.023320,DPA4-Plus-OMat24,18.677244

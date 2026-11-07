@@ -1,0 +1,20 @@
+To get the best performance, it is recommended to adjust the number of threads by setting the environment variables OMP_NUM_THREADS, DP_INTRA_OP_PARALLELISM_THREADS, and DP_INTER_OP_PARALLELISM_THREADS. See https://deepmd.rtfd.io/parallelism/ for more information.
+
+===== DPA4-Plus-OMat24
+Au bulk a0 = 4.1572 A, B0 = 135.1 GPa
+[DPA4-Plus-OMat24_slab] steps=2 converged=True fmax=0.0067 E=-109.824434 eV (0.2 s)
+[DPA4-Plus-OMat24_far] steps=0 converged=True fmax=0.0067 E=-109.816456 eV (0.0 s)
+E(Hg atom)=0.00798  E(far)-E(slab)=0.00798  E_coh(Hg, model)=0.1925 eV
+[DPA4-Plus-OMat24_ontop] steps=19 converged=True fmax=0.0161 E=-110.067838 eV (1.2 s)
+[DPA4-Plus-OMat24_ontop_free] steps=19 converged=True fmax=0.0161 E=-110.067839 eV (1.2 s)
+  ontop  E_ads(A)=-0.2514 E_ads(B)=-0.2514 E_ads(C)=-0.7289  h=2.852 d=2.870 drift=0.000
+[DPA4-Plus-OMat24_bridge] steps=7 converged=True fmax=0.0168 E=-110.153835 eV (0.5 s)
+[DPA4-Plus-OMat24_bridge_free] steps=7 converged=True fmax=0.0172 E=-110.153837 eV (0.5 s)
+  bridge E_ads(A)=-0.3374 E_ads(B)=-0.3374 E_ads(C)=-0.8149  h=2.523 d=2.948 drift=0.000
+[DPA4-Plus-OMat24_fcc] steps=12 converged=True fmax=0.0165 E=-110.177747 eV (0.9 s)
+[DPA4-Plus-OMat24_fcc_free] steps=12 converged=True fmax=0.0165 E=-110.177748 eV (1.0 s)
+  fcc    E_ads(A)=-0.3613 E_ads(B)=-0.3613 E_ads(C)=-0.8388  h=2.430 d=2.985 drift=0.000
+[DPA4-Plus-OMat24_hcp] steps=12 converged=True fmax=0.0156 E=-110.178553 eV (0.8 s)
+[DPA4-Plus-OMat24_hcp_free] steps=12 converged=True fmax=0.0156 E=-110.178554 eV (0.8 s)
+  hcp    E_ads(A)=-0.3621 E_ads(B)=-0.3621 E_ads(C)=-0.8396  h=2.456 d=3.004 drift=0.000
+done DPA4-Plus-OMat24 (19 s)

@@ -1,0 +1,87 @@
+model,system,metal,facet,overlayer,coverage_ML,n_Hg_our_cell,site_kind,a0_metal_A,E_ads_ref_eV,d_MHg_ref_A,in_main_MAE,Ni_flag,mode,E_ads_A_eV,E_ads_D_eV,d_MHg_A,converged,n_steps
+CHGNet-MatPES-PBE,S08-Ag111-0.083,Ag,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,4.15472,-0.34000,3.00000,True,False,source,-0.34990,-0.37172,3.00000,True,0
+CHGNet-MatPES-PBE,S08-Ag111-0.083,Ag,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,4.15472,-0.34000,3.00000,True,False,relaxed,-0.35921,-0.38102,2.93510,True,15
+CHGNet-MatPES-PBE,S08-Au111-0.083,Au,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,4.15589,-0.36000,2.99000,True,False,source,-0.39795,-0.41977,2.99000,True,0
+CHGNet-MatPES-PBE,S08-Au111-0.083,Au,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,4.15589,-0.36000,2.99000,True,False,relaxed,-0.40204,-0.42385,2.98796,True,8
+CHGNet-MatPES-PBE,S08-Cu111-0.083,Cu,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.63260,-0.52000,2.75000,True,False,source,-0.54765,-0.56947,2.75000,True,0
+CHGNet-MatPES-PBE,S08-Cu111-0.083,Cu,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.63260,-0.52000,2.75000,True,False,relaxed,-0.55922,-0.58104,2.72934,True,6
+CHGNet-MatPES-PBE,S08-Ni111-0.083,Ni,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.51722,-0.67000,2.72000,True,True,source,-0.71214,-0.73396,2.72000,True,0
+CHGNet-MatPES-PBE,S08-Ni111-0.083,Ni,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.51722,-0.67000,2.72000,True,True,relaxed,-0.71834,-0.74015,2.72493,True,7
+CHGNet-MatPES-PBE,S08-Pd111-0.083,Pd,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.94180,-0.84000,2.81000,True,False,source,-0.96117,-0.98298,2.81000,True,0
+CHGNet-MatPES-PBE,S08-Pd111-0.083,Pd,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.94180,-0.84000,2.81000,True,False,relaxed,-0.97122,-0.99304,2.83455,True,11
+CHGNet-MatPES-PBE,S08-Pt111-0.083,Pt,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.96958,-0.75000,2.86000,True,False,source,-0.81938,-0.84120,2.86000,True,0
+CHGNet-MatPES-PBE,S08-Pt111-0.083,Pt,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.96958,-0.75000,2.86000,True,False,relaxed,-0.90031,-0.92213,2.91876,True,16
+CHGNet-MatPES-PBE,S08-Ag111-0.25,Ag,(111),p(2x2),0.25000,1,fcc hollow,4.15472,-0.36000,3.01000,True,False,source,-0.36018,-0.38199,3.01000,True,0
+CHGNet-MatPES-PBE,S08-Ag111-0.25,Ag,(111),p(2x2),0.25000,1,fcc hollow,4.15472,-0.36000,3.01000,True,False,relaxed,-0.36826,-0.39007,2.93957,True,16
+CHGNet-MatPES-PBE,S08-Au111-0.25,Au,(111),p(2x2),0.25000,1,fcc hollow,4.15589,-0.38000,3.01000,True,False,source,-0.43086,-0.45268,3.01000,True,0
+CHGNet-MatPES-PBE,S08-Au111-0.25,Au,(111),p(2x2),0.25000,1,fcc hollow,4.15589,-0.38000,3.01000,True,False,relaxed,-0.43031,-0.45213,3.00989,True,3
+CHGNet-MatPES-PBE,S08-Cu111-0.25,Cu,(111),p(2x2),0.25000,1,fcc hollow,3.63260,-0.53000,2.78000,True,False,source,-0.55755,-0.57936,2.78000,True,0
+CHGNet-MatPES-PBE,S08-Cu111-0.25,Cu,(111),p(2x2),0.25000,1,fcc hollow,3.63260,-0.53000,2.78000,True,False,relaxed,-0.56408,-0.58589,2.73081,True,6
+CHGNet-MatPES-PBE,S08-Ni111-0.25,Ni,(111),p(2x2),0.25000,1,fcc hollow,3.51722,-0.64000,2.74000,True,True,source,-0.71258,-0.73439,2.74000,True,0
+CHGNet-MatPES-PBE,S08-Ni111-0.25,Ni,(111),p(2x2),0.25000,1,fcc hollow,3.51722,-0.64000,2.74000,True,True,relaxed,-0.71434,-0.73616,2.72280,True,5
+CHGNet-MatPES-PBE,S08-Pd111-0.25,Pd,(111),p(2x2),0.25000,1,fcc hollow,3.94180,-0.81000,2.83000,True,False,source,-0.95873,-0.98054,2.83000,True,0
+CHGNet-MatPES-PBE,S08-Pd111-0.25,Pd,(111),p(2x2),0.25000,1,fcc hollow,3.94180,-0.81000,2.83000,True,False,relaxed,-0.95974,-0.98156,2.82967,True,15
+CHGNet-MatPES-PBE,S08-Pt111-0.25,Pt,(111),p(2x2),0.25000,1,fcc hollow,3.96958,-0.68000,2.88000,True,False,source,-0.87096,-0.89278,2.88000,True,0
+CHGNet-MatPES-PBE,S08-Pt111-0.25,Pt,(111),p(2x2),0.25000,1,fcc hollow,3.96958,-0.68000,2.88000,True,False,relaxed,-0.89678,-0.91860,2.92547,True,10
+CHGNet-MatPES-PBE,S08-Ag111-0.333,Ag,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,4.15472,-0.31000,3.06000,True,False,source,-0.35701,-0.37883,3.06000,True,0
+CHGNet-MatPES-PBE,S08-Ag111-0.333,Ag,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,4.15472,-0.31000,3.06000,True,False,relaxed,-0.37626,-0.39808,2.93969,True,19
+CHGNet-MatPES-PBE,S08-Au111-0.333,Au,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,4.15589,-0.32000,3.05000,True,False,source,-0.41622,-0.43803,3.05000,True,0
+CHGNet-MatPES-PBE,S08-Au111-0.333,Au,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,4.15589,-0.32000,3.05000,True,False,relaxed,-0.41979,-0.44160,2.98048,True,16
+CHGNet-MatPES-PBE,S08-Cu111-0.333,Cu,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.63260,-0.48000,2.82000,True,False,source,-0.52877,-0.55059,2.82000,True,0
+CHGNet-MatPES-PBE,S08-Cu111-0.333,Cu,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.63260,-0.48000,2.82000,True,False,relaxed,-0.53880,-0.56062,2.75117,True,6
+CHGNet-MatPES-PBE,S08-Ni111-0.333,Ni,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.51722,-0.61000,2.76000,True,True,source,-0.70233,-0.72414,2.76000,True,0
+CHGNet-MatPES-PBE,S08-Ni111-0.333,Ni,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.51722,-0.61000,2.76000,True,True,relaxed,-0.70274,-0.72455,2.73681,True,7
+CHGNet-MatPES-PBE,S08-Pd111-0.333,Pd,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.94180,-0.80000,2.83000,True,False,source,-0.91807,-0.93988,2.83000,True,0
+CHGNet-MatPES-PBE,S08-Pd111-0.333,Pd,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.94180,-0.80000,2.83000,True,False,relaxed,-0.92066,-0.94248,2.82311,True,15
+CHGNet-MatPES-PBE,S08-Pt111-0.333,Pt,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.96958,-0.67000,2.89000,True,False,source,-0.86163,-0.88344,2.89000,True,0
+CHGNet-MatPES-PBE,S08-Pt111-0.333,Pt,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.96958,-0.67000,2.89000,True,False,relaxed,-0.87708,-0.89890,2.92514,True,8
+CHGNet-MatPES-PBE,S08-Ag111-0.5,Ag,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,4.15472,-0.37000,3.09000,False,False,source,-0.33726,-0.35907,3.09000,True,0
+CHGNet-MatPES-PBE,S08-Ag111-0.5,Ag,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,4.15472,-0.37000,3.09000,False,False,relaxed,-0.34141,-0.36323,3.02600,True,17
+CHGNet-MatPES-PBE,S08-Au111-0.5,Au,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,4.15589,-0.35000,3.11000,False,False,source,-0.39417,-0.41599,3.11000,True,0
+CHGNet-MatPES-PBE,S08-Au111-0.5,Au,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,4.15589,-0.35000,3.11000,False,False,relaxed,-0.39388,-0.41569,3.11192,True,4
+CHGNet-MatPES-PBE,S08-Cu111-0.5,Cu,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.63260,-0.51000,2.87000,False,False,source,-0.48718,-0.50899,2.87000,True,0
+CHGNet-MatPES-PBE,S08-Cu111-0.5,Cu,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.63260,-0.51000,2.87000,False,False,relaxed,-0.48601,-0.50783,2.84605,True,5
+CHGNet-MatPES-PBE,S08-Ni111-0.5,Ni,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.51722,-0.61000,2.75000,False,True,source,-0.60207,-0.62389,2.75000,True,0
+CHGNet-MatPES-PBE,S08-Ni111-0.5,Ni,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.51722,-0.61000,2.75000,False,True,relaxed,-0.60331,-0.62512,2.78578,True,13
+CHGNet-MatPES-PBE,S08-Pd111-0.5,Pd,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.94180,-0.81000,2.85000,False,False,source,-0.88992,-0.91174,2.85000,True,0
+CHGNet-MatPES-PBE,S08-Pd111-0.5,Pd,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.94180,-0.81000,2.85000,False,False,relaxed,-0.89034,-0.91215,2.85575,True,17
+CHGNet-MatPES-PBE,S08-Pt111-0.5,Pt,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.96958,-0.69000,2.92000,False,False,source,-0.77361,-0.79543,2.92000,True,0
+CHGNet-MatPES-PBE,S08-Pt111-0.5,Pt,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.96958,-0.69000,2.92000,False,False,relaxed,-0.78253,-0.80434,2.95103,True,6
+CHGNet-MatPES-PBE,S08-Ag001-0.125,Ag,(001),c(4x4),0.12500,2,4-fold hollow,4.15472,-0.50000,3.01000,False,False,source,-0.50267,-0.52449,3.01000,True,0
+CHGNet-MatPES-PBE,S08-Ag001-0.125,Ag,(001),c(4x4),0.12500,2,4-fold hollow,4.15472,-0.50000,3.01000,False,False,relaxed,-0.52261,-0.54443,2.92120,True,17
+CHGNet-MatPES-PBE,S08-Au001-0.125,Au,(001),c(4x4),0.12500,2,4-fold hollow,4.15589,-0.61000,2.94000,False,False,source,-0.60310,-0.62492,2.94000,True,0
+CHGNet-MatPES-PBE,S08-Au001-0.125,Au,(001),c(4x4),0.12500,2,4-fold hollow,4.15589,-0.61000,2.94000,False,False,relaxed,-0.61719,-0.63900,2.94967,True,13
+CHGNet-MatPES-PBE,S08-Cu001-0.125,Cu,(001),c(4x4),0.12500,2,4-fold hollow,3.63260,-0.67000,2.78000,False,False,source,-0.72982,-0.75164,2.78000,True,0
+CHGNet-MatPES-PBE,S08-Cu001-0.125,Cu,(001),c(4x4),0.12500,2,4-fold hollow,3.63260,-0.67000,2.78000,False,False,relaxed,-0.73956,-0.76137,2.75259,True,8
+CHGNet-MatPES-PBE,S08-Ni001-0.125,Ni,(001),c(4x4),0.12500,2,4-fold hollow,3.51722,-0.82000,2.73000,False,True,source,-0.90788,-0.92970,2.73000,True,0
+CHGNet-MatPES-PBE,S08-Ni001-0.125,Ni,(001),c(4x4),0.12500,2,4-fold hollow,3.51722,-0.82000,2.73000,False,True,relaxed,-0.91013,-0.93194,2.74105,True,6
+CHGNet-MatPES-PBE,S08-Pd001-0.125,Pd,(001),c(4x4),0.12500,2,4-fold hollow,3.94180,-1.10000,2.83000,False,False,source,-1.23470,-1.25651,2.83000,True,0
+CHGNet-MatPES-PBE,S08-Pd001-0.125,Pd,(001),c(4x4),0.12500,2,4-fold hollow,3.94180,-1.10000,2.83000,False,False,relaxed,-1.24535,-1.26716,2.82043,True,12
+CHGNet-MatPES-PBE,S08-Pt001-0.125,Pt,(001),c(4x4),0.12500,2,4-fold hollow,3.96958,-1.09000,2.83000,False,False,source,-1.22931,-1.25113,2.83000,True,0
+CHGNet-MatPES-PBE,S08-Pt001-0.125,Pt,(001),c(4x4),0.12500,2,4-fold hollow,3.96958,-1.09000,2.83000,False,False,relaxed,-1.31865,-1.34047,2.87281,True,17
+CHGNet-MatPES-PBE,S08-Ag001-0.5,Ag,(001),c(2x2),0.50000,2,4-fold hollow,4.15472,-0.51000,3.02000,True,False,source,-0.45526,-0.47707,3.02000,True,0
+CHGNet-MatPES-PBE,S08-Ag001-0.5,Ag,(001),c(2x2),0.50000,2,4-fold hollow,4.15472,-0.51000,3.02000,True,False,relaxed,-0.45701,-0.47882,2.97643,True,7
+CHGNet-MatPES-PBE,S08-Au001-0.5,Au,(001),c(2x2),0.50000,2,4-fold hollow,4.15589,-0.51000,3.00000,True,False,source,-0.55442,-0.57624,3.00000,True,0
+CHGNet-MatPES-PBE,S08-Au001-0.5,Au,(001),c(2x2),0.50000,2,4-fold hollow,4.15589,-0.51000,3.00000,True,False,relaxed,-0.55405,-0.57586,3.04686,True,11
+CHGNet-MatPES-PBE,S08-Cu001-0.5,Cu,(001),c(2x2),0.50000,2,4-fold hollow,3.63260,-0.71000,2.80000,True,False,source,-0.70822,-0.73003,2.80000,True,0
+CHGNet-MatPES-PBE,S08-Cu001-0.5,Cu,(001),c(2x2),0.50000,2,4-fold hollow,3.63260,-0.71000,2.80000,True,False,relaxed,-0.69940,-0.72122,2.81852,True,7
+CHGNet-MatPES-PBE,S08-Ni001-0.5,Ni,(001),c(2x2),0.50000,2,4-fold hollow,3.51722,-0.81000,2.77000,True,True,source,-0.92044,-0.94225,2.77000,True,0
+CHGNet-MatPES-PBE,S08-Ni001-0.5,Ni,(001),c(2x2),0.50000,2,4-fold hollow,3.51722,-0.81000,2.77000,True,True,relaxed,-0.91092,-0.93274,2.75834,True,8
+CHGNet-MatPES-PBE,S08-Pd001-0.5,Pd,(001),c(2x2),0.50000,2,4-fold hollow,3.94180,-1.08000,2.83000,True,False,source,-1.13268,-1.15450,2.83000,True,0
+CHGNet-MatPES-PBE,S08-Pd001-0.5,Pd,(001),c(2x2),0.50000,2,4-fold hollow,3.94180,-1.08000,2.83000,True,False,relaxed,-1.13158,-1.15340,2.83874,True,11
+CHGNet-MatPES-PBE,S08-Pt001-0.5,Pt,(001),c(2x2),0.50000,2,4-fold hollow,3.96958,-0.97000,2.85000,True,False,source,-1.09596,-1.11778,2.85000,True,0
+CHGNet-MatPES-PBE,S08-Pt001-0.5,Pt,(001),c(2x2),0.50000,2,4-fold hollow,3.96958,-0.97000,2.85000,True,False,relaxed,-1.13086,-1.15268,2.92127,True,35
+CHGNet-MatPES-PBE,S08-Ag001-1,Ag,(001),c(1x1),1.00000,4,4-fold hollow,4.15472,-0.30000,3.30000,True,False,source,-0.28993,-0.31175,3.30000,True,0
+CHGNet-MatPES-PBE,S08-Ag001-1,Ag,(001),c(1x1),1.00000,4,4-fold hollow,4.15472,-0.30000,3.30000,True,False,relaxed,-0.30578,-0.32760,3.14201,True,14
+CHGNet-MatPES-PBE,S08-Au001-1,Au,(001),c(1x1),1.00000,4,4-fold hollow,4.15589,-0.35000,3.39000,True,False,source,-0.35033,-0.37214,3.39000,True,0
+CHGNet-MatPES-PBE,S08-Au001-1,Au,(001),c(1x1),1.00000,4,4-fold hollow,4.15589,-0.35000,3.39000,True,False,relaxed,-0.37026,-0.39208,3.20020,True,14
+CHGNet-MatPES-PBE,S08-Cu001-1,Cu,(001),c(1x1),1.00000,4,4-fold hollow,3.63260,0.27000,3.14000,True,False,source,0.36113,0.33932,3.14000,True,0
+CHGNet-MatPES-PBE,S08-Cu001-1,Cu,(001),c(1x1),1.00000,4,4-fold hollow,3.63260,0.27000,3.14000,True,False,relaxed,0.34520,0.32338,3.00518,True,15
+CHGNet-MatPES-PBE,S08-Ni001-1,Ni,(001),c(1x1),1.00000,4,4-fold hollow,3.51722,0.55000,2.99000,True,True,source,0.72132,0.69950,2.99000,True,0
+CHGNet-MatPES-PBE,S08-Ni001-1,Ni,(001),c(1x1),1.00000,4,4-fold hollow,3.51722,0.55000,2.99000,True,True,relaxed,0.71429,0.69248,2.89685,True,12
+CHGNet-MatPES-PBE,S08-Pd001-1,Pd,(001),c(1x1),1.00000,4,4-fold hollow,3.94180,-0.67000,2.95000,True,False,source,-0.67069,-0.69250,2.95000,True,0
+CHGNet-MatPES-PBE,S08-Pd001-1,Pd,(001),c(1x1),1.00000,4,4-fold hollow,3.94180,-0.67000,2.95000,True,False,relaxed,-0.67098,-0.69279,2.94981,True,12
+CHGNet-MatPES-PBE,S08-Pt001-1,Pt,(001),c(1x1),1.00000,4,4-fold hollow,3.96958,-0.58000,3.05000,True,False,source,-0.60925,-0.63106,3.05000,True,0
+CHGNet-MatPES-PBE,S08-Pt001-1,Pt,(001),c(1x1),1.00000,4,4-fold hollow,3.96958,-0.58000,3.05000,True,False,relaxed,-0.61116,-0.63297,3.00328,True,6
+CHGNet-MatPES-PBE,S08-Au001-0.125-bridge,Au,(001),c(4x4),0.12500,2,bridge,4.15589,-0.47000,,False,False,relaxed,-0.46366,-0.48548,2.93142,True,13
+CHGNet-MatPES-PBE,S08-Au001-0.125-top,Au,(001),c(4x4),0.12500,2,top,4.15589,-0.36000,,False,False,relaxed,-0.32128,-0.34310,2.84490,True,19

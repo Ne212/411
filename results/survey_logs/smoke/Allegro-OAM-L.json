@@ -1,0 +1,39 @@
+{
+ "model": "Allegro-OAM-L",
+ "ok": true,
+ "info": {
+  "model": "Allegro-OAM-L",
+  "nequip_id": "nequip.net:mir-group/Allegro-OAM-L:0.1",
+  "compiled": "/home/ne212/START/work/survey/models/Allegro-OAM-L.nequip.pt2",
+  "package": "nequip 0.19.1 / nequip-allegro 0.8.3",
+  "device": "cuda"
+ },
+ "t_load_s": 24.1,
+ "E_Au_bulk_a4.08_per_atom": -3.2322488967967518,
+ "E_Hg_atom_15A": -0.1235,
+ "E_Au_atom_15A": -0.2872,
+ "sum_forces_rattled_Au32": 3.885780586188048e-16,
+ "stress_analytic_eVA3": [
+  -0.033783651030117934,
+  -0.033650341638423245,
+  -0.03300499166340265,
+  6.080887772072104e-10,
+  1.295553841550214e-09,
+  0.00410914478152505
+ ],
+ "stress_numeric_eVA3": [
+  -0.03388545469180654,
+  -0.03332662410477859,
+  -0.03286939907886681,
+  5.080278055808526e-05,
+  -5.0802780685086685e-05,
+  0.004216630793687159
+ ],
+ "stress_max_abs_diff_eVA3": 0.0003237175336446574,
+ "t_single_point_37atoms_s": 0.0172,
+ "E_slab_Hg_37": -112.39738686411258,
+ "torch": "2.11.0+cu130",
+ "cuda": true,
+ "gpu_mem_peak_MB": 350.5,
+ "t_total_s": 24.3
+}

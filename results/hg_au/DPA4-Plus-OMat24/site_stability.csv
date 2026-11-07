@@ -1,0 +1,5 @@
+method,start_site,E_constrained,E_free,dE_free_minus_constrained,lateral_drift_free_A,height_free_A,d_AuHg_min_free_A,converged_free,n_steps_free
+DPA4-Plus-OMat24,ontop,-110.067838,-110.067839,-0.000001,0.000000,2.852186,2.869906,True,19
+DPA4-Plus-OMat24,bridge,-110.153835,-110.153837,-0.000003,0.001349,2.523413,2.948239,True,7
+DPA4-Plus-OMat24,fcc,-110.177747,-110.177748,-0.000000,0.000000,2.430190,2.984728,True,12
+DPA4-Plus-OMat24,hcp,-110.178553,-110.178554,-0.000000,0.000000,2.456480,3.003649,True,12

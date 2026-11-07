@@ -1,0 +1,87 @@
+model,system,metal,facet,overlayer,coverage_ML,n_Hg_our_cell,site_kind,a0_metal_A,E_ads_ref_eV,d_MHg_ref_A,in_main_MAE,Ni_flag,mode,E_ads_A_eV,E_ads_D_eV,d_MHg_A,converged,n_steps
+MACE-MP-0-ft-atom-lr1e-4,S08-Ag111-0.083,Ag,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,4.12996,-0.34000,3.00000,True,False,source,-0.69360,-0.54757,3.00000,True,0
+MACE-MP-0-ft-atom-lr1e-4,S08-Ag111-0.083,Ag,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,4.12996,-0.34000,3.00000,True,False,relaxed,-0.71132,-0.56528,2.90924,True,7
+MACE-MP-0-ft-atom-lr1e-4,S08-Au111-0.083,Au,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,4.13604,-0.36000,2.99000,True,False,source,-0.64489,-0.49885,2.99000,True,0
+MACE-MP-0-ft-atom-lr1e-4,S08-Au111-0.083,Au,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,4.13604,-0.36000,2.99000,True,False,relaxed,-0.65338,-0.50734,3.02408,True,7
+MACE-MP-0-ft-atom-lr1e-4,S08-Cu111-0.083,Cu,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.59173,-0.52000,2.75000,True,False,source,-0.87005,-0.72402,2.75000,True,0
+MACE-MP-0-ft-atom-lr1e-4,S08-Cu111-0.083,Cu,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.59173,-0.52000,2.75000,True,False,relaxed,-0.87484,-0.72880,2.73055,True,4
+MACE-MP-0-ft-atom-lr1e-4,S08-Ni111-0.083,Ni,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.48249,-0.67000,2.72000,True,True,source,-1.46495,-1.31891,2.72000,True,0
+MACE-MP-0-ft-atom-lr1e-4,S08-Ni111-0.083,Ni,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.48249,-0.67000,2.72000,True,True,relaxed,-1.49142,-1.34539,2.63093,True,10
+MACE-MP-0-ft-atom-lr1e-4,S08-Pd111-0.083,Pd,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.91592,-0.84000,2.81000,True,False,source,-1.04599,-0.89996,2.81000,True,0
+MACE-MP-0-ft-atom-lr1e-4,S08-Pd111-0.083,Pd,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.91592,-0.84000,2.81000,True,False,relaxed,-1.07018,-0.92415,2.84400,True,6
+MACE-MP-0-ft-atom-lr1e-4,S08-Pt111-0.083,Pt,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.92589,-0.75000,2.86000,True,False,source,-0.89864,-0.75261,2.86000,True,0
+MACE-MP-0-ft-atom-lr1e-4,S08-Pt111-0.083,Pt,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.92589,-0.75000,2.86000,True,False,relaxed,-0.95855,-0.81251,3.00880,True,14
+MACE-MP-0-ft-atom-lr1e-4,S08-Ag111-0.25,Ag,(111),p(2x2),0.25000,1,fcc hollow,4.12996,-0.36000,3.01000,True,False,source,-0.68052,-0.53449,3.01000,True,0
+MACE-MP-0-ft-atom-lr1e-4,S08-Ag111-0.25,Ag,(111),p(2x2),0.25000,1,fcc hollow,4.12996,-0.36000,3.01000,True,False,relaxed,-0.69763,-0.55160,2.91693,True,5
+MACE-MP-0-ft-atom-lr1e-4,S08-Au111-0.25,Au,(111),p(2x2),0.25000,1,fcc hollow,4.13604,-0.38000,3.01000,True,False,source,-0.64063,-0.49460,3.01000,True,0
+MACE-MP-0-ft-atom-lr1e-4,S08-Au111-0.25,Au,(111),p(2x2),0.25000,1,fcc hollow,4.13604,-0.38000,3.01000,True,False,relaxed,-0.64479,-0.49876,3.02396,True,4
+MACE-MP-0-ft-atom-lr1e-4,S08-Cu111-0.25,Cu,(111),p(2x2),0.25000,1,fcc hollow,3.59173,-0.53000,2.78000,True,False,source,-0.83306,-0.68703,2.78000,True,0
+MACE-MP-0-ft-atom-lr1e-4,S08-Cu111-0.25,Cu,(111),p(2x2),0.25000,1,fcc hollow,3.59173,-0.53000,2.78000,True,False,relaxed,-0.83816,-0.69212,2.74021,True,4
+MACE-MP-0-ft-atom-lr1e-4,S08-Ni111-0.25,Ni,(111),p(2x2),0.25000,1,fcc hollow,3.48249,-0.64000,2.74000,True,True,source,-1.39965,-1.25362,2.74000,True,0
+MACE-MP-0-ft-atom-lr1e-4,S08-Ni111-0.25,Ni,(111),p(2x2),0.25000,1,fcc hollow,3.48249,-0.64000,2.74000,True,True,relaxed,-1.43129,-1.28525,2.64478,True,12
+MACE-MP-0-ft-atom-lr1e-4,S08-Pd111-0.25,Pd,(111),p(2x2),0.25000,1,fcc hollow,3.91592,-0.81000,2.83000,True,False,source,-1.02692,-0.88089,2.83000,True,0
+MACE-MP-0-ft-atom-lr1e-4,S08-Pd111-0.25,Pd,(111),p(2x2),0.25000,1,fcc hollow,3.91592,-0.81000,2.83000,True,False,relaxed,-1.03513,-0.88909,2.85698,True,4
+MACE-MP-0-ft-atom-lr1e-4,S08-Pt111-0.25,Pt,(111),p(2x2),0.25000,1,fcc hollow,3.92589,-0.68000,2.88000,True,False,source,-0.91551,-0.76948,2.88000,True,0
+MACE-MP-0-ft-atom-lr1e-4,S08-Pt111-0.25,Pt,(111),p(2x2),0.25000,1,fcc hollow,3.92589,-0.68000,2.88000,True,False,relaxed,-0.95496,-0.80893,3.01081,True,15
+MACE-MP-0-ft-atom-lr1e-4,S08-Ag111-0.333,Ag,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,4.12996,-0.31000,3.06000,True,False,source,-0.65324,-0.50721,3.06000,True,0
+MACE-MP-0-ft-atom-lr1e-4,S08-Ag111-0.333,Ag,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,4.12996,-0.31000,3.06000,True,False,relaxed,-0.68951,-0.54348,2.90599,True,14
+MACE-MP-0-ft-atom-lr1e-4,S08-Au111-0.333,Au,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,4.13604,-0.32000,3.05000,True,False,source,-0.62733,-0.48130,3.05000,True,0
+MACE-MP-0-ft-atom-lr1e-4,S08-Au111-0.333,Au,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,4.13604,-0.32000,3.05000,True,False,relaxed,-0.62752,-0.48149,3.03281,True,5
+MACE-MP-0-ft-atom-lr1e-4,S08-Cu111-0.333,Cu,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.59173,-0.48000,2.82000,True,False,source,-0.78879,-0.64276,2.82000,True,0
+MACE-MP-0-ft-atom-lr1e-4,S08-Cu111-0.333,Cu,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.59173,-0.48000,2.82000,True,False,relaxed,-0.80002,-0.65399,2.74483,True,9
+MACE-MP-0-ft-atom-lr1e-4,S08-Ni111-0.333,Ni,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.48249,-0.61000,2.76000,True,True,source,-1.32888,-1.18285,2.76000,True,0
+MACE-MP-0-ft-atom-lr1e-4,S08-Ni111-0.333,Ni,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.48249,-0.61000,2.76000,True,True,relaxed,-1.36486,-1.21883,2.65848,True,13
+MACE-MP-0-ft-atom-lr1e-4,S08-Pd111-0.333,Pd,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.91592,-0.80000,2.83000,True,False,source,-0.99541,-0.84937,2.83000,True,0
+MACE-MP-0-ft-atom-lr1e-4,S08-Pd111-0.333,Pd,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.91592,-0.80000,2.83000,True,False,relaxed,-0.99998,-0.85395,2.86212,True,5
+MACE-MP-0-ft-atom-lr1e-4,S08-Pt111-0.333,Pt,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.92589,-0.67000,2.89000,True,False,source,-0.91620,-0.77017,2.89000,True,0
+MACE-MP-0-ft-atom-lr1e-4,S08-Pt111-0.333,Pt,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.92589,-0.67000,2.89000,True,False,relaxed,-0.94178,-0.79574,3.00902,True,15
+MACE-MP-0-ft-atom-lr1e-4,S08-Ag111-0.5,Ag,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,4.12996,-0.37000,3.09000,False,False,source,-0.62658,-0.48055,3.09000,True,0
+MACE-MP-0-ft-atom-lr1e-4,S08-Ag111-0.5,Ag,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,4.12996,-0.37000,3.09000,False,False,relaxed,-0.64140,-0.49537,2.98422,True,5
+MACE-MP-0-ft-atom-lr1e-4,S08-Au111-0.5,Au,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,4.13604,-0.35000,3.11000,False,False,source,-0.57817,-0.43214,3.11000,True,0
+MACE-MP-0-ft-atom-lr1e-4,S08-Au111-0.5,Au,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,4.13604,-0.35000,3.11000,False,False,relaxed,-0.57723,-0.43119,3.11772,True,4
+MACE-MP-0-ft-atom-lr1e-4,S08-Cu111-0.5,Cu,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.59173,-0.51000,2.87000,False,False,source,-0.64211,-0.49608,2.87000,True,0
+MACE-MP-0-ft-atom-lr1e-4,S08-Cu111-0.5,Cu,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.59173,-0.51000,2.87000,False,False,relaxed,-0.64338,-0.49734,2.84735,True,2
+MACE-MP-0-ft-atom-lr1e-4,S08-Ni111-0.5,Ni,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.48249,-0.61000,2.75000,False,True,source,-1.11751,-0.97148,2.75000,True,0
+MACE-MP-0-ft-atom-lr1e-4,S08-Ni111-0.5,Ni,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.48249,-0.61000,2.75000,False,True,relaxed,-1.11500,-0.96897,2.72919,True,4
+MACE-MP-0-ft-atom-lr1e-4,S08-Pd111-0.5,Pd,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.91592,-0.81000,2.85000,False,False,source,-0.90807,-0.76203,2.85000,True,0
+MACE-MP-0-ft-atom-lr1e-4,S08-Pd111-0.5,Pd,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.91592,-0.81000,2.85000,False,False,relaxed,-0.92713,-0.78109,2.94359,True,15
+MACE-MP-0-ft-atom-lr1e-4,S08-Pt111-0.5,Pt,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.92589,-0.69000,2.92000,False,False,source,-0.87312,-0.72709,2.92000,True,0
+MACE-MP-0-ft-atom-lr1e-4,S08-Pt111-0.5,Pt,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.92589,-0.69000,2.92000,False,False,relaxed,-0.91058,-0.76455,3.05518,True,14
+MACE-MP-0-ft-atom-lr1e-4,S08-Ag001-0.125,Ag,(001),c(4x4),0.12500,2,4-fold hollow,4.12996,-0.50000,3.01000,False,False,source,-0.80612,-0.66009,3.01000,True,0
+MACE-MP-0-ft-atom-lr1e-4,S08-Ag001-0.125,Ag,(001),c(4x4),0.12500,2,4-fold hollow,4.12996,-0.50000,3.01000,False,False,relaxed,-0.82279,-0.67675,2.91749,True,9
+MACE-MP-0-ft-atom-lr1e-4,S08-Au001-0.125,Au,(001),c(4x4),0.12500,2,4-fold hollow,4.13604,-0.61000,2.94000,False,False,source,-0.71198,-0.56594,2.94000,True,0
+MACE-MP-0-ft-atom-lr1e-4,S08-Au001-0.125,Au,(001),c(4x4),0.12500,2,4-fold hollow,4.13604,-0.61000,2.94000,False,False,relaxed,-0.75862,-0.61259,3.02996,True,10
+MACE-MP-0-ft-atom-lr1e-4,S08-Cu001-0.125,Cu,(001),c(4x4),0.12500,2,4-fold hollow,3.59173,-0.67000,2.78000,False,False,source,-1.01877,-0.87273,2.78000,True,0
+MACE-MP-0-ft-atom-lr1e-4,S08-Cu001-0.125,Cu,(001),c(4x4),0.12500,2,4-fold hollow,3.59173,-0.67000,2.78000,False,False,relaxed,-1.02874,-0.88271,2.73477,True,9
+MACE-MP-0-ft-atom-lr1e-4,S08-Ni001-0.125,Ni,(001),c(4x4),0.12500,2,4-fold hollow,3.48249,-0.82000,2.73000,False,True,source,-1.65386,-1.50783,2.73000,True,0
+MACE-MP-0-ft-atom-lr1e-4,S08-Ni001-0.125,Ni,(001),c(4x4),0.12500,2,4-fold hollow,3.48249,-0.82000,2.73000,False,True,relaxed,-1.66685,-1.52082,2.64424,True,8
+MACE-MP-0-ft-atom-lr1e-4,S08-Pd001-0.125,Pd,(001),c(4x4),0.12500,2,4-fold hollow,3.91592,-1.10000,2.83000,False,False,source,-1.18109,-1.03506,2.83000,True,0
+MACE-MP-0-ft-atom-lr1e-4,S08-Pd001-0.125,Pd,(001),c(4x4),0.12500,2,4-fold hollow,3.91592,-1.10000,2.83000,False,False,relaxed,-1.21477,-1.06874,2.85148,True,11
+MACE-MP-0-ft-atom-lr1e-4,S08-Pt001-0.125,Pt,(001),c(4x4),0.12500,2,4-fold hollow,3.92589,-1.09000,2.83000,False,False,source,-1.01243,-0.86639,2.83000,True,0
+MACE-MP-0-ft-atom-lr1e-4,S08-Pt001-0.125,Pt,(001),c(4x4),0.12500,2,4-fold hollow,3.92589,-1.09000,2.83000,False,False,relaxed,-1.10364,-0.95761,3.05131,True,15
+MACE-MP-0-ft-atom-lr1e-4,S08-Ag001-0.5,Ag,(001),c(2x2),0.50000,2,4-fold hollow,4.12996,-0.51000,3.02000,True,False,source,-0.75771,-0.61167,3.02000,True,0
+MACE-MP-0-ft-atom-lr1e-4,S08-Ag001-0.5,Ag,(001),c(2x2),0.50000,2,4-fold hollow,4.12996,-0.51000,3.02000,True,False,relaxed,-0.76187,-0.61584,2.94672,True,6
+MACE-MP-0-ft-atom-lr1e-4,S08-Au001-0.5,Au,(001),c(2x2),0.50000,2,4-fold hollow,4.13604,-0.51000,3.00000,True,False,source,-0.67447,-0.52844,3.00000,True,0
+MACE-MP-0-ft-atom-lr1e-4,S08-Au001-0.5,Au,(001),c(2x2),0.50000,2,4-fold hollow,4.13604,-0.51000,3.00000,True,False,relaxed,-0.68520,-0.53916,3.07589,True,11
+MACE-MP-0-ft-atom-lr1e-4,S08-Cu001-0.5,Cu,(001),c(2x2),0.50000,2,4-fold hollow,3.59173,-0.71000,2.80000,True,False,source,-0.86570,-0.71967,2.80000,True,0
+MACE-MP-0-ft-atom-lr1e-4,S08-Cu001-0.5,Cu,(001),c(2x2),0.50000,2,4-fold hollow,3.59173,-0.71000,2.80000,True,False,relaxed,-0.86316,-0.71713,2.79258,True,2
+MACE-MP-0-ft-atom-lr1e-4,S08-Ni001-0.5,Ni,(001),c(2x2),0.50000,2,4-fold hollow,3.48249,-0.81000,2.77000,True,True,source,-1.39629,-1.25026,2.77000,True,0
+MACE-MP-0-ft-atom-lr1e-4,S08-Ni001-0.5,Ni,(001),c(2x2),0.50000,2,4-fold hollow,3.48249,-0.81000,2.77000,True,True,relaxed,-1.39441,-1.24838,2.70221,True,6
+MACE-MP-0-ft-atom-lr1e-4,S08-Pd001-0.5,Pd,(001),c(2x2),0.50000,2,4-fold hollow,3.91592,-1.08000,2.83000,True,False,source,-1.05946,-0.91342,2.83000,True,0
+MACE-MP-0-ft-atom-lr1e-4,S08-Pd001-0.5,Pd,(001),c(2x2),0.50000,2,4-fold hollow,3.91592,-1.08000,2.83000,True,False,relaxed,-1.05629,-0.91026,2.90939,True,15
+MACE-MP-0-ft-atom-lr1e-4,S08-Pt001-0.5,Pt,(001),c(2x2),0.50000,2,4-fold hollow,3.92589,-0.97000,2.85000,True,False,source,-0.98964,-0.84361,2.85000,True,0
+MACE-MP-0-ft-atom-lr1e-4,S08-Pt001-0.5,Pt,(001),c(2x2),0.50000,2,4-fold hollow,3.92589,-0.97000,2.85000,True,False,relaxed,-1.06234,-0.91631,3.06236,True,15
+MACE-MP-0-ft-atom-lr1e-4,S08-Ag001-1,Ag,(001),c(1x1),1.00000,4,4-fold hollow,4.12996,-0.30000,3.30000,True,False,source,-0.52585,-0.37982,3.30000,True,0
+MACE-MP-0-ft-atom-lr1e-4,S08-Ag001-1,Ag,(001),c(1x1),1.00000,4,4-fold hollow,4.12996,-0.30000,3.30000,True,False,relaxed,-0.54117,-0.39513,3.14018,True,14
+MACE-MP-0-ft-atom-lr1e-4,S08-Au001-1,Au,(001),c(1x1),1.00000,4,4-fold hollow,4.13604,-0.35000,3.39000,True,False,source,-0.50597,-0.35994,3.39000,True,0
+MACE-MP-0-ft-atom-lr1e-4,S08-Au001-1,Au,(001),c(1x1),1.00000,4,4-fold hollow,4.13604,-0.35000,3.39000,True,False,relaxed,-0.50731,-0.36127,3.36981,True,4
+MACE-MP-0-ft-atom-lr1e-4,S08-Cu001-1,Cu,(001),c(1x1),1.00000,4,4-fold hollow,3.59173,0.27000,3.14000,True,False,source,0.36909,0.51513,3.14000,True,0
+MACE-MP-0-ft-atom-lr1e-4,S08-Cu001-1,Cu,(001),c(1x1),1.00000,4,4-fold hollow,3.59173,0.27000,3.14000,True,False,relaxed,0.36789,0.51393,3.21247,True,12
+MACE-MP-0-ft-atom-lr1e-4,S08-Ni001-1,Ni,(001),c(1x1),1.00000,4,4-fold hollow,3.48249,0.55000,2.99000,True,True,source,0.66907,0.81510,2.99000,True,0
+MACE-MP-0-ft-atom-lr1e-4,S08-Ni001-1,Ni,(001),c(1x1),1.00000,4,4-fold hollow,3.48249,0.55000,2.99000,True,True,relaxed,0.67937,0.82541,3.01044,True,9
+MACE-MP-0-ft-atom-lr1e-4,S08-Pd001-1,Pd,(001),c(1x1),1.00000,4,4-fold hollow,3.91592,-0.67000,2.95000,True,False,source,-0.63679,-0.49076,2.95000,True,0
+MACE-MP-0-ft-atom-lr1e-4,S08-Pd001-1,Pd,(001),c(1x1),1.00000,4,4-fold hollow,3.91592,-0.67000,2.95000,True,False,relaxed,-0.66119,-0.51516,3.09219,True,12
+MACE-MP-0-ft-atom-lr1e-4,S08-Pt001-1,Pt,(001),c(1x1),1.00000,4,4-fold hollow,3.92589,-0.58000,3.05000,True,False,source,-0.62923,-0.48320,3.05000,True,0
+MACE-MP-0-ft-atom-lr1e-4,S08-Pt001-1,Pt,(001),c(1x1),1.00000,4,4-fold hollow,3.92589,-0.58000,3.05000,True,False,relaxed,-0.69051,-0.54448,3.25147,True,10
+MACE-MP-0-ft-atom-lr1e-4,S08-Au001-0.125-bridge,Au,(001),c(4x4),0.12500,2,bridge,4.13604,-0.47000,,False,False,relaxed,-0.69819,-0.55216,2.86307,True,12
+MACE-MP-0-ft-atom-lr1e-4,S08-Au001-0.125-top,Au,(001),c(4x4),0.12500,2,top,4.13604,-0.36000,,False,False,relaxed,-0.57302,-0.42699,2.75366,True,14

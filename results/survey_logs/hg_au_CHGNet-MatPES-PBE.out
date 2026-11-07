@@ -1,0 +1,19 @@
+
+===== CHGNet-MatPES-PBE
+Au bulk a0 = 4.1559 A, B0 = 123.0 GPa
+[CHGNet-MatPES-PBE_slab] steps=2 converged=True fmax=0.0158 E=-109.561325 eV (0.6 s)
+[CHGNet-MatPES-PBE_far] steps=0 converged=True fmax=0.0158 E=-109.598114 eV (0.1 s)
+E(Hg atom)=-0.03679  E(far)-E(slab)=-0.03679  E_coh(Hg, model)=0.1474 eV
+[CHGNet-MatPES-PBE_ontop] steps=21 converged=True fmax=0.0141 E=-109.888382 eV (4.2 s)
+[CHGNet-MatPES-PBE_ontop_free] steps=21 converged=True fmax=0.0148 E=-109.888382 eV (4.6 s)
+  ontop  E_ads(A)=-0.2903 E_ads(B)=-0.2903 E_ads(C)=-0.8129  h=2.878 d=2.880 drift=0.000
+[CHGNet-MatPES-PBE_bridge] steps=12 converged=True fmax=0.0137 E=-109.975609 eV (2.5 s)
+[CHGNet-MatPES-PBE_bridge_free] steps=12 converged=True fmax=0.0165 E=-109.975594 eV (2.6 s)
+  bridge E_ads(A)=-0.3775 E_ads(B)=-0.3775 E_ads(C)=-0.9001  h=2.568 d=2.968 drift=0.000
+[CHGNet-MatPES-PBE_fcc] steps=12 converged=True fmax=0.0142 E=-110.000755 eV (2.5 s)
+[CHGNet-MatPES-PBE_fcc_free] steps=12 converged=True fmax=0.0139 E=-110.000771 eV (2.5 s)
+  fcc    E_ads(A)=-0.4026 E_ads(B)=-0.4026 E_ads(C)=-0.9253  h=2.548 d=3.061 drift=0.000
+[CHGNet-MatPES-PBE_hcp] steps=16 converged=True fmax=0.0119 E=-110.004257 eV (3.2 s)
+[CHGNet-MatPES-PBE_hcp_free] steps=16 converged=True fmax=0.0119 E=-110.004250 eV (3.4 s)
+  hcp    E_ads(A)=-0.4061 E_ads(B)=-0.4061 E_ads(C)=-0.9288  h=2.573 d=3.079 drift=0.000
+done CHGNet-MatPES-PBE (39 s)

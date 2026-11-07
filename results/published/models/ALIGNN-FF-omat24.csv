@@ -1,0 +1,87 @@
+model,system,metal,facet,overlayer,coverage_ML,n_Hg_our_cell,site_kind,a0_metal_A,E_ads_ref_eV,d_MHg_ref_A,in_main_MAE,Ni_flag,mode,E_ads_A_eV,E_ads_D_eV,d_MHg_A,converged,n_steps
+ALIGNN-FF-omat24,S08-Ag111-0.083,Ag,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,4.12586,-0.34000,3.00000,True,False,source,-0.59983,-0.26081,3.00000,True,0
+ALIGNN-FF-omat24,S08-Ag111-0.083,Ag,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,4.12586,-0.34000,3.00000,True,False,relaxed,-0.60306,-0.26403,2.95740,True,6
+ALIGNN-FF-omat24,S08-Au111-0.083,Au,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,4.15020,-0.36000,2.99000,True,False,source,-0.64720,-0.30817,2.99000,True,0
+ALIGNN-FF-omat24,S08-Au111-0.083,Au,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,4.15020,-0.36000,2.99000,True,False,relaxed,-0.66996,-0.33093,2.93143,True,8
+ALIGNN-FF-omat24,S08-Cu111-0.083,Cu,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.61052,-0.52000,2.75000,True,False,source,-0.96321,-0.62418,2.75000,True,0
+ALIGNN-FF-omat24,S08-Cu111-0.083,Cu,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.61052,-0.52000,2.75000,True,False,relaxed,-0.96463,-0.62560,2.72915,True,6
+ALIGNN-FF-omat24,S08-Ni111-0.083,Ni,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.52260,-0.67000,2.72000,True,True,source,-1.20800,-0.86897,2.72000,True,0
+ALIGNN-FF-omat24,S08-Ni111-0.083,Ni,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.52260,-0.67000,2.72000,True,True,relaxed,-0.74230,-0.40327,2.65665,True,13
+ALIGNN-FF-omat24,S08-Pd111-0.083,Pd,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.93947,-0.84000,2.81000,True,False,source,-1.16333,-0.82431,2.81000,True,0
+ALIGNN-FF-omat24,S08-Pd111-0.083,Pd,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.93947,-0.84000,2.81000,True,False,relaxed,-1.17334,-0.83431,2.79137,True,7
+ALIGNN-FF-omat24,S08-Pt111-0.083,Pt,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.96403,-0.75000,2.86000,True,False,source,-0.82603,-0.48700,2.86000,True,0
+ALIGNN-FF-omat24,S08-Pt111-0.083,Pt,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.96403,-0.75000,2.86000,True,False,relaxed,-0.85128,-0.51225,2.86711,True,6
+ALIGNN-FF-omat24,S08-Ag111-0.25,Ag,(111),p(2x2),0.25000,1,fcc hollow,4.12586,-0.36000,3.01000,True,False,source,-0.57545,-0.23642,3.01000,True,0
+ALIGNN-FF-omat24,S08-Ag111-0.25,Ag,(111),p(2x2),0.25000,1,fcc hollow,4.12586,-0.36000,3.01000,True,False,relaxed,-0.57794,-0.23891,2.96682,True,6
+ALIGNN-FF-omat24,S08-Au111-0.25,Au,(111),p(2x2),0.25000,1,fcc hollow,4.15020,-0.38000,3.01000,True,False,source,-0.61870,-0.27968,3.01000,True,0
+ALIGNN-FF-omat24,S08-Au111-0.25,Au,(111),p(2x2),0.25000,1,fcc hollow,4.15020,-0.38000,3.01000,True,False,relaxed,-0.63333,-0.29431,2.94715,True,7
+ALIGNN-FF-omat24,S08-Cu111-0.25,Cu,(111),p(2x2),0.25000,1,fcc hollow,3.61052,-0.53000,2.78000,True,False,source,-0.86562,-0.52660,2.78000,True,0
+ALIGNN-FF-omat24,S08-Cu111-0.25,Cu,(111),p(2x2),0.25000,1,fcc hollow,3.61052,-0.53000,2.78000,True,False,relaxed,-0.86978,-0.53075,2.73219,True,6
+ALIGNN-FF-omat24,S08-Ni111-0.25,Ni,(111),p(2x2),0.25000,1,fcc hollow,3.52260,-0.64000,2.74000,True,True,source,-0.95999,-0.62096,2.74000,True,0
+ALIGNN-FF-omat24,S08-Ni111-0.25,Ni,(111),p(2x2),0.25000,1,fcc hollow,3.52260,-0.64000,2.74000,True,True,relaxed,-0.86920,-0.53017,2.64396,True,18
+ALIGNN-FF-omat24,S08-Pd111-0.25,Pd,(111),p(2x2),0.25000,1,fcc hollow,3.93947,-0.81000,2.83000,True,False,source,-1.09557,-0.75655,2.83000,True,0
+ALIGNN-FF-omat24,S08-Pd111-0.25,Pd,(111),p(2x2),0.25000,1,fcc hollow,3.93947,-0.81000,2.83000,True,False,relaxed,-1.10651,-0.76749,2.79741,True,6
+ALIGNN-FF-omat24,S08-Pt111-0.25,Pt,(111),p(2x2),0.25000,1,fcc hollow,3.96403,-0.68000,2.88000,True,False,source,-0.81949,-0.48046,2.88000,True,0
+ALIGNN-FF-omat24,S08-Pt111-0.25,Pt,(111),p(2x2),0.25000,1,fcc hollow,3.96403,-0.68000,2.88000,True,False,relaxed,-0.83527,-0.49625,2.86267,True,8
+ALIGNN-FF-omat24,S08-Ag111-0.333,Ag,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,4.12586,-0.31000,3.06000,True,False,source,-0.57923,-0.24021,3.06000,True,0
+ALIGNN-FF-omat24,S08-Ag111-0.333,Ag,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,4.12586,-0.31000,3.06000,True,False,relaxed,-0.59096,-0.25194,2.96148,True,7
+ALIGNN-FF-omat24,S08-Au111-0.333,Au,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,4.15020,-0.32000,3.05000,True,False,source,-0.63231,-0.29329,3.05000,True,0
+ALIGNN-FF-omat24,S08-Au111-0.333,Au,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,4.15020,-0.32000,3.05000,True,False,relaxed,-0.65924,-0.32021,2.94041,True,13
+ALIGNN-FF-omat24,S08-Cu111-0.333,Cu,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.61052,-0.48000,2.82000,True,False,source,-0.78980,-0.45077,2.82000,True,0
+ALIGNN-FF-omat24,S08-Cu111-0.333,Cu,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.61052,-0.48000,2.82000,True,False,relaxed,-0.80660,-0.46758,2.73268,True,6
+ALIGNN-FF-omat24,S08-Ni111-0.333,Ni,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.52260,-0.61000,2.76000,True,True,source,-0.89964,-0.56061,2.76000,True,0
+ALIGNN-FF-omat24,S08-Ni111-0.333,Ni,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.52260,-0.61000,2.76000,True,True,relaxed,-1.07496,-0.73594,2.65230,True,15
+ALIGNN-FF-omat24,S08-Pd111-0.333,Pd,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.93947,-0.80000,2.83000,True,False,source,-1.14880,-0.80977,2.83000,True,0
+ALIGNN-FF-omat24,S08-Pd111-0.333,Pd,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.93947,-0.80000,2.83000,True,False,relaxed,-1.16397,-0.82494,2.79282,True,7
+ALIGNN-FF-omat24,S08-Pt111-0.333,Pt,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.96403,-0.67000,2.89000,True,False,source,-0.81227,-0.47324,2.89000,True,0
+ALIGNN-FF-omat24,S08-Pt111-0.333,Pt,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.96403,-0.67000,2.89000,True,False,relaxed,-0.83530,-0.49627,2.85857,True,10
+ALIGNN-FF-omat24,S08-Ag111-0.5,Ag,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,4.12586,-0.37000,3.09000,False,False,source,-0.59014,-0.25111,3.09000,True,0
+ALIGNN-FF-omat24,S08-Ag111-0.5,Ag,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,4.12586,-0.37000,3.09000,False,False,relaxed,-0.59026,-0.25123,3.07602,True,2
+ALIGNN-FF-omat24,S08-Au111-0.5,Au,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,4.15020,-0.35000,3.11000,False,False,source,-0.54771,-0.20869,3.11000,True,0
+ALIGNN-FF-omat24,S08-Au111-0.5,Au,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,4.15020,-0.35000,3.11000,False,False,relaxed,-0.55389,-0.21486,3.14447,True,16
+ALIGNN-FF-omat24,S08-Cu111-0.5,Cu,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.61052,-0.51000,2.87000,False,False,source,-0.69937,-0.36034,2.87000,True,0
+ALIGNN-FF-omat24,S08-Cu111-0.5,Cu,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.61052,-0.51000,2.87000,False,False,relaxed,-0.70330,-0.36427,2.82388,True,10
+ALIGNN-FF-omat24,S08-Ni111-0.5,Ni,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.52260,-0.61000,2.75000,False,True,source,-0.78249,-0.44346,2.75000,True,0
+ALIGNN-FF-omat24,S08-Ni111-0.5,Ni,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.52260,-0.61000,2.75000,False,True,relaxed,-0.76208,-0.42306,2.73215,True,10
+ALIGNN-FF-omat24,S08-Pd111-0.5,Pd,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.93947,-0.81000,2.85000,False,False,source,-0.97206,-0.63303,2.85000,True,0
+ALIGNN-FF-omat24,S08-Pd111-0.5,Pd,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.93947,-0.81000,2.85000,False,False,relaxed,-0.97583,-0.63680,2.83633,True,10
+ALIGNN-FF-omat24,S08-Pt111-0.5,Pt,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.96403,-0.69000,2.92000,False,False,source,-0.65922,-0.32020,2.92000,True,0
+ALIGNN-FF-omat24,S08-Pt111-0.5,Pt,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.96403,-0.69000,2.92000,False,False,relaxed,-0.65922,-0.32020,2.91940,True,11
+ALIGNN-FF-omat24,S08-Ag001-0.125,Ag,(001),c(4x4),0.12500,2,4-fold hollow,4.12586,-0.50000,3.01000,False,False,source,-0.61733,-0.27830,3.01000,True,0
+ALIGNN-FF-omat24,S08-Ag001-0.125,Ag,(001),c(4x4),0.12500,2,4-fold hollow,4.12586,-0.50000,3.01000,False,False,relaxed,-0.62891,-0.28989,2.94123,True,6
+ALIGNN-FF-omat24,S08-Au001-0.125,Au,(001),c(4x4),0.12500,2,4-fold hollow,4.15020,-0.61000,2.94000,False,False,source,-0.69475,-0.35572,2.94000,True,0
+ALIGNN-FF-omat24,S08-Au001-0.125,Au,(001),c(4x4),0.12500,2,4-fold hollow,4.15020,-0.61000,2.94000,False,False,relaxed,-0.77332,-0.43429,2.89668,True,10
+ALIGNN-FF-omat24,S08-Cu001-0.125,Cu,(001),c(4x4),0.12500,2,4-fold hollow,3.61052,-0.67000,2.78000,False,False,source,-0.99161,-0.65258,2.78000,True,0
+ALIGNN-FF-omat24,S08-Cu001-0.125,Cu,(001),c(4x4),0.12500,2,4-fold hollow,3.61052,-0.67000,2.78000,False,False,relaxed,-0.99004,-0.65101,2.74869,True,7
+ALIGNN-FF-omat24,S08-Ni001-0.125,Ni,(001),c(4x4),0.12500,2,4-fold hollow,3.52260,-0.82000,2.73000,False,True,source,-1.29017,-0.95114,2.73000,True,0
+ALIGNN-FF-omat24,S08-Ni001-0.125,Ni,(001),c(4x4),0.12500,2,4-fold hollow,3.52260,-0.82000,2.73000,False,True,relaxed,-1.12615,-0.78712,2.70294,True,10
+ALIGNN-FF-omat24,S08-Pd001-0.125,Pd,(001),c(4x4),0.12500,2,4-fold hollow,3.93947,-1.10000,2.83000,False,False,source,-1.48811,-1.14908,2.83000,True,0
+ALIGNN-FF-omat24,S08-Pd001-0.125,Pd,(001),c(4x4),0.12500,2,4-fold hollow,3.93947,-1.10000,2.83000,False,False,relaxed,-1.49951,-1.16048,2.81170,True,7
+ALIGNN-FF-omat24,S08-Pt001-0.125,Pt,(001),c(4x4),0.12500,2,4-fold hollow,3.96403,-1.09000,2.83000,False,False,source,-1.14545,-0.80642,2.83000,True,0
+ALIGNN-FF-omat24,S08-Pt001-0.125,Pt,(001),c(4x4),0.12500,2,4-fold hollow,3.96403,-1.09000,2.83000,False,False,relaxed,-1.16543,-0.82640,2.85102,True,11
+ALIGNN-FF-omat24,S08-Ag001-0.5,Ag,(001),c(2x2),0.50000,2,4-fold hollow,4.12586,-0.51000,3.02000,True,False,source,-0.71614,-0.37712,3.02000,True,0
+ALIGNN-FF-omat24,S08-Ag001-0.5,Ag,(001),c(2x2),0.50000,2,4-fold hollow,4.12586,-0.51000,3.02000,True,False,relaxed,-0.71656,-0.37753,2.99112,True,4
+ALIGNN-FF-omat24,S08-Au001-0.5,Au,(001),c(2x2),0.50000,2,4-fold hollow,4.15020,-0.51000,3.00000,True,False,source,-0.76934,-0.43031,3.00000,True,0
+ALIGNN-FF-omat24,S08-Au001-0.5,Au,(001),c(2x2),0.50000,2,4-fold hollow,4.15020,-0.51000,3.00000,True,False,relaxed,-0.76606,-0.42703,2.96959,True,8
+ALIGNN-FF-omat24,S08-Cu001-0.5,Cu,(001),c(2x2),0.50000,2,4-fold hollow,3.61052,-0.71000,2.80000,True,False,source,-0.96690,-0.62788,2.80000,True,0
+ALIGNN-FF-omat24,S08-Cu001-0.5,Cu,(001),c(2x2),0.50000,2,4-fold hollow,3.61052,-0.71000,2.80000,True,False,relaxed,-0.96269,-0.62366,2.78270,True,11
+ALIGNN-FF-omat24,S08-Ni001-0.5,Ni,(001),c(2x2),0.50000,2,4-fold hollow,3.52260,-0.81000,2.77000,True,True,source,-1.16668,-0.82765,2.77000,True,0
+ALIGNN-FF-omat24,S08-Ni001-0.5,Ni,(001),c(2x2),0.50000,2,4-fold hollow,3.52260,-0.81000,2.77000,True,True,relaxed,-1.25672,-0.91769,2.70215,True,4
+ALIGNN-FF-omat24,S08-Pd001-0.5,Pd,(001),c(2x2),0.50000,2,4-fold hollow,3.93947,-1.08000,2.83000,True,False,source,-1.41216,-1.07313,2.83000,True,0
+ALIGNN-FF-omat24,S08-Pd001-0.5,Pd,(001),c(2x2),0.50000,2,4-fold hollow,3.93947,-1.08000,2.83000,True,False,relaxed,-1.40921,-1.07018,2.82066,True,10
+ALIGNN-FF-omat24,S08-Pt001-0.5,Pt,(001),c(2x2),0.50000,2,4-fold hollow,3.96403,-0.97000,2.85000,True,False,source,-1.16195,-0.82293,2.85000,True,0
+ALIGNN-FF-omat24,S08-Pt001-0.5,Pt,(001),c(2x2),0.50000,2,4-fold hollow,3.96403,-0.97000,2.85000,True,False,relaxed,-1.15599,-0.81697,2.87737,True,12
+ALIGNN-FF-omat24,S08-Ag001-1,Ag,(001),c(1x1),1.00000,4,4-fold hollow,4.12586,-0.30000,3.30000,True,False,source,-0.63952,-0.30049,3.30000,True,0
+ALIGNN-FF-omat24,S08-Ag001-1,Ag,(001),c(1x1),1.00000,4,4-fold hollow,4.12586,-0.30000,3.30000,True,False,relaxed,-0.65440,-0.31538,3.16101,True,11
+ALIGNN-FF-omat24,S08-Au001-1,Au,(001),c(1x1),1.00000,4,4-fold hollow,4.15020,-0.35000,3.39000,True,False,source,-0.64138,-0.30235,3.39000,True,0
+ALIGNN-FF-omat24,S08-Au001-1,Au,(001),c(1x1),1.00000,4,4-fold hollow,4.15020,-0.35000,3.39000,True,False,relaxed,-0.65695,-0.31792,3.21786,True,14
+ALIGNN-FF-omat24,S08-Cu001-1,Cu,(001),c(1x1),1.00000,4,4-fold hollow,3.61052,0.27000,3.14000,True,False,source,0.03499,0.37402,3.14000,True,0
+ALIGNN-FF-omat24,S08-Cu001-1,Cu,(001),c(1x1),1.00000,4,4-fold hollow,3.61052,0.27000,3.14000,True,False,relaxed,0.00977,0.34880,2.97719,True,13
+ALIGNN-FF-omat24,S08-Ni001-1,Ni,(001),c(1x1),1.00000,4,4-fold hollow,3.52260,0.55000,2.99000,True,True,source,0.27326,0.61228,2.99000,True,0
+ALIGNN-FF-omat24,S08-Ni001-1,Ni,(001),c(1x1),1.00000,4,4-fold hollow,3.52260,0.55000,2.99000,True,True,relaxed,0.21700,0.55603,2.88493,True,10
+ALIGNN-FF-omat24,S08-Pd001-1,Pd,(001),c(1x1),1.00000,4,4-fold hollow,3.93947,-0.67000,2.95000,True,False,source,-0.94346,-0.60443,2.95000,True,0
+ALIGNN-FF-omat24,S08-Pd001-1,Pd,(001),c(1x1),1.00000,4,4-fold hollow,3.93947,-0.67000,2.95000,True,False,relaxed,-0.96556,-0.62654,2.91910,True,7
+ALIGNN-FF-omat24,S08-Pt001-1,Pt,(001),c(1x1),1.00000,4,4-fold hollow,3.96403,-0.58000,3.05000,True,False,source,-0.76255,-0.42352,3.05000,True,0
+ALIGNN-FF-omat24,S08-Pt001-1,Pt,(001),c(1x1),1.00000,4,4-fold hollow,3.96403,-0.58000,3.05000,True,False,relaxed,-0.77641,-0.43738,2.99895,True,7
+ALIGNN-FF-omat24,S08-Au001-0.125-bridge,Au,(001),c(4x4),0.12500,2,bridge,4.15020,-0.47000,,False,False,relaxed,-0.64049,-0.30146,2.82196,True,11
+ALIGNN-FF-omat24,S08-Au001-0.125-top,Au,(001),c(4x4),0.12500,2,top,4.15020,-0.36000,,False,False,relaxed,-0.52755,-0.18852,2.76950,True,61

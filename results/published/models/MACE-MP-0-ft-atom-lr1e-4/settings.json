@@ -1,0 +1,45 @@
+{
+ "settings": {
+  "layers": 4,
+  "vacuum": 12.0,
+  "fmax": 0.02,
+  "max_steps": 1000,
+  "atom_box": 15.0,
+  "start_height_top_bridge": 2.6,
+  "eos": {
+   "points": 11,
+   "rel_range": 0.03
+  },
+  "a_guess": {
+   "Ag": 4.09,
+   "Au": 4.08,
+   "Cu": 3.61,
+   "Ni": 3.52,
+   "Pd": 3.89,
+   "Pt": 3.92
+  }
+ },
+ "info": {
+  "model": "MACE-MP-0-ft-atom-lr1e-4",
+  "base": "MACE-MP-0 medium",
+  "checkpoint": "/home/ne212/START/work/survey/finetune/runs/MACE-MP-0-ft-atom-lr1e-4/MACE-MP-0-ft-atom-lr1e-4.model",
+  "package": "mace-torch 0.3.17",
+  "device": "cuda",
+  "dtype": "float64",
+  "dispersion": false,
+  "head": null
+ },
+ "a0": {
+  "Ag": 4.12995813758342,
+  "Au": 4.136043344526122,
+  "Cu": 3.5917293867737037,
+  "Ni": 3.4824921917642686,
+  "Pd": 3.9159234740397446,
+  "Pt": 3.9258907581254703
+ },
+ "metals_without_bound_lattice": [],
+ "E_Hg_atom": -0.023965505801103626,
+ "E_ref_D": -0.169999,
+ "Ecoh_PBE": 0.169184,
+ "wall_s": 110.85136342048645
+}

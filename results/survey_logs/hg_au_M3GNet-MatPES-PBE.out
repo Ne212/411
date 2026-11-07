@@ -1,0 +1,19 @@
+
+===== M3GNet-MatPES-PBE
+Au bulk a0 = 4.1569 A, B0 = 131.4 GPa
+[M3GNet-MatPES-PBE_slab] steps=2 converged=True fmax=0.0043 E=-111.105263 eV (0.2 s)
+[M3GNet-MatPES-PBE_far] steps=0 converged=True fmax=0.0043 E=-110.726418 eV (0.0 s)
+E(Hg atom)=0.37885  E(far)-E(slab)=0.37885  E_coh(Hg, model)=0.5664 eV
+[M3GNet-MatPES-PBE_ontop] steps=17 converged=True fmax=0.0152 E=-111.205505 eV (2.1 s)
+[M3GNet-MatPES-PBE_ontop_free] steps=17 converged=True fmax=0.0150 E=-111.205505 eV (2.1 s)
+  ontop  E_ads(A)=-0.4791 E_ads(B)=-0.4791 E_ads(C)=-0.5827  h=2.734 d=2.780 drift=0.000
+[M3GNet-MatPES-PBE_bridge] steps=14 converged=True fmax=0.0183 E=-111.398163 eV (1.8 s)
+[M3GNet-MatPES-PBE_bridge_free] steps=14 converged=True fmax=0.0183 E=-111.398163 eV (1.7 s)
+  bridge E_ads(A)=-0.6717 E_ads(B)=-0.6717 E_ads(C)=-0.7753  h=2.369 d=2.841 drift=0.000
+[M3GNet-MatPES-PBE_fcc] steps=12 converged=True fmax=0.0192 E=-111.414345 eV (1.5 s)
+[M3GNet-MatPES-PBE_fcc_free] steps=12 converged=True fmax=0.0192 E=-111.414352 eV (1.6 s)
+  fcc    E_ads(A)=-0.6879 E_ads(B)=-0.6879 E_ads(C)=-0.7915  h=2.344 d=2.911 drift=0.000
+[M3GNet-MatPES-PBE_hcp] steps=12 converged=True fmax=0.0187 E=-111.416908 eV (1.7 s)
+[M3GNet-MatPES-PBE_hcp_free] steps=12 converged=True fmax=0.0187 E=-111.416908 eV (1.5 s)
+  hcp    E_ads(A)=-0.6905 E_ads(B)=-0.6905 E_ads(C)=-0.7941  h=2.337 d=2.908 drift=0.000
+done M3GNet-MatPES-PBE (21 s)

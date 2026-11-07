@@ -1,0 +1,5 @@
+method,start_site,E_constrained,E_free,dE_free_minus_constrained,lateral_drift_free_A,height_free_A,d_AuHg_min_free_A,converged_free,n_steps_free
+NequIP-OAM-L,ontop,-112.517903,-112.517905,-0.000002,0.000000,2.901112,2.888652,True,19
+NequIP-OAM-L,bridge,-112.570070,-112.570086,-0.000016,0.002124,2.533395,2.960545,True,6
+NequIP-OAM-L,fcc,-112.598077,-112.598081,-0.000003,0.000000,2.450928,3.003114,True,10
+NequIP-OAM-L,hcp,-112.590015,-112.590015,0.000001,0.000000,2.471964,3.018536,True,10

@@ -1,0 +1,22 @@
+cuequivariance or cuequivariance_torch is not available. Cuequivariance acceleration will be disabled.
+Using Materials Project MACE for MACECalculator with /home/ne212/.cache/mace/macemh1model
+Using float64 for MACECalculator, which is slower but more accurate. Recommended for geometry optimization.
+
+===== MACE-MH-1-oc20
+Au bulk a0 = 4.2006 A, B0 = 121.8 GPa
+[MACE-MH-1-oc20_slab] steps=2 converged=True fmax=0.0066 E=-90.578656 eV (0.6 s)
+[MACE-MH-1-oc20_far] steps=0 converged=True fmax=0.0066 E=-90.560752 eV (0.1 s)
+E(Hg atom)=0.01790  E(far)-E(slab)=0.01790  E_coh(Hg, model)=0.0049 eV
+[MACE-MH-1-oc20_ontop] steps=24 converged=True fmax=0.0151 E=-90.646811 eV (1.6 s)
+[MACE-MH-1-oc20_ontop_free] steps=24 converged=True fmax=0.0151 E=-90.646811 eV (1.4 s)
+  ontop  E_ads(A)=-0.0861 E_ads(B)=-0.0861 E_ads(C)=-0.7512  h=3.111 d=3.016 drift=0.000
+[MACE-MH-1-oc20_bridge] steps=17 converged=True fmax=0.0139 E=-90.660464 eV (1.0 s)
+[MACE-MH-1-oc20_bridge_free] steps=17 converged=True fmax=0.0139 E=-90.660463 eV (1.1 s)
+  bridge E_ads(A)=-0.0997 E_ads(B)=-0.0997 E_ads(C)=-0.7649  h=2.692 d=3.073 drift=0.000
+[MACE-MH-1-oc20_fcc] steps=7 converged=True fmax=0.0155 E=-90.669728 eV (0.5 s)
+[MACE-MH-1-oc20_fcc_free] steps=7 converged=True fmax=0.0155 E=-90.669728 eV (0.5 s)
+  fcc    E_ads(A)=-0.1090 E_ads(B)=-0.1090 E_ads(C)=-0.7741  h=2.546 d=3.094 drift=0.000
+[MACE-MH-1-oc20_hcp] steps=14 converged=True fmax=0.0179 E=-90.669764 eV (0.9 s)
+[MACE-MH-1-oc20_hcp_free] steps=14 converged=True fmax=0.0179 E=-90.669764 eV (0.9 s)
+  hcp    E_ads(A)=-0.1090 E_ads(B)=-0.1090 E_ads(C)=-0.7742  h=2.589 d=3.115 drift=0.000
+done MACE-MH-1-oc20 (17 s)

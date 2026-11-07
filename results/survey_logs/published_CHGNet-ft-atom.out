@@ -1,0 +1,48 @@
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+CHGNet v0.3.0 initialized with 412,525 parameters
+CHGNet will run on cuda
+S08-Ag111-0.083          n=1 fcc hollow           source:-0.764 relaxed:-0.766 ref -0.34
+S08-Au111-0.083          n=1 fcc hollow           source:-0.945 relaxed:-0.957 ref -0.36
+S08-Cu111-0.083          n=1 fcc hollow           source:-0.774 relaxed:-0.777 ref -0.52
+S08-Ni111-0.083          n=1 fcc hollow           source:-1.682 relaxed:-1.717 ref -0.67
+S08-Pd111-0.083          n=1 fcc hollow           source:-1.473 relaxed:-1.536 ref -0.84
+S08-Pt111-0.083          n=1 fcc hollow           source:-1.267 relaxed:-1.302 ref -0.75
+S08-Ag111-0.25           n=1 fcc hollow           source:-0.746 relaxed:-0.749 ref -0.36
+S08-Au111-0.25           n=1 fcc hollow           source:-0.915 relaxed:-0.915 ref -0.38
+S08-Cu111-0.25           n=1 fcc hollow           source:-0.827 relaxed:-0.829 ref -0.53
+S08-Ni111-0.25           n=1 fcc hollow           source:-1.723 relaxed:-1.759 ref -0.64
+S08-Pd111-0.25           n=1 fcc hollow           source:-1.475 relaxed:-1.513 ref -0.81
+S08-Pt111-0.25           n=1 fcc hollow           source:-1.257 relaxed:-1.263 ref -0.68
+S08-Ag111-0.333          n=1 fcc hollow           source:-0.800 relaxed:-0.813 ref -0.31
+S08-Au111-0.333          n=1 fcc hollow           source:-0.925 relaxed:-0.934 ref -0.32
+S08-Cu111-0.333          n=1 fcc hollow           source:-0.893 relaxed:-0.896 ref -0.48
+S08-Ni111-0.333          n=1 fcc hollow           source:-1.721 relaxed:-1.770 ref -0.61
+S08-Pd111-0.333          n=1 fcc hollow           source:-1.512 relaxed:-1.538 ref -0.80
+S08-Pt111-0.333          n=1 fcc hollow           source:-1.293 relaxed:-1.301 ref -0.67
+S08-Ag111-0.5            n=2 fcc+hcp honeycomb    source:-0.847 relaxed:-0.854 ref -0.37
+S08-Au111-0.5            n=2 fcc+hcp honeycomb    source:-0.903 relaxed:-0.923 ref -0.35
+S08-Cu111-0.5            n=2 fcc+hcp honeycomb    source:-0.841 relaxed:-0.847 ref -0.51
+S08-Ni111-0.5            n=2 fcc+hcp honeycomb    source:-1.521 relaxed:-1.526 ref -0.61
+S08-Pd111-0.5            n=2 fcc+hcp honeycomb    source:-1.430 relaxed:-1.457 ref -0.81
+S08-Pt111-0.5            n=2 fcc+hcp honeycomb    source:-1.204 relaxed:-1.210 ref -0.69
+S08-Ag001-0.125          n=2 4-fold hollow        source:-0.944 relaxed:-0.951 ref -0.50
+S08-Au001-0.125          n=2 4-fold hollow        source:-1.123 relaxed:-1.146 ref -0.61
+S08-Cu001-0.125          n=2 4-fold hollow        source:-0.949 relaxed:-0.956 ref -0.67
+S08-Ni001-0.125          n=2 4-fold hollow        source:-1.821 relaxed:-1.827 ref -0.82
+S08-Pd001-0.125          n=2 4-fold hollow        source:-1.741 relaxed:-1.862 ref -1.10
+S08-Pt001-0.125          n=2 4-fold hollow        source:-1.465 relaxed:-1.594 ref -1.09
+S08-Ag001-0.5            n=2 4-fold hollow        source:-0.966 relaxed:-0.968 ref -0.51
+S08-Au001-0.5            n=2 4-fold hollow        source:-1.091 relaxed:-1.091 ref -0.51
+S08-Cu001-0.5            n=2 4-fold hollow        source:-1.069 relaxed:-1.070 ref -0.71
+S08-Ni001-0.5            n=2 4-fold hollow        source:-1.885 relaxed:-1.890 ref -0.81
+S08-Pd001-0.5            n=2 4-fold hollow        source:-1.692 relaxed:-1.737 ref -1.08
+S08-Pt001-0.5            n=2 4-fold hollow        source:-1.472 relaxed:-1.514 ref -0.97
+S08-Ag001-1              n=4 4-fold hollow        source:-0.784 relaxed:-0.847 ref -0.30
+S08-Au001-1              n=4 4-fold hollow        source:-0.770 relaxed:-0.869 ref -0.35
+S08-Cu001-1              n=4 4-fold hollow        source:+0.010 relaxed:-0.861 ref +0.27
+S08-Ni001-1              n=4 4-fold hollow        source:+0.055 relaxed:-1.245 ref +0.55
+S08-Pd001-1              n=4 4-fold hollow        source:-1.281 relaxed:-1.289 ref -0.67
+S08-Pt001-1              n=4 4-fold hollow        source:-1.012 relaxed:-1.012 ref -0.58
+S08-Au001-0.125-bridge   n=2 bridge               relaxed:-0.896 ref -0.47
+S08-Au001-0.125-top      n=2 top                  relaxed:-0.817 ref -0.36
+done CHGNet-ft-atom 193 s

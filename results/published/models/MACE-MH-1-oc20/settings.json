@@ -1,0 +1,43 @@
+{
+ "settings": {
+  "layers": 4,
+  "vacuum": 12.0,
+  "fmax": 0.02,
+  "max_steps": 1000,
+  "atom_box": 15.0,
+  "start_height_top_bridge": 2.6,
+  "eos": {
+   "points": 11,
+   "rel_range": 0.03
+  },
+  "a_guess": {
+   "Ag": 4.09,
+   "Au": 4.08,
+   "Cu": 3.61,
+   "Ni": 3.52,
+   "Pd": 3.89,
+   "Pt": 3.92
+  }
+ },
+ "info": {
+  "model": "MACE-MH-1-oc20",
+  "mace_name": "mh-1",
+  "head": "oc20_usemppbe",
+  "package": "mace-torch 0.3.17",
+  "device": "cuda",
+  "dtype": "float64",
+  "dispersion": false
+ },
+ "a0": {
+  "Ag": 4.2150971116935265,
+  "Au": 4.200582049886264,
+  "Cu": 3.6824844435895976,
+  "Ni": 3.544154944300454,
+  "Pd": 3.9726456426547294,
+  "Pt": 3.9887591801633615
+ },
+ "E_Hg_atom": 0.017904255524624796,
+ "E_ref_D": 0.182238,
+ "Ecoh_PBE": 0.169184,
+ "wall_s": 50.28814148902893
+}

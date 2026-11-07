@@ -1,0 +1,20 @@
+Converting model backend...
+
+===== SevenNet-Omni-mpa
+Au bulk a0 = 4.1678 A, B0 = 132.6 GPa
+[SevenNet-Omni-mpa_slab] steps=2 converged=True fmax=0.0110 E=-111.865646 eV (0.4 s)
+[SevenNet-Omni-mpa_far] steps=0 converged=True fmax=0.0110 E=-111.876801 eV (0.1 s)
+E(Hg atom)=-0.01116  E(far)-E(slab)=-0.01115  E_coh(Hg, model)=0.2899 eV
+[SevenNet-Omni-mpa_ontop] steps=21 converged=True fmax=0.0198 E=-112.243614 eV (1.6 s)
+[SevenNet-Omni-mpa_ontop_free] steps=21 converged=True fmax=0.0198 E=-112.243614 eV (1.6 s)
+  ontop  E_ads(A)=-0.3668 E_ads(B)=-0.3668 E_ads(C)=-0.7469  h=2.934 d=2.897 drift=0.000
+[SevenNet-Omni-mpa_bridge] steps=7 converged=True fmax=0.0164 E=-112.309120 eV (0.6 s)
+[SevenNet-Omni-mpa_bridge_free] steps=7 converged=True fmax=0.0164 E=-112.309128 eV (0.6 s)
+  bridge E_ads(A)=-0.4323 E_ads(B)=-0.4323 E_ads(C)=-0.8124  h=2.532 d=2.955 drift=0.000
+[SevenNet-Omni-mpa_fcc] steps=10 converged=True fmax=0.0184 E=-112.338020 eV (0.8 s)
+[SevenNet-Omni-mpa_fcc_free] steps=10 converged=True fmax=0.0184 E=-112.338028 eV (0.8 s)
+  fcc    E_ads(A)=-0.4612 E_ads(B)=-0.4612 E_ads(C)=-0.8413  h=2.460 d=3.005 drift=0.000
+[SevenNet-Omni-mpa_hcp] steps=12 converged=True fmax=0.0148 E=-112.330231 eV (0.9 s)
+[SevenNet-Omni-mpa_hcp_free] steps=12 converged=True fmax=0.0148 E=-112.330231 eV (0.9 s)
+  hcp    E_ads(A)=-0.4534 E_ads(B)=-0.4534 E_ads(C)=-0.8335  h=2.463 d=3.007 drift=0.000
+done SevenNet-Omni-mpa (19 s)

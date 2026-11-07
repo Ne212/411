@@ -1,0 +1,41 @@
+{
+ "settings": {
+  "layers": 4,
+  "vacuum": 12.0,
+  "fmax": 0.02,
+  "max_steps": 1000,
+  "atom_box": 15.0,
+  "start_height_top_bridge": 2.6,
+  "eos": {
+   "points": 11,
+   "rel_range": 0.03
+  },
+  "a_guess": {
+   "Ag": 4.09,
+   "Au": 4.08,
+   "Cu": 3.61,
+   "Ni": 3.52,
+   "Pd": 3.89,
+   "Pt": 3.92
+  }
+ },
+ "info": {
+  "model": "MatterSim-5M",
+  "checkpoint": "MatterSim-v1.0.0-5M",
+  "package": "mattersim 1.2.5",
+  "device": "cuda",
+  "dtype": "float32"
+ },
+ "a0": {
+  "Ag": 4.16580477196441,
+  "Au": 4.171246954803892,
+  "Cu": 3.6182975150705667,
+  "Ni": 3.50688131765646,
+  "Pd": 3.9527096133342727,
+  "Pt": 3.9773469848852763
+ },
+ "E_Hg_atom": "-0.051316857",
+ "E_ref_D": -0.12401699999999999,
+ "Ecoh_PBE": 0.169184,
+ "wall_s": 45.33930969238281
+}

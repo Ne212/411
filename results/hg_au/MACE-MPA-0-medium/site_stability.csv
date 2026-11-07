@@ -1,0 +1,5 @@
+method,start_site,E_constrained,E_free,dE_free_minus_constrained,lateral_drift_free_A,height_free_A,d_AuHg_min_free_A,converged_free,n_steps_free
+MACE-MPA-0-medium,ontop,-112.452647,-112.452647,-0.000000,0.000000,2.946365,2.914337,True,21
+MACE-MPA-0-medium,bridge,-112.573897,-112.574023,-0.000126,0.004800,2.514497,2.940479,True,9
+MACE-MPA-0-medium,fcc,-112.599480,-112.599480,0.000000,0.000000,2.509309,3.049332,True,7
+MACE-MPA-0-medium,hcp,-112.592701,-112.592701,-0.000000,0.000000,2.515888,3.053107,True,9

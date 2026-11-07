@@ -1,0 +1,40 @@
+{
+ "model": "TensorNet-MatPES-PBE",
+ "ok": true,
+ "info": {
+  "model": "TensorNet-MatPES-PBE",
+  "hf_repo": "materialyze/TensorNet-PES-MatPES-PBE-2025.2",
+  "package": "matgl 4.1.4",
+  "device": "cpu",
+  "dtype": "float32",
+  "stress_unit": "eV/A3"
+ },
+ "t_load_s": 7.6,
+ "E_Au_bulk_a4.08_per_atom": -3.1717774868011475,
+ "E_Hg_atom_15A": -0.6054887175559998,
+ "E_Au_atom_15A": -0.7797597050666809,
+ "sum_forces_rattled_Au32": 3.8743019104003906e-07,
+ "stress_analytic_eVA3": [
+  -0.027153005823493004,
+  -0.026997653767466545,
+  -0.026472100988030434,
+  1.2784382441566322e-09,
+  0.0,
+  0.0050893137231469154
+ ],
+ "stress_numeric_eVA3": [
+  -0.027136980028641032,
+  -0.0266596964602981,
+  -0.02652332972648583,
+  -0.0001363667338122665,
+  0.0,
+  0.00484101905033546
+ ],
+ "stress_max_abs_diff_eVA3": 0.00033795730716844677,
+ "t_single_point_37atoms_s": 0.0725,
+ "E_slab_Hg_37": -109.69715881347656,
+ "torch": "2.11.0+cu130",
+ "cuda": true,
+ "gpu_mem_peak_MB": 0.0,
+ "t_total_s": 8.0
+}

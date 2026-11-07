@@ -1,0 +1,5 @@
+model,run,E_ads ontop (held out) − QE (eV),E_ads bridge/fcc/hcp (trained): MAE vs QE (eV),free-atom error E_coh(model) − E_coh(QE) (eV),a0(Au) − QE (Å),B0(Au) − QE (GPa),"Steckel, Au rows (5): MAE A (eV)","Steckel, Ag/Cu/Ni/Pd/Pt (25): MAE A (eV)","Steckel, Ag/Cu/Ni/Pd/Pt (25): MAE D (eV)","Steckel, Ag/Cu/Pd/Pt (20): MAE A (eV)",max |Δa0| Ag/Cu/Ni/Pd/Pt vs foundation (Å),metals with flat / minimum-less E(a) (lost)
+MACE-MP-0-medium,foundation,-0.3080,0.4366,0.2188,0.0261,-8.4513,0.3719,0.4226,0.2322,0.3605,0.0000,none
+MACE-MP-0-ft-atom,"(a) + free atom, no replay, lr 1e-3, 200 epochs",-0.0138,0.0506,-0.0008,0.0015,-22.4157,0.0410,,,,,"Ag,Cu,Ni,Pd,Pt"
+MACE-MP-0-ft-atom-lr1e-4,"(b) + free atom, no replay, lr 1e-4, 15 epochs",-0.2562,0.3224,0.1460,-0.0143,1.2868,0.2396,0.3017,0.2095,0.2231,0.0502,none
+MACE-MP-0-ft-atom-replay,"(c) + free atom, replay 2000 MPtrj, lr 1e-4, 15 epochs",-0.1242,0.1885,-0.0022,-0.0132,-7.0980,0.1059,0.1726,0.1740,0.1195,0.0263,none

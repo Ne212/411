@@ -1,0 +1,42 @@
+{
+ "settings": {
+  "layers": 4,
+  "vacuum": 12.0,
+  "fmax": 0.02,
+  "max_steps": 1000,
+  "atom_box": 15.0,
+  "start_height_top_bridge": 2.6,
+  "eos": {
+   "points": 11,
+   "rel_range": 0.03
+  },
+  "a_guess": {
+   "Ag": 4.09,
+   "Au": 4.08,
+   "Cu": 3.61,
+   "Ni": 3.52,
+   "Pd": 3.89,
+   "Pt": 3.92
+  }
+ },
+ "info": {
+  "model": "ALIGNN-FF-mptrj",
+  "alignn_name": "alignn_ff_mptrj",
+  "patch": "forces reshaped to (N,3) for 1-atom cells",
+  "package": "alignn 2026.11.1",
+  "device": "cuda",
+  "dtype": "float32"
+ },
+ "a0": {
+  "Ag": 4.161381335708604,
+  "Au": 4.171450830832624,
+  "Cu": 3.6101912242264347,
+  "Ni": 3.5527525777732705,
+  "Pd": 3.9545492307484214,
+  "Pt": 3.9755951597110446
+ },
+ "E_Hg_atom": 0.3276665210723877,
+ "E_ref_D": -0.11414200000000002,
+ "Ecoh_PBE": 0.169184,
+ "wall_s": 400.95832443237305
+}

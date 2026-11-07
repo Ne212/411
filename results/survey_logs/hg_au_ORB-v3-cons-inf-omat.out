@@ -1,0 +1,28 @@
+Warp 1.19.0 initialized:
+   CUDA Toolkit 13.4, Driver 13.2
+   Devices:
+     "cpu"      : "x86_64"
+     "cuda:0"   : "NVIDIA RTX PRO 4000 Blackwell" (23 GiB, sm_120, mempool enabled)
+   Kernel cache:
+     /home/ne212/.cache/warp/1.19.0
+
+===== ORB-v3-cons-inf-omat
+Module nvalchemiops.neighbors.neighbor_utils d062b50 load on device 'cuda:0' took 0.69 ms  (cached)
+Module nvalchemiops.neighbors.naive c176179 load on device 'cuda:0' took 1.13 ms  (cached)
+Au bulk a0 = 4.1508 A, B0 = 134.5 GPa
+[ORB-v3-cons-inf-omat_slab] steps=2 converged=True fmax=0.0047 E=-111.112350 eV (0.5 s)
+[ORB-v3-cons-inf-omat_far] steps=0 converged=True fmax=0.0051 E=-110.971184 eV (0.0 s)
+E(Hg atom)=0.14434  E(far)-E(slab)=0.14117  E_coh(Hg, model)=0.3316 eV
+[ORB-v3-cons-inf-omat_ontop] steps=23 converged=True fmax=0.0185 E=-111.176514 eV (1.4 s)
+[ORB-v3-cons-inf-omat_ontop_free] steps=23 converged=True fmax=0.0184 E=-111.176514 eV (1.3 s)
+  ontop  E_ads(A)=-0.2085 E_ads(B)=-0.2053 E_ads(C)=-0.5469  h=3.091 d=2.984 drift=0.000
+[ORB-v3-cons-inf-omat_bridge] steps=15 converged=True fmax=0.0118 E=-111.375381 eV (1.2 s)
+[ORB-v3-cons-inf-omat_bridge_free] steps=40 converged=True fmax=0.0187 E=-111.474724 eV (3.0 s)
+  bridge E_ads(A)=-0.4074 E_ads(B)=-0.4042 E_ads(C)=-0.7457  h=2.432 d=2.881 drift=0.000
+[ORB-v3-cons-inf-omat_fcc] steps=6 converged=True fmax=0.0192 E=-111.475861 eV (0.4 s)
+[ORB-v3-cons-inf-omat_fcc_free] steps=6 converged=True fmax=0.0192 E=-111.475876 eV (0.4 s)
+  fcc    E_ads(A)=-0.5079 E_ads(B)=-0.5047 E_ads(C)=-0.8462  h=2.426 d=2.963 drift=0.000
+[ORB-v3-cons-inf-omat_hcp] steps=11 converged=True fmax=0.0178 E=-111.468483 eV (0.6 s)
+[ORB-v3-cons-inf-omat_hcp_free] steps=11 converged=True fmax=0.0179 E=-111.468491 eV (0.6 s)
+  hcp    E_ads(A)=-0.5005 E_ads(B)=-0.4973 E_ads(C)=-0.8388  h=2.415 d=2.959 drift=0.000
+done ORB-v3-cons-inf-omat (20 s)

@@ -1,0 +1,5 @@
+method,start_site,E_constrained,E_free,dE_free_minus_constrained,lateral_drift_free_A,height_free_A,d_AuHg_min_free_A,converged_free,n_steps_free
+ORB-v3-cons-inf-mpa,ontop,-112.119484,-112.119484,0.000000,0.001915,2.902115,2.840598,True,22
+ORB-v3-cons-inf-mpa,bridge,-112.223022,-112.223083,-0.000061,0.005730,2.510522,2.917106,True,7
+ORB-v3-cons-inf-mpa,fcc,-112.272041,-112.272049,-0.000008,0.000528,2.415470,2.957533,True,10
+ORB-v3-cons-inf-mpa,hcp,-112.259140,-112.259125,0.000015,0.001395,2.452440,2.983584,True,9

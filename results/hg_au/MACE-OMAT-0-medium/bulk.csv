@@ -1,0 +1,2 @@
+method,a0_A,a_brent_A,B0_GPa,E_slab,slab_converged,E_Hg_atom,E_far,far_converged,far_height_A,far_dmin_AuHg_A,E_far_minus_slab,E_Hg_bulk_per_atom,Hg_bulk_converged,Hg_bulk_a_A,Hg_bulk_alpha_deg,Hg_bulk_V_per_atom,Ecoh_Hg_model,Ecoh_Hg_exp,Ecoh_Hg_PBE,atom_error_vs_PBE,model,wall_time_s
+MACE-OMAT-0-medium,4.154103,4.154039,140.150436,-110.555868,True,-0.124547,-110.680415,True,10.000000,10.142785,-0.124547,-0.172222,True,3.307818,69.586075,30.708388,0.047675,0.670000,0.169184,-0.121509,MACE-OMAT-0-medium,16.667022

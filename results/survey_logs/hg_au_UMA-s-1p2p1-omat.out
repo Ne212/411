@@ -1,0 +1,20 @@
+
+===== UMA-s-1p2p1-omat
+WARNING:root:Running (unknown commit) with inference settings: batch
+Au bulk a0 = 4.1559 A, B0 = 153.7 GPa
+[UMA-s-1p2p1-omat_slab] steps=6 converged=True fmax=0.0128 E=-109.922654 eV (1.4 s)
+[UMA-s-1p2p1-omat_far] steps=0 converged=True fmax=0.0142 E=-110.067183 eV (0.1 s)
+E(Hg atom)=-0.01104  E(far)-E(slab)=-0.14453  E_coh(Hg, model)=0.1550 eV
+[UMA-s-1p2p1-omat_ontop] steps=19 converged=True fmax=0.0180 E=-110.224851 eV (3.0 s)
+[UMA-s-1p2p1-omat_ontop_free] steps=19 converged=True fmax=0.0180 E=-110.224853 eV (4.3 s)
+  ontop  E_ads(A)=-0.2912 E_ads(B)=-0.1577 E_ads(C)=-0.8062  h=2.945 d=2.929 drift=0.000
+[UMA-s-1p2p1-omat_bridge] steps=6 converged=True fmax=0.0146 E=-110.282258 eV (1.5 s)
+[UMA-s-1p2p1-omat_bridge_free] steps=6 converged=True fmax=0.0146 E=-110.282271 eV (1.1 s)
+  bridge E_ads(A)=-0.3486 E_ads(B)=-0.2151 E_ads(C)=-0.8636  h=2.527 d=2.954 drift=0.000
+[UMA-s-1p2p1-omat_fcc] steps=10 converged=True fmax=0.0185 E=-110.304048 eV (1.7 s)
+[UMA-s-1p2p1-omat_fcc_free] steps=10 converged=True fmax=0.0184 E=-110.304046 eV (1.8 s)
+  fcc    E_ads(A)=-0.3704 E_ads(B)=-0.2369 E_ads(C)=-0.8854  h=2.458 d=3.008 drift=0.000
+[UMA-s-1p2p1-omat_hcp] steps=12 converged=True fmax=0.0195 E=-110.313105 eV (3.0 s)
+[UMA-s-1p2p1-omat_hcp_free] steps=12 converged=True fmax=0.0195 E=-110.313103 eV (2.5 s)
+  hcp    E_ads(A)=-0.3794 E_ads(B)=-0.2459 E_ads(C)=-0.8944  h=2.419 d=2.981 drift=0.000
+done UMA-s-1p2p1-omat (38 s)

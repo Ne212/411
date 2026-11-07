@@ -1,0 +1,41 @@
+{
+ "settings": {
+  "layers": 4,
+  "vacuum": 12.0,
+  "fmax": 0.02,
+  "max_steps": 1000,
+  "atom_box": 15.0,
+  "start_height_top_bridge": 2.6,
+  "eos": {
+   "points": 11,
+   "rel_range": 0.03
+  },
+  "a_guess": {
+   "Ag": 4.09,
+   "Au": 4.08,
+   "Cu": 3.61,
+   "Ni": 3.52,
+   "Pd": 3.89,
+   "Pt": 3.92
+  }
+ },
+ "info": {
+  "model": "GRACE-2L-SMAX-OMAT-L",
+  "grace_name": "GRACE-2L-SMAX-OMAT-large-fp64",
+  "package": "tensorpotential 0.6.2.1",
+  "device": "TF default (GPU if visible)",
+  "dtype": "float64"
+ },
+ "a0": {
+  "Ag": 4.146364358828028,
+  "Au": 4.156904862525196,
+  "Cu": 3.6202728667205917,
+  "Ni": 3.50993253069795,
+  "Pd": 3.940295345110893,
+  "Pt": 3.9650751256393906
+ },
+ "E_Hg_atom": -0.11706589516375034,
+ "E_ref_D": -0.012736999999999998,
+ "Ecoh_PBE": 0.169184,
+ "wall_s": 54.88787317276001
+}

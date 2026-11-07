@@ -1,0 +1,111 @@
+{
+ "settings": {
+  "slab_size": [
+   3,
+   3,
+   4
+  ],
+  "vacuum": 12.0,
+  "fixed_layers": "tag >= 3 (bottom 2 of 4)",
+  "sites": [
+   "ontop",
+   "bridge",
+   "fcc",
+   "hcp"
+  ],
+  "hg_start_height": 2.5,
+  "hg_lateral": "fixed (FixedLine along z) so each site stays at its high-symmetry position; an unconstrained relaxation is also run per site -> mlip_site_stability.csv",
+  "far_height": 10.0,
+  "far_lateral_site": "fcc",
+  "atom_box": 15.0,
+  "optimizer": "BFGS",
+  "fmax": 0.02,
+  "max_steps": 1000,
+  "eos_grid": {
+   "points": 11,
+   "rel_range": 0.03,
+   "eos": "birchmurnaghan"
+  },
+  "hg_bulk": "alpha-Hg rhombohedral (ASE reference a=2.99 A, alpha=70.45 deg), full cell+position relaxation with FrechetCellFilter",
+  "Ecoh_exp_Hg": 0.67,
+  "scan_heights": [
+   1.8,
+   1.9,
+   2.0,
+   2.1,
+   2.2,
+   2.3,
+   2.4,
+   2.5,
+   2.6,
+   2.7,
+   2.8,
+   2.9,
+   3.0,
+   3.1,
+   3.2,
+   3.3,
+   3.4,
+   3.5,
+   3.6,
+   3.7,
+   3.8,
+   3.9,
+   4.0,
+   4.25,
+   4.5,
+   4.75,
+   5.0,
+   5.25,
+   5.5,
+   5.75,
+   6.0,
+   6.25,
+   6.5,
+   6.75,
+   7.0,
+   7.25,
+   7.5,
+   7.75,
+   8.0,
+   8.25,
+   8.5,
+   8.75,
+   9.0,
+   9.25,
+   9.5,
+   9.75,
+   10.0,
+   10.25,
+   10.5,
+   10.75,
+   11.0,
+   11.25,
+   11.5,
+   11.75,
+   12.0
+  ],
+  "scan_note": "rigid scan: relaxed clean slab frozen, Hg above fcc hollow, single points"
+ },
+ "Ecoh_PBE_Hg": 0.169184,
+ "ase": "3.29.0",
+ "torch": "2.11.0+cu130",
+ "cuda": true,
+ "gpu": "NVIDIA RTX PRO 4000 Blackwell",
+ "date": "2026-11-04 16:20:47"
+}
+
+===== ORB-v3-cons-inf-omat: {"model": "ORB-v3-cons-inf-omat", "package": "orb-models 0.7.0", "device": "cuda", "wrapper": "FullPBC: slabs evaluated with pbc=True (vacuum gap >= 12 A checked)", "precision": "float32-highest", "compile": false, "a_bracket": [3.8, 4.4]}
+Au bulk: {'a_brent': 4.1506647093421165, 'a0': 4.150754378319551, 'B0_GPa': 134.45934675526604, 'E0_per_atom': -3.212705595351548}
+[ORB-v3-cons-inf-omat_slab] steps=2 converged=True fmax=0.0047 E=-111.112350 eV (0.5 s)
+[ORB-v3-cons-inf-omat_far] steps=0 converged=True fmax=0.0051 E=-110.971184 eV (0.0 s)
+alpha-Hg: E/atom=-0.187301 converged=True cellpar=[3.191, 3.1902, 3.1911, 75.4008, 75.3999, 75.398] V/atom=29.799 E_coh(model)=0.3316
+[ORB-v3-cons-inf-omat_ontop] steps=23 converged=True fmax=0.0185 E=-111.176514 eV (1.4 s)
+[ORB-v3-cons-inf-omat_ontop_free] steps=23 converged=True fmax=0.0184 E=-111.176514 eV (1.3 s)
+[ORB-v3-cons-inf-omat_bridge] steps=15 converged=True fmax=0.0118 E=-111.375381 eV (1.2 s)
+[ORB-v3-cons-inf-omat_bridge_free] steps=40 converged=True fmax=0.0187 E=-111.474724 eV (3.0 s)
+[ORB-v3-cons-inf-omat_fcc] steps=6 converged=True fmax=0.0192 E=-111.475861 eV (0.4 s)
+[ORB-v3-cons-inf-omat_fcc_free] steps=6 converged=True fmax=0.0192 E=-111.475876 eV (0.4 s)
+[ORB-v3-cons-inf-omat_hcp] steps=11 converged=True fmax=0.0178 E=-111.468483 eV (0.6 s)
+[ORB-v3-cons-inf-omat_hcp_free] steps=11 converged=True fmax=0.0179 E=-111.468491 eV (0.6 s)
+wall time 20.2 s

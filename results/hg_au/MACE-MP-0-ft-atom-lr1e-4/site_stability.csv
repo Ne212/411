@@ -1,0 +1,5 @@
+method,start_site,E_constrained,E_free,dE_free_minus_constrained,lateral_drift_free_A,height_free_A,d_AuHg_min_free_A,converged_free,n_steps_free
+MACE-MP-0-ft-atom-lr1e-4,ontop,-111.815707,-111.815707,0.000000,0.000000,2.757488,2.785462,True,18
+MACE-MP-0-ft-atom-lr1e-4,bridge,-111.933994,-111.933995,-0.000001,0.000818,2.533020,2.941621,True,7
+MACE-MP-0-ft-atom-lr1e-4,fcc,-111.946341,-111.946341,-0.000000,0.000000,2.493062,3.025255,True,7
+MACE-MP-0-ft-atom-lr1e-4,hcp,-111.948333,-111.948333,-0.000000,0.000000,2.488712,3.021213,True,7

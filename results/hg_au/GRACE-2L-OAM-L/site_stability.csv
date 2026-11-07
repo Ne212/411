@@ -1,0 +1,5 @@
+method,start_site,E_constrained,E_free,dE_free_minus_constrained,lateral_drift_free_A,height_free_A,d_AuHg_min_free_A,converged_free,n_steps_free
+GRACE-2L-OAM-L,ontop,-112.347538,-112.347538,-0.000000,0.000000,2.872331,2.867662,True,19
+GRACE-2L-OAM-L,bridge,-112.420633,-112.420633,-0.000000,0.000229,2.537577,2.961630,True,6
+GRACE-2L-OAM-L,fcc,-112.443703,-112.443703,0.000000,0.000000,2.482889,3.024475,True,9
+GRACE-2L-OAM-L,hcp,-112.441930,-112.441930,0.000000,0.000000,2.489367,3.030038,True,9

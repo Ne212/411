@@ -1,0 +1,22 @@
+{
+ "model": "ALIGNN-FF-matpes-pbe",
+ "ok": true,
+ "info": {
+  "model": "ALIGNN-FF-matpes-pbe",
+  "alignn_name": "alignn_ff_matpes_pbe",
+  "package": "alignn 2026.11.1",
+  "device": "cuda",
+  "dtype": "float32"
+ },
+ "t_load_s": 29.3,
+ "E_Au_bulk_a4.08_per_atom": -3.190671920776367,
+ "E_Hg_atom_15A": 0.11663413047790527,
+ "E_Au_atom_15A": -0.3876350522041321,
+ "sum_forces_rattled_Au32": 2.980232238769531e-07,
+ "t_single_point_37atoms_s": 0.0284,
+ "E_slab_Hg_37": -112.23236179351807,
+ "torch": "2.11.0+cu130",
+ "cuda": true,
+ "gpu_mem_peak_MB": 549.5,
+ "t_total_s": 30.8
+}

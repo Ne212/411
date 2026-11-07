@@ -1,0 +1,2 @@
+method,a0_A,a_brent_A,B0_GPa,E_slab,slab_converged,E_Hg_atom,E_far,far_converged,far_height_A,far_dmin_AuHg_A,E_far_minus_slab,E_Hg_bulk_per_atom,Hg_bulk_converged,Hg_bulk_a_A,Hg_bulk_alpha_deg,Hg_bulk_V_per_atom,Ecoh_Hg_model,Ecoh_Hg_exp,Ecoh_Hg_PBE,atom_error_vs_PBE,model,wall_time_s
+ALIGNN-FF-omat24,4.150233,4.148231,116.163370,-110.712748,True,0.316378,-110.396381,True,10.000000,10.142521,0.316367,-0.191833,True,3.165190,89.759087,31.709769,0.508211,0.670000,0.169184,0.339027,ALIGNN-FF-omat24,278.952733

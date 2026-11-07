@@ -1,0 +1,19 @@
+
+===== Allegro-OAM-L
+Au bulk a0 = 4.1696 A, B0 = 132.2 GPa
+[Allegro-OAM-L_slab] steps=2 converged=True fmax=0.0166 E=-112.208247 eV (0.1 s)
+[Allegro-OAM-L_far] steps=0 converged=True fmax=0.0166 E=-112.331748 eV (0.0 s)
+E(Hg atom)=-0.12350  E(far)-E(slab)=-0.12350  E_coh(Hg, model)=0.1663 eV
+[Allegro-OAM-L_ontop] steps=19 converged=True fmax=0.0144 E=-112.631597 eV (0.5 s)
+[Allegro-OAM-L_ontop_free] steps=19 converged=True fmax=0.0144 E=-112.631598 eV (0.4 s)
+  ontop  E_ads(A)=-0.2998 E_ads(B)=-0.2998 E_ads(C)=-0.8036  h=2.934 d=2.879 drift=0.000
+[Allegro-OAM-L_bridge] steps=14 converged=True fmax=0.0170 E=-112.679749 eV (0.3 s)
+[Allegro-OAM-L_bridge_free] steps=14 converged=True fmax=0.0175 E=-112.679852 eV (0.3 s)
+  bridge E_ads(A)=-0.3480 E_ads(B)=-0.3480 E_ads(C)=-0.8517  h=2.567 d=2.956 drift=0.000
+[Allegro-OAM-L_fcc] steps=7 converged=True fmax=0.0106 E=-112.701716 eV (0.2 s)
+[Allegro-OAM-L_fcc_free] steps=7 converged=True fmax=0.0106 E=-112.701716 eV (0.2 s)
+  fcc    E_ads(A)=-0.3700 E_ads(B)=-0.3700 E_ads(C)=-0.8737  h=2.476 d=3.005 drift=0.000
+[Allegro-OAM-L_hcp] steps=8 converged=True fmax=0.0189 E=-112.708599 eV (0.2 s)
+[Allegro-OAM-L_hcp_free] steps=8 converged=True fmax=0.0189 E=-112.708598 eV (0.2 s)
+  hcp    E_ads(A)=-0.3769 E_ads(B)=-0.3769 E_ads(C)=-0.8806  h=2.485 d=3.011 drift=0.000
+done Allegro-OAM-L (27 s)

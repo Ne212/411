@@ -1,0 +1,42 @@
+{
+ "settings": {
+  "layers": 4,
+  "vacuum": 12.0,
+  "fmax": 0.02,
+  "max_steps": 1000,
+  "atom_box": 15.0,
+  "start_height_top_bridge": 2.6,
+  "eos": {
+   "points": 11,
+   "rel_range": 0.03
+  },
+  "a_guess": {
+   "Ag": 4.09,
+   "Au": 4.08,
+   "Cu": 3.61,
+   "Ni": 3.52,
+   "Pd": 3.89,
+   "Pt": 3.92
+  }
+ },
+ "info": {
+  "model": "SevenNet-Omni-omat24",
+  "sevenn_model": "7net-omni",
+  "modal": "omat24",
+  "package": "sevenn 0.13.0",
+  "device": "cuda",
+  "dtype": "float32"
+ },
+ "a0": {
+  "Ag": 4.1484507162975035,
+  "Au": 4.153946566227382,
+  "Cu": 3.616681744208152,
+  "Ni": 3.5092824718383415,
+  "Pd": 3.9408511300662283,
+  "Pt": 3.9661808742997424
+ },
+ "E_Hg_atom": 0.10887002944946289,
+ "E_ref_D": -0.015701999999999994,
+ "Ecoh_PBE": 0.169184,
+ "wall_s": 61.732750415802
+}

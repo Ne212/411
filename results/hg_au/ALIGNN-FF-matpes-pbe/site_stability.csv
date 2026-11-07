@@ -1,0 +1,5 @@
+method,start_site,E_constrained,E_free,dE_free_minus_constrained,lateral_drift_free_A,height_free_A,d_AuHg_min_free_A,converged_free,n_steps_free
+ALIGNN-FF-matpes-pbe,ontop,-110.242155,-110.242322,-0.000168,0.001684,3.022732,2.915108,True,22
+ALIGNN-FF-matpes-pbe,bridge,-110.483220,-110.484313,-0.001094,0.039460,2.475447,2.859729,True,22
+ALIGNN-FF-matpes-pbe,fcc,-110.452027,-110.452027,0.000000,0.000000,2.317641,2.891175,True,25
+ALIGNN-FF-matpes-pbe,hcp,-110.359251,-110.359251,0.000000,0.000000,2.429237,2.928913,True,11

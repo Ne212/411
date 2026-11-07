@@ -1,0 +1,5 @@
+method,start_site,E_constrained,E_free,dE_free_minus_constrained,lateral_drift_free_A,height_free_A,d_AuHg_min_free_A,converged_free,n_steps_free
+CHGNet-0.3.0,ontop,-113.788330,-113.788330,0.000000,0.000004,2.526354,2.646317,True,19
+CHGNet-0.3.0,bridge,-113.960640,-113.996628,-0.035988,0.651461,2.179998,2.796418,True,54
+CHGNet-0.3.0,fcc,-113.997444,-113.997459,-0.000015,0.000008,2.183999,2.831231,True,18
+CHGNet-0.3.0,hcp,-113.992805,-113.992805,0.000000,0.000007,2.189726,2.834893,True,17

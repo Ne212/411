@@ -1,0 +1,6 @@
+StructureData imported 2 structures
+ds[0] requested  Au4 -> returned graph with Au4 (Z=[79]), target e = -3.20
+ds[1] requested  Hg1 -> returned graph with Au4 (Z=[79]), target e = -3.20
+failed_graph_id: {np.int64(1): 'Hg1'} | failed_idx: [1]
+StructureData imported 2 structures
+ds2[1] requested Hg1 Au36 -> returned graph with Au4, target e = -3.20; failed_graph_id: {np.int64(1): 'Hg1 Au36'}

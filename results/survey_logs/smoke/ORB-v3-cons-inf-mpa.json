@@ -1,0 +1,40 @@
+{
+ "model": "ORB-v3-cons-inf-mpa",
+ "ok": true,
+ "info": {
+  "model": "ORB-v3-cons-inf-mpa",
+  "package": "orb-models 0.7.0",
+  "device": "cuda",
+  "wrapper": "FullPBC: slabs evaluated with pbc=True (vacuum gap >= 12 A checked)",
+  "precision": "float32-highest",
+  "compile": false
+ },
+ "t_load_s": 9.2,
+ "E_Au_bulk_a4.08_per_atom": -3.2279138565063477,
+ "E_Hg_atom_15A": -0.017532825469970703,
+ "E_Au_atom_15A": -0.29416942596435547,
+ "sum_forces_rattled_Au32": 4.917383193969727e-07,
+ "stress_analytic_eVA3": [
+  -0.03478184714913368,
+  -0.034710366278886795,
+  -0.03451347351074219,
+  -2.9750384783255868e-05,
+  7.930061838123947e-05,
+  0.0015927350614219904
+ ],
+ "stress_numeric_eVA3": [
+  -0.03494397553939329,
+  -0.03477351712212796,
+  -0.03453487533795649,
+  0.0,
+  0.00010227505035919986,
+  0.0016023091222941313
+ ],
+ "stress_max_abs_diff_eVA3": 0.00016212839025960685,
+ "t_single_point_37atoms_s": 0.0146,
+ "E_slab_Hg_37": -112.11103057861328,
+ "torch": "2.11.0+cu130",
+ "cuda": true,
+ "gpu_mem_peak_MB": 234.4,
+ "t_total_s": 11.0
+}

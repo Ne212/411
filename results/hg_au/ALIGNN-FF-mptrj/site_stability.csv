@@ -1,0 +1,5 @@
+method,start_site,E_constrained,E_free,dE_free_minus_constrained,lateral_drift_free_A,height_free_A,d_AuHg_min_free_A,converged_free,n_steps_free
+ALIGNN-FF-mptrj,ontop,-116.983985,-116.983977,0.000009,0.000001,2.624815,2.728326,True,9
+ALIGNN-FF-mptrj,bridge,-117.315585,-117.315620,-0.000035,0.003944,2.419845,2.869242,True,15
+ALIGNN-FF-mptrj,fcc,-117.305167,-117.305158,0.000009,0.000000,2.341989,2.907733,True,9
+ALIGNN-FF-mptrj,hcp,-117.294405,-117.294387,0.000018,0.000000,2.345864,2.904256,True,8

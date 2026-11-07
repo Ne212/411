@@ -1,0 +1,41 @@
+{
+ "settings": {
+  "layers": 4,
+  "vacuum": 12.0,
+  "fmax": 0.02,
+  "max_steps": 1000,
+  "atom_box": 15.0,
+  "start_height_top_bridge": 2.6,
+  "eos": {
+   "points": 11,
+   "rel_range": 0.03
+  },
+  "a_guess": {
+   "Ag": 4.09,
+   "Au": 4.08,
+   "Cu": 3.61,
+   "Ni": 3.52,
+   "Pd": 3.89,
+   "Pt": 3.92
+  }
+ },
+ "info": {
+  "model": "DPA-3.1-3M-AgAu-PBED3",
+  "checkpoint": "DPA-3.1-3M",
+  "head": "Metals_AgAu_PBED3",
+  "package": "deepmd-kit 3.2.0",
+  "device": "torch default (cuda)"
+ },
+ "a0": {
+  "Ag": 4.07480177697347,
+  "Au": 4.0975844105199295,
+  "Cu": 3.575232752854725,
+  "Ni": 3.4612177908250095,
+  "Pd": 3.8793772140277194,
+  "Pt": 3.9104139933848026
+ },
+ "E_Hg_atom": 0.46158939599990845,
+ "E_ref_D": 0.182827,
+ "Ecoh_PBE": 0.169184,
+ "wall_s": 87.16714096069336
+}

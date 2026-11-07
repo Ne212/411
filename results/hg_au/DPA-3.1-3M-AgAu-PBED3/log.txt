@@ -1,0 +1,111 @@
+{
+ "settings": {
+  "slab_size": [
+   3,
+   3,
+   4
+  ],
+  "vacuum": 12.0,
+  "fixed_layers": "tag >= 3 (bottom 2 of 4)",
+  "sites": [
+   "ontop",
+   "bridge",
+   "fcc",
+   "hcp"
+  ],
+  "hg_start_height": 2.5,
+  "hg_lateral": "fixed (FixedLine along z) so each site stays at its high-symmetry position; an unconstrained relaxation is also run per site -> mlip_site_stability.csv",
+  "far_height": 10.0,
+  "far_lateral_site": "fcc",
+  "atom_box": 15.0,
+  "optimizer": "BFGS",
+  "fmax": 0.02,
+  "max_steps": 1000,
+  "eos_grid": {
+   "points": 11,
+   "rel_range": 0.03,
+   "eos": "birchmurnaghan"
+  },
+  "hg_bulk": "alpha-Hg rhombohedral (ASE reference a=2.99 A, alpha=70.45 deg), full cell+position relaxation with FrechetCellFilter",
+  "Ecoh_exp_Hg": 0.67,
+  "scan_heights": [
+   1.8,
+   1.9,
+   2.0,
+   2.1,
+   2.2,
+   2.3,
+   2.4,
+   2.5,
+   2.6,
+   2.7,
+   2.8,
+   2.9,
+   3.0,
+   3.1,
+   3.2,
+   3.3,
+   3.4,
+   3.5,
+   3.6,
+   3.7,
+   3.8,
+   3.9,
+   4.0,
+   4.25,
+   4.5,
+   4.75,
+   5.0,
+   5.25,
+   5.5,
+   5.75,
+   6.0,
+   6.25,
+   6.5,
+   6.75,
+   7.0,
+   7.25,
+   7.5,
+   7.75,
+   8.0,
+   8.25,
+   8.5,
+   8.75,
+   9.0,
+   9.25,
+   9.5,
+   9.75,
+   10.0,
+   10.25,
+   10.5,
+   10.75,
+   11.0,
+   11.25,
+   11.5,
+   11.75,
+   12.0
+  ],
+  "scan_note": "rigid scan: relaxed clean slab frozen, Hg above fcc hollow, single points"
+ },
+ "Ecoh_PBE_Hg": 0.169184,
+ "ase": "3.29.0",
+ "torch": "2.11.0+cu130",
+ "cuda": true,
+ "gpu": "NVIDIA RTX PRO 4000 Blackwell",
+ "date": "2026-11-04 16:22:54"
+}
+
+===== DPA-3.1-3M-AgAu-PBED3: {"model": "DPA-3.1-3M-AgAu-PBED3", "checkpoint": "DPA-3.1-3M", "head": "Metals_AgAu_PBED3", "package": "deepmd-kit 3.2.0", "device": "torch default (cuda)", "a_bracket": [3.8, 4.4]}
+Au bulk: {'a_brent': 4.097827085940353, 'a0': 4.097584948537852, 'B0_GPa': 149.81457701259944, 'E0_per_atom': -3.877484249236108}
+[DPA-3.1-3M-AgAu-PBED3_slab] steps=8 converged=True fmax=0.0122 E=-128.490956 eV (10.3 s)
+[DPA-3.1-3M-AgAu-PBED3_far] steps=0 converged=True fmax=0.0122 E=-128.029367 eV (0.1 s)
+alpha-Hg: E/atom=0.013643 converged=True cellpar=[2.9843, 2.9843, 2.9843, 79.839, 79.839, 79.839] V/atom=25.459 E_coh(model)=0.4479
+[DPA-3.1-3M-AgAu-PBED3_ontop] steps=18 converged=True fmax=0.0146 E=-128.638945 eV (4.5 s)
+[DPA-3.1-3M-AgAu-PBED3_ontop_free] steps=18 converged=True fmax=0.0146 E=-128.638947 eV (4.4 s)
+[DPA-3.1-3M-AgAu-PBED3_bridge] steps=14 converged=True fmax=0.0180 E=-128.732396 eV (3.2 s)
+[DPA-3.1-3M-AgAu-PBED3_bridge_free] steps=14 converged=True fmax=0.0183 E=-128.732457 eV (3.0 s)
+[DPA-3.1-3M-AgAu-PBED3_fcc] steps=15 converged=True fmax=0.0165 E=-128.767503 eV (3.8 s)
+[DPA-3.1-3M-AgAu-PBED3_fcc_free] steps=15 converged=True fmax=0.0165 E=-128.767503 eV (2.9 s)
+[DPA-3.1-3M-AgAu-PBED3_hcp] steps=12 converged=True fmax=0.0199 E=-128.760141 eV (2.8 s)
+[DPA-3.1-3M-AgAu-PBED3_hcp_free] steps=12 converged=True fmax=0.0199 E=-128.760142 eV (1.3 s)
+wall time 76.8 s

@@ -1,0 +1,20 @@
+cuequivariance or cuequivariance_torch is not available. Cuequivariance acceleration will be disabled.
+
+===== MACE-MP-0-ft-atom
+Au bulk a0 = 4.1518 A, B0 = 119.9 GPa
+[MACE-MP-0-ft-atom_slab] steps=6 converged=True fmax=0.0055 E=-111.187119 eV (1.0 s)
+[MACE-MP-0-ft-atom_far] steps=0 converged=True fmax=0.0055 E=-111.358065 eV (0.1 s)
+E(Hg atom)=-0.17095  E(far)-E(slab)=-0.17095  E_coh(Hg, model)=0.1684 eV
+[MACE-MP-0-ft-atom_ontop] steps=18 converged=True fmax=0.0197 E=-111.638034 eV (1.9 s)
+[MACE-MP-0-ft-atom_ontop_free] steps=18 converged=True fmax=0.0197 E=-111.638034 eV (2.3 s)
+  ontop  E_ads(A)=-0.2800 E_ads(B)=-0.2800 E_ads(C)=-0.7816  h=2.806 d=2.823 drift=0.000
+[MACE-MP-0-ft-atom_bridge] steps=7 converged=True fmax=0.0153 E=-111.723817 eV (0.9 s)
+[MACE-MP-0-ft-atom_bridge_free] steps=7 converged=True fmax=0.0153 E=-111.723818 eV (0.6 s)
+  bridge E_ads(A)=-0.3658 E_ads(B)=-0.3658 E_ads(C)=-0.8674  h=2.536 d=2.950 drift=0.000
+[MACE-MP-0-ft-atom_fcc] steps=8 converged=True fmax=0.0159 E=-111.740276 eV (0.8 s)
+[MACE-MP-0-ft-atom_fcc_free] steps=8 converged=True fmax=0.0159 E=-111.740276 eV (0.8 s)
+  fcc    E_ads(A)=-0.3822 E_ads(B)=-0.3822 E_ads(C)=-0.8838  h=2.486 d=3.019 drift=0.000
+[MACE-MP-0-ft-atom_hcp] steps=8 converged=True fmax=0.0180 E=-111.743004 eV (0.8 s)
+[MACE-MP-0-ft-atom_hcp_free] steps=8 converged=True fmax=0.0180 E=-111.743004 eV (0.8 s)
+  hcp    E_ads(A)=-0.3849 E_ads(B)=-0.3849 E_ads(C)=-0.8866  h=2.484 d=3.021 drift=0.000
+done MACE-MP-0-ft-atom (18 s)

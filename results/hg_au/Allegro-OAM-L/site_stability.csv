@@ -1,0 +1,5 @@
+method,start_site,E_constrained,E_free,dE_free_minus_constrained,lateral_drift_free_A,height_free_A,d_AuHg_min_free_A,converged_free,n_steps_free
+Allegro-OAM-L,ontop,-112.631597,-112.631598,-0.000001,0.000000,2.933607,2.878677,True,19
+Allegro-OAM-L,bridge,-112.679749,-112.679852,-0.000103,0.012336,2.568055,2.956453,True,14
+Allegro-OAM-L,fcc,-112.701716,-112.701716,0.000000,0.000000,2.476497,3.004912,True,7
+Allegro-OAM-L,hcp,-112.708599,-112.708598,0.000001,0.000000,2.485395,3.010503,True,8

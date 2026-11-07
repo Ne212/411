@@ -1,0 +1,111 @@
+{
+ "settings": {
+  "slab_size": [
+   3,
+   3,
+   4
+  ],
+  "vacuum": 12.0,
+  "fixed_layers": "tag >= 3 (bottom 2 of 4)",
+  "sites": [
+   "ontop",
+   "bridge",
+   "fcc",
+   "hcp"
+  ],
+  "hg_start_height": 2.5,
+  "hg_lateral": "fixed (FixedLine along z) so each site stays at its high-symmetry position; an unconstrained relaxation is also run per site -> mlip_site_stability.csv",
+  "far_height": 10.0,
+  "far_lateral_site": "fcc",
+  "atom_box": 15.0,
+  "optimizer": "BFGS",
+  "fmax": 0.02,
+  "max_steps": 1000,
+  "eos_grid": {
+   "points": 11,
+   "rel_range": 0.03,
+   "eos": "birchmurnaghan"
+  },
+  "hg_bulk": "alpha-Hg rhombohedral (ASE reference a=2.99 A, alpha=70.45 deg), full cell+position relaxation with FrechetCellFilter",
+  "Ecoh_exp_Hg": 0.67,
+  "scan_heights": [
+   1.8,
+   1.9,
+   2.0,
+   2.1,
+   2.2,
+   2.3,
+   2.4,
+   2.5,
+   2.6,
+   2.7,
+   2.8,
+   2.9,
+   3.0,
+   3.1,
+   3.2,
+   3.3,
+   3.4,
+   3.5,
+   3.6,
+   3.7,
+   3.8,
+   3.9,
+   4.0,
+   4.25,
+   4.5,
+   4.75,
+   5.0,
+   5.25,
+   5.5,
+   5.75,
+   6.0,
+   6.25,
+   6.5,
+   6.75,
+   7.0,
+   7.25,
+   7.5,
+   7.75,
+   8.0,
+   8.25,
+   8.5,
+   8.75,
+   9.0,
+   9.25,
+   9.5,
+   9.75,
+   10.0,
+   10.25,
+   10.5,
+   10.75,
+   11.0,
+   11.25,
+   11.5,
+   11.75,
+   12.0
+  ],
+  "scan_note": "rigid scan: relaxed clean slab frozen, Hg above fcc hollow, single points"
+ },
+ "Ecoh_PBE_Hg": 0.169184,
+ "ase": "3.29.0",
+ "torch": "2.11.0+cu130",
+ "cuda": true,
+ "gpu": "NVIDIA RTX PRO 4000 Blackwell",
+ "date": "2026-11-04 16:11:22"
+}
+
+===== CHGNet-MatPES-PBE: {"model": "CHGNet-MatPES-PBE", "hf_repo": "materialyze/CHGNet-PES-MatPES-PBE-2025.2.10", "package": "matgl 4.1.4", "device": "cpu", "dtype": "float32", "stress_unit": "eV/A3", "a_bracket": [3.8, 4.4]}
+Au bulk: {'a_brent': 4.157782653041661, 'a0': 4.1558904689311005, 'B0_GPa': 122.97258631986398, 'E0_per_atom': -3.2129727050492782}
+[CHGNet-MatPES-PBE_slab] steps=2 converged=True fmax=0.0158 E=-109.561325 eV (0.6 s)
+[CHGNet-MatPES-PBE_far] steps=0 converged=True fmax=0.0158 E=-109.598114 eV (0.1 s)
+alpha-Hg: E/atom=-0.184157 converged=True cellpar=[3.4764, 3.4763, 3.4764, 68.1375, 68.1375, 68.1375] V/atom=34.829 E_coh(model)=0.1474
+[CHGNet-MatPES-PBE_ontop] steps=21 converged=True fmax=0.0141 E=-109.888382 eV (4.2 s)
+[CHGNet-MatPES-PBE_ontop_free] steps=21 converged=True fmax=0.0148 E=-109.888382 eV (4.6 s)
+[CHGNet-MatPES-PBE_bridge] steps=12 converged=True fmax=0.0137 E=-109.975609 eV (2.5 s)
+[CHGNet-MatPES-PBE_bridge_free] steps=12 converged=True fmax=0.0165 E=-109.975594 eV (2.6 s)
+[CHGNet-MatPES-PBE_fcc] steps=12 converged=True fmax=0.0142 E=-110.000755 eV (2.5 s)
+[CHGNet-MatPES-PBE_fcc_free] steps=12 converged=True fmax=0.0139 E=-110.000771 eV (2.5 s)
+[CHGNet-MatPES-PBE_hcp] steps=16 converged=True fmax=0.0119 E=-110.004257 eV (3.2 s)
+[CHGNet-MatPES-PBE_hcp_free] steps=16 converged=True fmax=0.0119 E=-110.004250 eV (3.4 s)
+wall time 38.6 s

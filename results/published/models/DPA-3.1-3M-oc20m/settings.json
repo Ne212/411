@@ -1,0 +1,41 @@
+{
+ "settings": {
+  "layers": 4,
+  "vacuum": 12.0,
+  "fmax": 0.02,
+  "max_steps": 1000,
+  "atom_box": 15.0,
+  "start_height_top_bridge": 2.6,
+  "eos": {
+   "points": 11,
+   "rel_range": 0.03
+  },
+  "a_guess": {
+   "Ag": 4.09,
+   "Au": 4.08,
+   "Cu": 3.61,
+   "Ni": 3.52,
+   "Pd": 3.89,
+   "Pt": 3.92
+  }
+ },
+ "info": {
+  "model": "DPA-3.1-3M-oc20m",
+  "checkpoint": "DPA-3.1-3M",
+  "head": "OC20M",
+  "package": "deepmd-kit 3.2.0",
+  "device": "torch default (cuda)"
+ },
+ "a0": {
+  "Ag": 4.203342827915328,
+  "Au": 4.197249747251793,
+  "Cu": 3.67435690425615,
+  "Ni": 3.538846166802091,
+  "Pd": 3.983341256472784,
+  "Pt": 3.985990294836676
+ },
+ "E_Hg_atom": -0.02780100703239441,
+ "E_ref_D": 0.14283,
+ "Ecoh_PBE": 0.169184,
+ "wall_s": 93.37420701980591
+}

@@ -1,0 +1,87 @@
+model,system,metal,facet,overlayer,coverage_ML,n_Hg_our_cell,site_kind,a0_metal_A,E_ads_ref_eV,d_MHg_ref_A,in_main_MAE,Ni_flag,mode,E_ads_A_eV,E_ads_D_eV,d_MHg_A,converged,n_steps
+GRACE-2L-OAM-L,S08-Ag111-0.083,Ag,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,4.15725,-0.34000,3.00000,True,False,source,0.10574,-0.31053,3.00000,True,0
+GRACE-2L-OAM-L,S08-Ag111-0.083,Ag,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,4.15725,-0.34000,3.00000,True,False,relaxed,0.09972,-0.31656,2.99509,True,7
+GRACE-2L-OAM-L,S08-Au111-0.083,Au,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,4.16721,-0.36000,2.99000,True,False,source,0.14028,-0.27599,2.99000,True,0
+GRACE-2L-OAM-L,S08-Au111-0.083,Au,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,4.16721,-0.36000,2.99000,True,False,relaxed,0.12733,-0.28895,3.02024,True,9
+GRACE-2L-OAM-L,S08-Cu111-0.083,Cu,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.62783,-0.52000,2.75000,True,False,source,-0.00997,-0.42624,2.75000,True,0
+GRACE-2L-OAM-L,S08-Cu111-0.083,Cu,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.62783,-0.52000,2.75000,True,False,relaxed,-0.01780,-0.43407,2.77395,True,5
+GRACE-2L-OAM-L,S08-Ni111-0.083,Ni,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.51727,-0.67000,2.72000,True,True,source,-0.09936,-0.51563,2.72000,True,0
+GRACE-2L-OAM-L,S08-Ni111-0.083,Ni,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.51727,-0.67000,2.72000,True,True,relaxed,-0.10085,-0.51712,2.72926,True,4
+GRACE-2L-OAM-L,S08-Pd111-0.083,Pd,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.95066,-0.84000,2.81000,True,False,source,-0.33215,-0.74843,2.81000,True,0
+GRACE-2L-OAM-L,S08-Pd111-0.083,Pd,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.95066,-0.84000,2.81000,True,False,relaxed,-0.34618,-0.76246,2.82089,True,6
+GRACE-2L-OAM-L,S08-Pt111-0.083,Pt,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.97435,-0.75000,2.86000,True,False,source,-0.15366,-0.56994,2.86000,True,0
+GRACE-2L-OAM-L,S08-Pt111-0.083,Pt,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.97435,-0.75000,2.86000,True,False,relaxed,-0.18388,-0.60015,2.86717,True,9
+GRACE-2L-OAM-L,S08-Ag111-0.25,Ag,(111),p(2x2),0.25000,1,fcc hollow,4.15725,-0.36000,3.01000,True,False,source,0.10626,-0.31001,3.01000,True,0
+GRACE-2L-OAM-L,S08-Ag111-0.25,Ag,(111),p(2x2),0.25000,1,fcc hollow,4.15725,-0.36000,3.01000,True,False,relaxed,0.10273,-0.31355,2.99294,True,4
+GRACE-2L-OAM-L,S08-Au111-0.25,Au,(111),p(2x2),0.25000,1,fcc hollow,4.16721,-0.38000,3.01000,True,False,source,0.13702,-0.27926,3.01000,True,0
+GRACE-2L-OAM-L,S08-Au111-0.25,Au,(111),p(2x2),0.25000,1,fcc hollow,4.16721,-0.38000,3.01000,True,False,relaxed,0.13338,-0.28289,3.02370,True,4
+GRACE-2L-OAM-L,S08-Cu111-0.25,Cu,(111),p(2x2),0.25000,1,fcc hollow,3.62783,-0.53000,2.78000,True,False,source,-0.01865,-0.43492,2.78000,True,0
+GRACE-2L-OAM-L,S08-Cu111-0.25,Cu,(111),p(2x2),0.25000,1,fcc hollow,3.62783,-0.53000,2.78000,True,False,relaxed,-0.02223,-0.43851,2.77846,True,4
+GRACE-2L-OAM-L,S08-Ni111-0.25,Ni,(111),p(2x2),0.25000,1,fcc hollow,3.51727,-0.64000,2.74000,True,True,source,-0.10308,-0.51936,2.74000,True,0
+GRACE-2L-OAM-L,S08-Ni111-0.25,Ni,(111),p(2x2),0.25000,1,fcc hollow,3.51727,-0.64000,2.74000,True,True,relaxed,-0.10106,-0.51734,2.74411,True,2
+GRACE-2L-OAM-L,S08-Pd111-0.25,Pd,(111),p(2x2),0.25000,1,fcc hollow,3.95066,-0.81000,2.83000,True,False,source,-0.32136,-0.73764,2.83000,True,0
+GRACE-2L-OAM-L,S08-Pd111-0.25,Pd,(111),p(2x2),0.25000,1,fcc hollow,3.95066,-0.81000,2.83000,True,False,relaxed,-0.32774,-0.74402,2.82878,True,4
+GRACE-2L-OAM-L,S08-Pt111-0.25,Pt,(111),p(2x2),0.25000,1,fcc hollow,3.97435,-0.68000,2.88000,True,False,source,-0.14869,-0.56496,2.88000,True,0
+GRACE-2L-OAM-L,S08-Pt111-0.25,Pt,(111),p(2x2),0.25000,1,fcc hollow,3.97435,-0.68000,2.88000,True,False,relaxed,-0.16150,-0.57778,2.87686,True,7
+GRACE-2L-OAM-L,S08-Ag111-0.333,Ag,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,4.15725,-0.31000,3.06000,True,False,source,0.11134,-0.30494,3.06000,True,0
+GRACE-2L-OAM-L,S08-Ag111-0.333,Ag,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,4.15725,-0.31000,3.06000,True,False,relaxed,0.10378,-0.31249,2.99664,True,11
+GRACE-2L-OAM-L,S08-Au111-0.333,Au,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,4.16721,-0.32000,3.05000,True,False,source,0.13884,-0.27744,3.05000,True,0
+GRACE-2L-OAM-L,S08-Au111-0.333,Au,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,4.16721,-0.32000,3.05000,True,False,relaxed,0.13657,-0.27970,3.02720,True,11
+GRACE-2L-OAM-L,S08-Cu111-0.333,Cu,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.62783,-0.48000,2.82000,True,False,source,-0.03749,-0.45377,2.82000,True,0
+GRACE-2L-OAM-L,S08-Cu111-0.333,Cu,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.62783,-0.48000,2.82000,True,False,relaxed,-0.04161,-0.45788,2.79017,True,4
+GRACE-2L-OAM-L,S08-Ni111-0.333,Ni,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.51727,-0.61000,2.76000,True,True,source,-0.13891,-0.55519,2.76000,True,0
+GRACE-2L-OAM-L,S08-Ni111-0.333,Ni,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.51727,-0.61000,2.76000,True,True,relaxed,-0.13681,-0.55308,2.75679,True,3
+GRACE-2L-OAM-L,S08-Pd111-0.333,Pd,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.95066,-0.80000,2.83000,True,False,source,-0.33061,-0.74689,2.83000,True,0
+GRACE-2L-OAM-L,S08-Pd111-0.333,Pd,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.95066,-0.80000,2.83000,True,False,relaxed,-0.33615,-0.75242,2.82575,True,6
+GRACE-2L-OAM-L,S08-Pt111-0.333,Pt,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.97435,-0.67000,2.89000,True,False,source,-0.15496,-0.57123,2.89000,True,0
+GRACE-2L-OAM-L,S08-Pt111-0.333,Pt,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.97435,-0.67000,2.89000,True,False,relaxed,-0.16441,-0.58068,2.88103,True,7
+GRACE-2L-OAM-L,S08-Ag111-0.5,Ag,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,4.15725,-0.37000,3.09000,False,False,source,0.05982,-0.35646,3.09000,True,0
+GRACE-2L-OAM-L,S08-Ag111-0.5,Ag,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,4.15725,-0.37000,3.09000,False,False,relaxed,0.05891,-0.35737,3.06603,True,4
+GRACE-2L-OAM-L,S08-Au111-0.5,Au,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,4.16721,-0.35000,3.11000,False,False,source,0.10732,-0.30895,3.11000,True,0
+GRACE-2L-OAM-L,S08-Au111-0.5,Au,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,4.16721,-0.35000,3.11000,False,False,relaxed,0.10631,-0.30997,3.10466,True,2
+GRACE-2L-OAM-L,S08-Cu111-0.5,Cu,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.62783,-0.51000,2.87000,False,False,source,-0.03959,-0.45587,2.87000,True,0
+GRACE-2L-OAM-L,S08-Cu111-0.5,Cu,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.62783,-0.51000,2.87000,False,False,relaxed,-0.03950,-0.45578,2.87038,True,2
+GRACE-2L-OAM-L,S08-Ni111-0.5,Ni,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.51727,-0.61000,2.75000,False,True,source,-0.15294,-0.56921,2.75000,True,0
+GRACE-2L-OAM-L,S08-Ni111-0.5,Ni,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.51727,-0.61000,2.75000,False,True,relaxed,-0.15544,-0.57172,2.80130,True,13
+GRACE-2L-OAM-L,S08-Pd111-0.5,Pd,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.95066,-0.81000,2.85000,False,False,source,-0.37645,-0.79272,2.85000,True,0
+GRACE-2L-OAM-L,S08-Pd111-0.5,Pd,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.95066,-0.81000,2.85000,False,False,relaxed,-0.37918,-0.79545,2.86023,True,9
+GRACE-2L-OAM-L,S08-Pt111-0.5,Pt,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.97435,-0.69000,2.92000,False,False,source,-0.20217,-0.61845,2.92000,True,0
+GRACE-2L-OAM-L,S08-Pt111-0.5,Pt,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.97435,-0.69000,2.92000,False,False,relaxed,-0.21196,-0.62823,2.92750,True,13
+GRACE-2L-OAM-L,S08-Ag001-0.125,Ag,(001),c(4x4),0.12500,2,4-fold hollow,4.15725,-0.50000,3.01000,False,False,source,0.01032,-0.40596,3.01000,True,0
+GRACE-2L-OAM-L,S08-Ag001-0.125,Ag,(001),c(4x4),0.12500,2,4-fold hollow,4.15725,-0.50000,3.01000,False,False,relaxed,0.00160,-0.41467,3.00343,True,10
+GRACE-2L-OAM-L,S08-Au001-0.125,Au,(001),c(4x4),0.12500,2,4-fold hollow,4.16721,-0.61000,2.94000,False,False,source,0.00786,-0.40841,2.94000,True,0
+GRACE-2L-OAM-L,S08-Au001-0.125,Au,(001),c(4x4),0.12500,2,4-fold hollow,4.16721,-0.61000,2.94000,False,False,relaxed,-0.03701,-0.45328,2.94426,True,17
+GRACE-2L-OAM-L,S08-Cu001-0.125,Cu,(001),c(4x4),0.12500,2,4-fold hollow,3.62783,-0.67000,2.78000,False,False,source,-0.13177,-0.54804,2.78000,True,0
+GRACE-2L-OAM-L,S08-Cu001-0.125,Cu,(001),c(4x4),0.12500,2,4-fold hollow,3.62783,-0.67000,2.78000,False,False,relaxed,-0.13399,-0.55026,2.78868,True,9
+GRACE-2L-OAM-L,S08-Ni001-0.125,Ni,(001),c(4x4),0.12500,2,4-fold hollow,3.51727,-0.82000,2.73000,False,True,source,-0.37200,-0.78828,2.73000,True,0
+GRACE-2L-OAM-L,S08-Ni001-0.125,Ni,(001),c(4x4),0.12500,2,4-fold hollow,3.51727,-0.82000,2.73000,False,True,relaxed,-0.35716,-0.77343,2.71759,True,7
+GRACE-2L-OAM-L,S08-Pd001-0.125,Pd,(001),c(4x4),0.12500,2,4-fold hollow,3.95066,-1.10000,2.83000,False,False,source,-0.63812,-1.05439,2.83000,True,0
+GRACE-2L-OAM-L,S08-Pd001-0.125,Pd,(001),c(4x4),0.12500,2,4-fold hollow,3.95066,-1.10000,2.83000,False,False,relaxed,-0.66104,-1.07731,2.80293,True,9
+GRACE-2L-OAM-L,S08-Pt001-0.125,Pt,(001),c(4x4),0.12500,2,4-fold hollow,3.97435,-1.09000,2.83000,False,False,source,-0.61058,-1.02685,2.83000,True,0
+GRACE-2L-OAM-L,S08-Pt001-0.125,Pt,(001),c(4x4),0.12500,2,4-fold hollow,3.97435,-1.09000,2.83000,False,False,relaxed,-0.63490,-1.05117,2.81032,True,10
+GRACE-2L-OAM-L,S08-Ag001-0.5,Ag,(001),c(2x2),0.50000,2,4-fold hollow,4.15725,-0.51000,3.02000,True,False,source,0.01049,-0.40579,3.02000,True,0
+GRACE-2L-OAM-L,S08-Ag001-0.5,Ag,(001),c(2x2),0.50000,2,4-fold hollow,4.15725,-0.51000,3.02000,True,False,relaxed,0.01063,-0.40564,3.02769,True,4
+GRACE-2L-OAM-L,S08-Au001-0.5,Au,(001),c(2x2),0.50000,2,4-fold hollow,4.16721,-0.51000,3.00000,True,False,source,0.02830,-0.38797,3.00000,True,0
+GRACE-2L-OAM-L,S08-Au001-0.5,Au,(001),c(2x2),0.50000,2,4-fold hollow,4.16721,-0.51000,3.00000,True,False,relaxed,0.02817,-0.38811,3.02208,True,10
+GRACE-2L-OAM-L,S08-Cu001-0.5,Cu,(001),c(2x2),0.50000,2,4-fold hollow,3.62783,-0.71000,2.80000,True,False,source,-0.18120,-0.59747,2.80000,True,0
+GRACE-2L-OAM-L,S08-Cu001-0.5,Cu,(001),c(2x2),0.50000,2,4-fold hollow,3.62783,-0.71000,2.80000,True,False,relaxed,-0.17711,-0.59339,2.82689,True,10
+GRACE-2L-OAM-L,S08-Ni001-0.5,Ni,(001),c(2x2),0.50000,2,4-fold hollow,3.51727,-0.81000,2.77000,True,True,source,-0.41285,-0.82913,2.77000,True,0
+GRACE-2L-OAM-L,S08-Ni001-0.5,Ni,(001),c(2x2),0.50000,2,4-fold hollow,3.51727,-0.81000,2.77000,True,True,relaxed,-0.39812,-0.81440,2.74906,True,11
+GRACE-2L-OAM-L,S08-Pd001-0.5,Pd,(001),c(2x2),0.50000,2,4-fold hollow,3.95066,-1.08000,2.83000,True,False,source,-0.62558,-1.04185,2.83000,True,0
+GRACE-2L-OAM-L,S08-Pd001-0.5,Pd,(001),c(2x2),0.50000,2,4-fold hollow,3.95066,-1.08000,2.83000,True,False,relaxed,-0.62621,-1.04249,2.82615,True,10
+GRACE-2L-OAM-L,S08-Pt001-0.5,Pt,(001),c(2x2),0.50000,2,4-fold hollow,3.97435,-0.97000,2.85000,True,False,source,-0.56772,-0.98400,2.85000,True,0
+GRACE-2L-OAM-L,S08-Pt001-0.5,Pt,(001),c(2x2),0.50000,2,4-fold hollow,3.97435,-0.97000,2.85000,True,False,relaxed,-0.54362,-0.95989,2.83876,True,11
+GRACE-2L-OAM-L,S08-Ag001-1,Ag,(001),c(1x1),1.00000,4,4-fold hollow,4.15725,-0.30000,3.30000,True,False,source,0.06948,-0.34679,3.30000,True,0
+GRACE-2L-OAM-L,S08-Ag001-1,Ag,(001),c(1x1),1.00000,4,4-fold hollow,4.15725,-0.30000,3.30000,True,False,relaxed,0.06498,-0.35129,3.21974,True,7
+GRACE-2L-OAM-L,S08-Au001-1,Au,(001),c(1x1),1.00000,4,4-fold hollow,4.16721,-0.35000,3.39000,True,False,source,0.08665,-0.32962,3.39000,True,0
+GRACE-2L-OAM-L,S08-Au001-1,Au,(001),c(1x1),1.00000,4,4-fold hollow,4.16721,-0.35000,3.39000,True,False,relaxed,0.07797,-0.33831,3.26565,True,13
+GRACE-2L-OAM-L,S08-Cu001-1,Cu,(001),c(1x1),1.00000,4,4-fold hollow,3.62783,0.27000,3.14000,True,False,source,0.70138,0.28510,3.14000,True,0
+GRACE-2L-OAM-L,S08-Cu001-1,Cu,(001),c(1x1),1.00000,4,4-fold hollow,3.62783,0.27000,3.14000,True,False,relaxed,0.70119,0.28491,3.08419,True,6
+GRACE-2L-OAM-L,S08-Ni001-1,Ni,(001),c(1x1),1.00000,4,4-fold hollow,3.51727,0.55000,2.99000,True,True,source,0.99406,0.57779,2.99000,True,0
+GRACE-2L-OAM-L,S08-Ni001-1,Ni,(001),c(1x1),1.00000,4,4-fold hollow,3.51727,0.55000,2.99000,True,True,relaxed,1.00156,0.58528,2.96248,True,6
+GRACE-2L-OAM-L,S08-Pd001-1,Pd,(001),c(1x1),1.00000,4,4-fold hollow,3.95066,-0.67000,2.95000,True,False,source,-0.28634,-0.70262,2.95000,True,0
+GRACE-2L-OAM-L,S08-Pd001-1,Pd,(001),c(1x1),1.00000,4,4-fold hollow,3.95066,-0.67000,2.95000,True,False,relaxed,-0.28782,-0.70410,2.94611,True,11
+GRACE-2L-OAM-L,S08-Pt001-1,Pt,(001),c(1x1),1.00000,4,4-fold hollow,3.97435,-0.58000,3.05000,True,False,source,-0.21604,-0.63232,3.05000,True,0
+GRACE-2L-OAM-L,S08-Pt001-1,Pt,(001),c(1x1),1.00000,4,4-fold hollow,3.97435,-0.58000,3.05000,True,False,relaxed,-0.20425,-0.62052,3.01666,True,12
+GRACE-2L-OAM-L,S08-Au001-0.125-bridge,Au,(001),c(4x4),0.12500,2,bridge,4.16721,-0.47000,,False,False,relaxed,0.09343,-0.32284,2.90782,True,12
+GRACE-2L-OAM-L,S08-Au001-0.125-top,Au,(001),c(4x4),0.12500,2,top,4.16721,-0.36000,,False,False,relaxed,0.18421,-0.23206,2.82407,True,21

@@ -1,0 +1,87 @@
+model,system,metal,facet,overlayer,coverage_ML,n_Hg_our_cell,site_kind,a0_metal_A,E_ads_ref_eV,d_MHg_ref_A,in_main_MAE,Ni_flag,mode,E_ads_A_eV,E_ads_D_eV,d_MHg_A,converged,n_steps
+ORB-v3-cons-inf-omat,S08-Ag111-0.083,Ag,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,4.14561,-0.34000,3.00000,True,False,source,-0.69661,-0.53414,3.00000,True,0
+ORB-v3-cons-inf-omat,S08-Ag111-0.083,Ag,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,4.14561,-0.34000,3.00000,True,False,relaxed,-0.70462,-0.54216,2.92730,True,5
+ORB-v3-cons-inf-omat,S08-Au111-0.083,Au,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,4.15076,-0.36000,2.99000,True,False,source,-0.50279,-0.34033,2.99000,True,0
+ORB-v3-cons-inf-omat,S08-Au111-0.083,Au,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,4.15076,-0.36000,2.99000,True,False,relaxed,-0.52753,-0.36507,2.95748,True,7
+ORB-v3-cons-inf-omat,S08-Cu111-0.083,Cu,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.61349,-0.52000,2.75000,True,False,source,-0.82044,-0.65798,2.75000,True,0
+ORB-v3-cons-inf-omat,S08-Cu111-0.083,Cu,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.61349,-0.52000,2.75000,True,False,relaxed,-0.83387,-0.67141,2.70114,True,6
+ORB-v3-cons-inf-omat,S08-Ni111-0.083,Ni,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.50557,-0.67000,2.72000,True,True,source,-0.66603,-0.50357,2.72000,True,0
+ORB-v3-cons-inf-omat,S08-Ni111-0.083,Ni,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.50557,-0.67000,2.72000,True,True,relaxed,-0.68008,-0.51762,2.64424,True,9
+ORB-v3-cons-inf-omat,S08-Pd111-0.083,Pd,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.93945,-0.84000,2.81000,True,False,source,-0.83517,-0.67271,2.81000,True,0
+ORB-v3-cons-inf-omat,S08-Pd111-0.083,Pd,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.93945,-0.84000,2.81000,True,False,relaxed,-0.84855,-0.68608,2.78881,True,6
+ORB-v3-cons-inf-omat,S08-Pt111-0.083,Pt,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.96597,-0.75000,2.86000,True,False,source,-0.96523,-0.80277,2.86000,True,0
+ORB-v3-cons-inf-omat,S08-Pt111-0.083,Pt,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.96597,-0.75000,2.86000,True,False,relaxed,-0.98593,-0.82347,2.83819,True,8
+ORB-v3-cons-inf-omat,S08-Ag111-0.25,Ag,(111),p(2x2),0.25000,1,fcc hollow,4.14561,-0.36000,3.01000,True,False,source,-0.53666,-0.37420,3.01000,True,0
+ORB-v3-cons-inf-omat,S08-Ag111-0.25,Ag,(111),p(2x2),0.25000,1,fcc hollow,4.14561,-0.36000,3.01000,True,False,relaxed,-0.54654,-0.38408,2.93817,True,8
+ORB-v3-cons-inf-omat,S08-Au111-0.25,Au,(111),p(2x2),0.25000,1,fcc hollow,4.15076,-0.38000,3.01000,True,False,source,-0.32066,-0.15820,3.01000,True,0
+ORB-v3-cons-inf-omat,S08-Au111-0.25,Au,(111),p(2x2),0.25000,1,fcc hollow,4.15076,-0.38000,3.01000,True,False,relaxed,-0.33507,-0.17261,3.01801,True,6
+ORB-v3-cons-inf-omat,S08-Cu111-0.25,Cu,(111),p(2x2),0.25000,1,fcc hollow,3.61349,-0.53000,2.78000,True,False,source,-0.62220,-0.45974,2.78000,True,0
+ORB-v3-cons-inf-omat,S08-Cu111-0.25,Cu,(111),p(2x2),0.25000,1,fcc hollow,3.61349,-0.53000,2.78000,True,False,relaxed,-0.62759,-0.46513,2.72485,True,11
+ORB-v3-cons-inf-omat,S08-Ni111-0.25,Ni,(111),p(2x2),0.25000,1,fcc hollow,3.50557,-0.64000,2.74000,True,True,source,-0.69978,-0.53731,2.74000,True,0
+ORB-v3-cons-inf-omat,S08-Ni111-0.25,Ni,(111),p(2x2),0.25000,1,fcc hollow,3.50557,-0.64000,2.74000,True,True,relaxed,-0.70418,-0.54172,2.69835,True,8
+ORB-v3-cons-inf-omat,S08-Pd111-0.25,Pd,(111),p(2x2),0.25000,1,fcc hollow,3.93945,-0.81000,2.83000,True,False,source,-0.80433,-0.64187,2.83000,True,0
+ORB-v3-cons-inf-omat,S08-Pd111-0.25,Pd,(111),p(2x2),0.25000,1,fcc hollow,3.93945,-0.81000,2.83000,True,False,relaxed,-0.81059,-0.64813,2.80672,True,8
+ORB-v3-cons-inf-omat,S08-Pt111-0.25,Pt,(111),p(2x2),0.25000,1,fcc hollow,3.96597,-0.68000,2.88000,True,False,source,-0.81032,-0.64785,2.88000,True,0
+ORB-v3-cons-inf-omat,S08-Pt111-0.25,Pt,(111),p(2x2),0.25000,1,fcc hollow,3.96597,-0.68000,2.88000,True,False,relaxed,-0.79252,-0.63006,2.90529,True,13
+ORB-v3-cons-inf-omat,S08-Ag111-0.333,Ag,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,4.14561,-0.31000,3.06000,True,False,source,-0.52184,-0.35938,3.06000,True,0
+ORB-v3-cons-inf-omat,S08-Ag111-0.333,Ag,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,4.14561,-0.31000,3.06000,True,False,relaxed,-0.52862,-0.36615,3.00037,True,6
+ORB-v3-cons-inf-omat,S08-Au111-0.333,Au,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,4.15076,-0.32000,3.05000,True,False,source,-0.42606,-0.26360,3.05000,True,0
+ORB-v3-cons-inf-omat,S08-Au111-0.333,Au,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,4.15076,-0.32000,3.05000,True,False,relaxed,-0.43892,-0.27646,3.02230,True,9
+ORB-v3-cons-inf-omat,S08-Cu111-0.333,Cu,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.61349,-0.48000,2.82000,True,False,source,-0.58348,-0.42102,2.82000,True,0
+ORB-v3-cons-inf-omat,S08-Cu111-0.333,Cu,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.61349,-0.48000,2.82000,True,False,relaxed,-0.59877,-0.43631,2.72789,True,13
+ORB-v3-cons-inf-omat,S08-Ni111-0.333,Ni,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.50557,-0.61000,2.76000,True,True,source,-0.76912,-0.60666,2.76000,True,0
+ORB-v3-cons-inf-omat,S08-Ni111-0.333,Ni,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.50557,-0.61000,2.76000,True,True,relaxed,-0.77714,-0.61468,2.70677,True,5
+ORB-v3-cons-inf-omat,S08-Pd111-0.333,Pd,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.93945,-0.80000,2.83000,True,False,source,-0.82521,-0.66275,2.83000,True,0
+ORB-v3-cons-inf-omat,S08-Pd111-0.333,Pd,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.93945,-0.80000,2.83000,True,False,relaxed,-0.83504,-0.67258,2.81433,True,14
+ORB-v3-cons-inf-omat,S08-Pt111-0.333,Pt,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.96597,-0.67000,2.89000,True,False,source,-0.70864,-0.54618,2.89000,True,0
+ORB-v3-cons-inf-omat,S08-Pt111-0.333,Pt,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.96597,-0.67000,2.89000,True,False,relaxed,-0.69274,-0.53028,2.93572,True,13
+ORB-v3-cons-inf-omat,S08-Ag111-0.5,Ag,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,4.14561,-0.37000,3.09000,False,False,source,-0.53369,-0.37123,3.09000,True,0
+ORB-v3-cons-inf-omat,S08-Ag111-0.5,Ag,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,4.14561,-0.37000,3.09000,False,False,relaxed,-0.53390,-0.37144,3.06014,True,4
+ORB-v3-cons-inf-omat,S08-Au111-0.5,Au,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,4.15076,-0.35000,3.11000,False,False,source,-0.33466,-0.17220,3.11000,True,0
+ORB-v3-cons-inf-omat,S08-Au111-0.5,Au,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,4.15076,-0.35000,3.11000,False,False,relaxed,-0.33568,-0.17322,3.10863,True,2
+ORB-v3-cons-inf-omat,S08-Cu111-0.5,Cu,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.61349,-0.51000,2.87000,False,False,source,-0.68474,-0.52228,2.87000,True,0
+ORB-v3-cons-inf-omat,S08-Cu111-0.5,Cu,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.61349,-0.51000,2.87000,False,False,relaxed,-0.69023,-0.52777,2.83059,True,8
+ORB-v3-cons-inf-omat,S08-Ni111-0.5,Ni,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.50557,-0.61000,2.75000,False,True,source,-0.83446,-0.67200,2.75000,True,0
+ORB-v3-cons-inf-omat,S08-Ni111-0.5,Ni,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.50557,-0.61000,2.75000,False,True,relaxed,-0.83418,-0.67171,2.75350,True,6
+ORB-v3-cons-inf-omat,S08-Pd111-0.5,Pd,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.93945,-0.81000,2.85000,False,False,source,-0.90165,-0.73919,2.85000,True,0
+ORB-v3-cons-inf-omat,S08-Pd111-0.5,Pd,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.93945,-0.81000,2.85000,False,False,relaxed,-0.90585,-0.74339,2.82584,True,8
+ORB-v3-cons-inf-omat,S08-Pt111-0.5,Pt,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.96597,-0.69000,2.92000,False,False,source,-0.76372,-0.60126,2.92000,True,0
+ORB-v3-cons-inf-omat,S08-Pt111-0.5,Pt,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.96597,-0.69000,2.92000,False,False,relaxed,-0.75836,-0.59590,2.91473,True,16
+ORB-v3-cons-inf-omat,S08-Ag001-0.125,Ag,(001),c(4x4),0.12500,2,4-fold hollow,4.14561,-0.50000,3.01000,False,False,source,-0.71685,-0.55439,3.01000,True,0
+ORB-v3-cons-inf-omat,S08-Ag001-0.125,Ag,(001),c(4x4),0.12500,2,4-fold hollow,4.14561,-0.50000,3.01000,False,False,relaxed,-0.74855,-0.58609,2.92731,True,12
+ORB-v3-cons-inf-omat,S08-Au001-0.125,Au,(001),c(4x4),0.12500,2,4-fold hollow,4.15076,-0.61000,2.94000,False,False,source,-0.76991,-0.60745,2.94000,True,0
+ORB-v3-cons-inf-omat,S08-Au001-0.125,Au,(001),c(4x4),0.12500,2,4-fold hollow,4.15076,-0.61000,2.94000,False,False,relaxed,-0.80527,-0.64281,2.89075,True,14
+ORB-v3-cons-inf-omat,S08-Cu001-0.125,Cu,(001),c(4x4),0.12500,2,4-fold hollow,3.61349,-0.67000,2.78000,False,False,source,-0.88225,-0.71979,2.78000,True,0
+ORB-v3-cons-inf-omat,S08-Cu001-0.125,Cu,(001),c(4x4),0.12500,2,4-fold hollow,3.61349,-0.67000,2.78000,False,False,relaxed,-0.90739,-0.74493,2.70057,True,9
+ORB-v3-cons-inf-omat,S08-Ni001-0.125,Ni,(001),c(4x4),0.12500,2,4-fold hollow,3.50557,-0.82000,2.73000,False,True,source,-0.88199,-0.71953,2.73000,True,0
+ORB-v3-cons-inf-omat,S08-Ni001-0.125,Ni,(001),c(4x4),0.12500,2,4-fold hollow,3.50557,-0.82000,2.73000,False,True,relaxed,-0.95286,-0.79039,2.61661,True,13
+ORB-v3-cons-inf-omat,S08-Pd001-0.125,Pd,(001),c(4x4),0.12500,2,4-fold hollow,3.93945,-1.10000,2.83000,False,False,source,-1.13668,-0.97422,2.83000,True,0
+ORB-v3-cons-inf-omat,S08-Pd001-0.125,Pd,(001),c(4x4),0.12500,2,4-fold hollow,3.93945,-1.10000,2.83000,False,False,relaxed,-1.16643,-1.00397,2.78827,True,9
+ORB-v3-cons-inf-omat,S08-Pt001-0.125,Pt,(001),c(4x4),0.12500,2,4-fold hollow,3.96597,-1.09000,2.83000,False,False,source,-1.25722,-1.09476,2.83000,True,0
+ORB-v3-cons-inf-omat,S08-Pt001-0.125,Pt,(001),c(4x4),0.12500,2,4-fold hollow,3.96597,-1.09000,2.83000,False,False,relaxed,-1.26293,-1.10047,2.82487,True,9
+ORB-v3-cons-inf-omat,S08-Ag001-0.5,Ag,(001),c(2x2),0.50000,2,4-fold hollow,4.14561,-0.51000,3.02000,True,False,source,-0.57445,-0.41199,3.02000,True,0
+ORB-v3-cons-inf-omat,S08-Ag001-0.5,Ag,(001),c(2x2),0.50000,2,4-fold hollow,4.14561,-0.51000,3.02000,True,False,relaxed,-0.58143,-0.41897,2.96205,True,10
+ORB-v3-cons-inf-omat,S08-Au001-0.5,Au,(001),c(2x2),0.50000,2,4-fold hollow,4.15076,-0.51000,3.00000,True,False,source,-0.48263,-0.32016,3.00000,True,0
+ORB-v3-cons-inf-omat,S08-Au001-0.5,Au,(001),c(2x2),0.50000,2,4-fold hollow,4.15076,-0.51000,3.00000,True,False,relaxed,-0.48322,-0.32076,2.95847,True,6
+ORB-v3-cons-inf-omat,S08-Cu001-0.5,Cu,(001),c(2x2),0.50000,2,4-fold hollow,3.61349,-0.71000,2.80000,True,False,source,-0.78250,-0.62004,2.80000,True,0
+ORB-v3-cons-inf-omat,S08-Cu001-0.5,Cu,(001),c(2x2),0.50000,2,4-fold hollow,3.61349,-0.71000,2.80000,True,False,relaxed,-0.78109,-0.61863,2.76220,True,5
+ORB-v3-cons-inf-omat,S08-Ni001-0.5,Ni,(001),c(2x2),0.50000,2,4-fold hollow,3.50557,-0.81000,2.77000,True,True,source,-1.06496,-0.90250,2.77000,True,0
+ORB-v3-cons-inf-omat,S08-Ni001-0.5,Ni,(001),c(2x2),0.50000,2,4-fold hollow,3.50557,-0.81000,2.77000,True,True,relaxed,-1.05930,-0.89683,2.73433,True,4
+ORB-v3-cons-inf-omat,S08-Pd001-0.5,Pd,(001),c(2x2),0.50000,2,4-fold hollow,3.93945,-1.08000,2.83000,True,False,source,-1.14936,-0.98690,2.83000,True,0
+ORB-v3-cons-inf-omat,S08-Pd001-0.5,Pd,(001),c(2x2),0.50000,2,4-fold hollow,3.93945,-1.08000,2.83000,True,False,relaxed,-1.14889,-0.98643,2.81678,True,10
+ORB-v3-cons-inf-omat,S08-Pt001-0.5,Pt,(001),c(2x2),0.50000,2,4-fold hollow,3.96597,-0.97000,2.85000,True,False,source,-1.00635,-0.84389,2.85000,True,0
+ORB-v3-cons-inf-omat,S08-Pt001-0.5,Pt,(001),c(2x2),0.50000,2,4-fold hollow,3.96597,-0.97000,2.85000,True,False,relaxed,-0.97123,-0.80877,2.85419,True,10
+ORB-v3-cons-inf-omat,S08-Ag001-1,Ag,(001),c(1x1),1.00000,4,4-fold hollow,4.14561,-0.30000,3.30000,True,False,source,-0.50043,-0.33797,3.30000,True,0
+ORB-v3-cons-inf-omat,S08-Ag001-1,Ag,(001),c(1x1),1.00000,4,4-fold hollow,4.14561,-0.30000,3.30000,True,False,relaxed,-0.51423,-0.35177,3.15496,True,13
+ORB-v3-cons-inf-omat,S08-Au001-1,Au,(001),c(1x1),1.00000,4,4-fold hollow,4.15076,-0.35000,3.39000,True,False,source,-0.48365,-0.32119,3.39000,True,0
+ORB-v3-cons-inf-omat,S08-Au001-1,Au,(001),c(1x1),1.00000,4,4-fold hollow,4.15076,-0.35000,3.39000,True,False,relaxed,-0.49952,-0.33706,3.22547,True,13
+ORB-v3-cons-inf-omat,S08-Cu001-1,Cu,(001),c(1x1),1.00000,4,4-fold hollow,3.61349,0.27000,3.14000,True,False,source,0.15337,0.31583,3.14000,True,0
+ORB-v3-cons-inf-omat,S08-Cu001-1,Cu,(001),c(1x1),1.00000,4,4-fold hollow,3.61349,0.27000,3.14000,True,False,relaxed,0.14407,0.30654,3.00182,True,14
+ORB-v3-cons-inf-omat,S08-Ni001-1,Ni,(001),c(1x1),1.00000,4,4-fold hollow,3.50557,0.55000,2.99000,True,True,source,0.39671,0.55917,2.99000,True,0
+ORB-v3-cons-inf-omat,S08-Ni001-1,Ni,(001),c(1x1),1.00000,4,4-fold hollow,3.50557,0.55000,2.99000,True,True,relaxed,0.39541,0.55787,2.91225,True,12
+ORB-v3-cons-inf-omat,S08-Pd001-1,Pd,(001),c(1x1),1.00000,4,4-fold hollow,3.93945,-0.67000,2.95000,True,False,source,-0.83582,-0.67336,2.95000,True,0
+ORB-v3-cons-inf-omat,S08-Pd001-1,Pd,(001),c(1x1),1.00000,4,4-fold hollow,3.93945,-0.67000,2.95000,True,False,relaxed,-0.83966,-0.67720,2.92478,True,12
+ORB-v3-cons-inf-omat,S08-Pt001-1,Pt,(001),c(1x1),1.00000,4,4-fold hollow,3.96597,-0.58000,3.05000,True,False,source,-0.74321,-0.58075,3.05000,True,0
+ORB-v3-cons-inf-omat,S08-Pt001-1,Pt,(001),c(1x1),1.00000,4,4-fold hollow,3.96597,-0.58000,3.05000,True,False,relaxed,-0.72919,-0.56673,3.01072,True,12
+ORB-v3-cons-inf-omat,S08-Au001-0.125-bridge,Au,(001),c(4x4),0.12500,2,bridge,4.15076,-0.47000,,False,False,relaxed,-0.52490,-0.36243,2.85956,True,17
+ORB-v3-cons-inf-omat,S08-Au001-0.125-top,Au,(001),c(4x4),0.12500,2,top,4.15076,-0.36000,,False,False,relaxed,-0.39584,-0.23338,2.81270,True,20

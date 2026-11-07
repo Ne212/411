@@ -1,0 +1,20 @@
+Loading ALIGNN model /home/ne212/.cache/atomgptlab/alignn_ff/alignn_ff_omat24_1m/best_model.pt on cuda
+
+===== ALIGNN-FF-omat24
+Au bulk a0 = 4.1502 A, B0 = 116.2 GPa
+[ALIGNN-FF-omat24_slab] steps=2 converged=True fmax=0.0099 E=-110.712748 eV (0.4 s)
+[ALIGNN-FF-omat24_far] steps=0 converged=True fmax=0.0099 E=-110.396381 eV (0.1 s)
+E(Hg atom)=0.31638  E(far)-E(slab)=0.31637  E_coh(Hg, model)=0.5082 eV
+[ALIGNN-FF-omat24_ontop] steps=22 converged=True fmax=0.0122 E=-110.961627 eV (4.4 s)
+[ALIGNN-FF-omat24_ontop_free] steps=21 converged=True fmax=0.0142 E=-110.961521 eV (4.4 s)
+  ontop  E_ads(A)=-0.5653 E_ads(B)=-0.5652 E_ads(C)=-0.7270  h=2.822 d=2.810 drift=0.000
+[ALIGNN-FF-omat24_bridge] steps=1000 converged=False fmax=0.1742 E=-111.135957 eV (136.5 s)
+[ALIGNN-FF-omat24_bridge_free] steps=1000 converged=False fmax=0.0302 E=-111.097442 eV (122.6 s)
+  bridge E_ads(A)=-0.7396 E_ads(B)=-0.7396 E_ads(C)=-0.9014  h=2.515 d=2.922 drift=0.000
+[ALIGNN-FF-omat24_fcc] steps=9 converged=True fmax=0.0167 E=-111.065764 eV (1.2 s)
+[ALIGNN-FF-omat24_fcc_free] steps=9 converged=True fmax=0.0167 E=-111.065764 eV (1.1 s)
+  fcc    E_ads(A)=-0.6694 E_ads(B)=-0.6694 E_ads(C)=-0.8312  h=2.389 d=2.935 drift=0.000
+[ALIGNN-FF-omat24_hcp] steps=9 converged=True fmax=0.0178 E=-111.080134 eV (1.2 s)
+[ALIGNN-FF-omat24_hcp_free] steps=9 converged=True fmax=0.0178 E=-111.080134 eV (1.2 s)
+  hcp    E_ads(A)=-0.6838 E_ads(B)=-0.6838 E_ads(C)=-0.8456  h=2.387 d=2.936 drift=0.000
+done ALIGNN-FF-omat24 (279 s)

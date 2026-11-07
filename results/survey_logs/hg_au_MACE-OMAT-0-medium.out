@@ -1,0 +1,24 @@
+cuequivariance or cuequivariance_torch is not available. Cuequivariance acceleration will be disabled.
+Using model under Academic Software License (ASL) license, see https://github.com/gabor1/ASL 
+ To use this model you accept the terms of the license.
+Using Materials Project MACE for MACECalculator with /home/ne212/.cache/mace/maceomat0mediummodel
+Using float64 for MACECalculator, which is slower but more accurate. Recommended for geometry optimization.
+
+===== MACE-OMAT-0-medium
+Au bulk a0 = 4.1541 A, B0 = 140.2 GPa
+[MACE-OMAT-0-medium_slab] steps=2 converged=True fmax=0.0182 E=-110.555868 eV (0.6 s)
+[MACE-OMAT-0-medium_far] steps=0 converged=True fmax=0.0182 E=-110.680415 eV (0.1 s)
+E(Hg atom)=-0.12455  E(far)-E(slab)=-0.12455  E_coh(Hg, model)=0.0477 eV
+[MACE-OMAT-0-medium_ontop] steps=21 converged=True fmax=0.0180 E=-110.733747 eV (1.5 s)
+[MACE-OMAT-0-medium_ontop_free] steps=21 converged=True fmax=0.0180 E=-110.733747 eV (1.5 s)
+  ontop  E_ads(A)=-0.0533 E_ads(B)=-0.0533 E_ads(C)=-0.6757  h=2.927 d=2.895 drift=0.000
+[MACE-OMAT-0-medium_bridge] steps=7 converged=True fmax=0.0161 E=-110.803817 eV (0.6 s)
+[MACE-OMAT-0-medium_bridge_free] steps=7 converged=True fmax=0.0161 E=-110.803818 eV (0.5 s)
+  bridge E_ads(A)=-0.1234 E_ads(B)=-0.1234 E_ads(C)=-0.7457  h=2.537 d=2.957 drift=0.000
+[MACE-OMAT-0-medium_fcc] steps=10 converged=True fmax=0.0185 E=-110.826591 eV (0.7 s)
+[MACE-OMAT-0-medium_fcc_free] steps=10 converged=True fmax=0.0185 E=-110.826591 eV (0.7 s)
+  fcc    E_ads(A)=-0.1462 E_ads(B)=-0.1462 E_ads(C)=-0.7685  h=2.471 d=3.011 drift=0.000
+[MACE-OMAT-0-medium_hcp] steps=8 converged=True fmax=0.0176 E=-110.823765 eV (0.6 s)
+[MACE-OMAT-0-medium_hcp_free] steps=8 converged=True fmax=0.0176 E=-110.823765 eV (0.6 s)
+  hcp    E_ads(A)=-0.1434 E_ads(B)=-0.1434 E_ads(C)=-0.7657  h=2.503 d=3.036 drift=0.000
+done MACE-OMAT-0-medium (17 s)

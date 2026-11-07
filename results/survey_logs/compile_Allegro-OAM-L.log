@@ -1,0 +1,15 @@
+[2026-11-04 15:29:49,627][nequip.scripts.compile][INFO] - [rank: 0] Compiling for device: cuda
+[2026-11-04 15:29:49,628][nequip.model.saved_models.load_utils][INFO] - [rank: 0] Fetching mir-group/Allegro-OAM-L:0.1 from nequip.net...
+[2026-11-04 15:29:50,218][nequip.model.saved_models.load_utils][INFO] - [rank: 0] Please cite this model in any resulting work -- see https://nequip.readthedocs.io/en/latest/guide/getting-started/foundation_potentials.html
+[2026-11-04 15:29:50,269][nequip.utils.model_cache][INFO] - [rank: 0] Using cached model from /home/ne212/.nequip/model_cache/cd7794ba9456e3aef505c69a7db8985d06641057c976c58f272c1107f37aaf77.nequip.zip
+[2026-11-04 15:29:50,269][nequip.model.saved_models.package][INFO] - [rank: 0] Loading model from package file: /home/ne212/.nequip/model_cache/cd7794ba9456e3aef505c69a7db8985d06641057c976c58f272c1107f37aaf77.nequip.zip ...
+/home/ne212/miniforge3/lib/python3.11/copyreg.py:105: FutureWarning: `isinstance(treespec, LeafSpec)` is deprecated, use `isinstance(treespec, TreeSpec) and treespec.is_leaf()` instead.
+  return cls.__new__(cls, *args)
+/home/ne212/START/venvs/nequip/lib/python3.11/site-packages/torch/_inductor/compile_fx.py:322: UserWarning: TensorFloat32 tensor cores for float32 matrix multiplication available but not enabled. Consider setting `torch.set_float32_matmul_precision('high')` for better performance.
+  warnings.warn(
+W1104 15:30:03.985000 2521425 torch/_inductor/ir.py:8256] aten._linalg_det.default is missing a c-shim implementation, using proxy executor as fallback
+[2026-11-04 15:30:32,153][nequip.scripts.compile][INFO] - [rank: 0] Exported model saved to models/Allegro-OAM-L.nequip.pt2
+
+real	0m50,959s
+user	1m11,566s
+sys	0m5,061s

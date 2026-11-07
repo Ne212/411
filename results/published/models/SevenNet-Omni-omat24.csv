@@ -1,0 +1,87 @@
+model,system,metal,facet,overlayer,coverage_ML,n_Hg_our_cell,site_kind,a0_metal_A,E_ads_ref_eV,d_MHg_ref_A,in_main_MAE,Ni_flag,mode,E_ads_A_eV,E_ads_D_eV,d_MHg_A,converged,n_steps
+SevenNet-Omni-omat24,S08-Ag111-0.083,Ag,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,4.14845,-0.34000,3.00000,True,False,source,-0.45419,-0.32962,3.00000,True,0
+SevenNet-Omni-omat24,S08-Ag111-0.083,Ag,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,4.14845,-0.34000,3.00000,True,False,relaxed,-0.45970,-0.33513,3.00851,True,5
+SevenNet-Omni-omat24,S08-Au111-0.083,Au,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,4.15395,-0.36000,2.99000,True,False,source,-0.43153,-0.30696,2.99000,True,0
+SevenNet-Omni-omat24,S08-Au111-0.083,Au,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,4.15395,-0.36000,2.99000,True,False,relaxed,-0.44852,-0.32394,3.00596,True,10
+SevenNet-Omni-omat24,S08-Cu111-0.083,Cu,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.61668,-0.52000,2.75000,True,False,source,-0.57200,-0.44743,2.75000,True,0
+SevenNet-Omni-omat24,S08-Cu111-0.083,Cu,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.61668,-0.52000,2.75000,True,False,relaxed,-0.57884,-0.45427,2.76971,True,5
+SevenNet-Omni-omat24,S08-Ni111-0.083,Ni,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.50928,-0.67000,2.72000,True,True,source,-0.75043,-0.62585,2.72000,True,0
+SevenNet-Omni-omat24,S08-Ni111-0.083,Ni,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.50928,-0.67000,2.72000,True,True,relaxed,-0.75819,-0.63362,2.71538,True,7
+SevenNet-Omni-omat24,S08-Pd111-0.083,Pd,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.94085,-0.84000,2.81000,True,False,source,-0.90292,-0.77835,2.81000,True,0
+SevenNet-Omni-omat24,S08-Pd111-0.083,Pd,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.94085,-0.84000,2.81000,True,False,relaxed,-0.90945,-0.78488,2.82202,True,6
+SevenNet-Omni-omat24,S08-Pt111-0.083,Pt,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.96618,-0.75000,2.86000,True,False,source,-0.84160,-0.71703,2.86000,True,0
+SevenNet-Omni-omat24,S08-Pt111-0.083,Pt,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.96618,-0.75000,2.86000,True,False,relaxed,-0.85496,-0.73039,2.86677,True,7
+SevenNet-Omni-omat24,S08-Ag111-0.25,Ag,(111),p(2x2),0.25000,1,fcc hollow,4.14845,-0.36000,3.01000,True,False,source,-0.46138,-0.33681,3.01000,True,0
+SevenNet-Omni-omat24,S08-Ag111-0.25,Ag,(111),p(2x2),0.25000,1,fcc hollow,4.14845,-0.36000,3.01000,True,False,relaxed,-0.46439,-0.33982,3.00876,True,4
+SevenNet-Omni-omat24,S08-Au111-0.25,Au,(111),p(2x2),0.25000,1,fcc hollow,4.15395,-0.38000,3.01000,True,False,source,-0.43417,-0.30960,3.01000,True,0
+SevenNet-Omni-omat24,S08-Au111-0.25,Au,(111),p(2x2),0.25000,1,fcc hollow,4.15395,-0.38000,3.01000,True,False,relaxed,-0.44135,-0.31678,3.02239,True,4
+SevenNet-Omni-omat24,S08-Cu111-0.25,Cu,(111),p(2x2),0.25000,1,fcc hollow,3.61668,-0.53000,2.78000,True,False,source,-0.57397,-0.44940,2.78000,True,0
+SevenNet-Omni-omat24,S08-Cu111-0.25,Cu,(111),p(2x2),0.25000,1,fcc hollow,3.61668,-0.53000,2.78000,True,False,relaxed,-0.57674,-0.45216,2.77792,True,4
+SevenNet-Omni-omat24,S08-Ni111-0.25,Ni,(111),p(2x2),0.25000,1,fcc hollow,3.50928,-0.64000,2.74000,True,True,source,-0.75126,-0.62669,2.74000,True,0
+SevenNet-Omni-omat24,S08-Ni111-0.25,Ni,(111),p(2x2),0.25000,1,fcc hollow,3.50928,-0.64000,2.74000,True,True,relaxed,-0.75578,-0.63121,2.71838,True,8
+SevenNet-Omni-omat24,S08-Pd111-0.25,Pd,(111),p(2x2),0.25000,1,fcc hollow,3.94085,-0.81000,2.83000,True,False,source,-0.90159,-0.77701,2.83000,True,0
+SevenNet-Omni-omat24,S08-Pd111-0.25,Pd,(111),p(2x2),0.25000,1,fcc hollow,3.94085,-0.81000,2.83000,True,False,relaxed,-0.90272,-0.77814,2.82786,True,9
+SevenNet-Omni-omat24,S08-Pt111-0.25,Pt,(111),p(2x2),0.25000,1,fcc hollow,3.96618,-0.68000,2.88000,True,False,source,-0.83982,-0.71525,2.88000,True,0
+SevenNet-Omni-omat24,S08-Pt111-0.25,Pt,(111),p(2x2),0.25000,1,fcc hollow,3.96618,-0.68000,2.88000,True,False,relaxed,-0.84120,-0.71663,2.88079,True,11
+SevenNet-Omni-omat24,S08-Ag111-0.333,Ag,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,4.14845,-0.31000,3.06000,True,False,source,-0.46140,-0.33683,3.06000,True,0
+SevenNet-Omni-omat24,S08-Ag111-0.333,Ag,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,4.14845,-0.31000,3.06000,True,False,relaxed,-0.46538,-0.34081,3.01665,True,6
+SevenNet-Omni-omat24,S08-Au111-0.333,Au,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,4.15395,-0.32000,3.05000,True,False,source,-0.44217,-0.31760,3.05000,True,0
+SevenNet-Omni-omat24,S08-Au111-0.333,Au,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,4.15395,-0.32000,3.05000,True,False,relaxed,-0.44724,-0.32267,3.01954,True,10
+SevenNet-Omni-omat24,S08-Cu111-0.333,Cu,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.61668,-0.48000,2.82000,True,False,source,-0.58361,-0.45904,2.82000,True,0
+SevenNet-Omni-omat24,S08-Cu111-0.333,Cu,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.61668,-0.48000,2.82000,True,False,relaxed,-0.58752,-0.46295,2.78319,True,5
+SevenNet-Omni-omat24,S08-Ni111-0.333,Ni,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.50928,-0.61000,2.76000,True,True,source,-0.75535,-0.63078,2.76000,True,0
+SevenNet-Omni-omat24,S08-Ni111-0.333,Ni,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.50928,-0.61000,2.76000,True,True,relaxed,-0.76195,-0.63737,2.72194,True,5
+SevenNet-Omni-omat24,S08-Pd111-0.333,Pd,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.94085,-0.80000,2.83000,True,False,source,-0.90231,-0.77774,2.83000,True,0
+SevenNet-Omni-omat24,S08-Pd111-0.333,Pd,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.94085,-0.80000,2.83000,True,False,relaxed,-0.90152,-0.77695,2.82550,True,9
+SevenNet-Omni-omat24,S08-Pt111-0.333,Pt,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.96618,-0.67000,2.89000,True,False,source,-0.84216,-0.71759,2.89000,True,0
+SevenNet-Omni-omat24,S08-Pt111-0.333,Pt,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.96618,-0.67000,2.89000,True,False,relaxed,-0.84057,-0.71600,2.87461,True,5
+SevenNet-Omni-omat24,S08-Ag111-0.5,Ag,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,4.14845,-0.37000,3.09000,False,False,source,-0.47343,-0.34886,3.09000,True,0
+SevenNet-Omni-omat24,S08-Ag111-0.5,Ag,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,4.14845,-0.37000,3.09000,False,False,relaxed,-0.47476,-0.35019,3.06917,True,4
+SevenNet-Omni-omat24,S08-Au111-0.5,Au,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,4.15395,-0.35000,3.11000,False,False,source,-0.43128,-0.30670,3.11000,True,0
+SevenNet-Omni-omat24,S08-Au111-0.5,Au,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,4.15395,-0.35000,3.11000,False,False,relaxed,-0.43527,-0.31069,3.11095,True,6
+SevenNet-Omni-omat24,S08-Cu111-0.5,Cu,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.61668,-0.51000,2.87000,False,False,source,-0.58681,-0.46223,2.87000,True,0
+SevenNet-Omni-omat24,S08-Cu111-0.5,Cu,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.61668,-0.51000,2.87000,False,False,relaxed,-0.58761,-0.46304,2.86027,True,4
+SevenNet-Omni-omat24,S08-Ni111-0.5,Ni,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.50928,-0.61000,2.75000,False,True,source,-0.70948,-0.58491,2.75000,True,0
+SevenNet-Omni-omat24,S08-Ni111-0.5,Ni,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.50928,-0.61000,2.75000,False,True,relaxed,-0.71212,-0.58755,2.78380,True,5
+SevenNet-Omni-omat24,S08-Pd111-0.5,Pd,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.94085,-0.81000,2.85000,False,False,source,-0.90254,-0.77797,2.85000,True,0
+SevenNet-Omni-omat24,S08-Pd111-0.5,Pd,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.94085,-0.81000,2.85000,False,False,relaxed,-0.90147,-0.77690,2.85536,True,10
+SevenNet-Omni-omat24,S08-Pt111-0.5,Pt,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.96618,-0.69000,2.92000,False,False,source,-0.81728,-0.69271,2.92000,True,0
+SevenNet-Omni-omat24,S08-Pt111-0.5,Pt,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.96618,-0.69000,2.92000,False,False,relaxed,-0.81914,-0.69456,2.92730,True,13
+SevenNet-Omni-omat24,S08-Ag001-0.125,Ag,(001),c(4x4),0.12500,2,4-fold hollow,4.14845,-0.50000,3.01000,False,False,source,-0.52560,-0.40103,3.01000,True,0
+SevenNet-Omni-omat24,S08-Ag001-0.125,Ag,(001),c(4x4),0.12500,2,4-fold hollow,4.14845,-0.50000,3.01000,False,False,relaxed,-0.53390,-0.40932,3.00400,True,10
+SevenNet-Omni-omat24,S08-Au001-0.125,Au,(001),c(4x4),0.12500,2,4-fold hollow,4.15395,-0.61000,2.94000,False,False,source,-0.56348,-0.43890,2.94000,True,0
+SevenNet-Omni-omat24,S08-Au001-0.125,Au,(001),c(4x4),0.12500,2,4-fold hollow,4.15395,-0.61000,2.94000,False,False,relaxed,-0.60155,-0.47698,2.94174,True,17
+SevenNet-Omni-omat24,S08-Cu001-0.125,Cu,(001),c(4x4),0.12500,2,4-fold hollow,3.61668,-0.67000,2.78000,False,False,source,-0.70360,-0.57903,2.78000,True,0
+SevenNet-Omni-omat24,S08-Cu001-0.125,Cu,(001),c(4x4),0.12500,2,4-fold hollow,3.61668,-0.67000,2.78000,False,False,relaxed,-0.70705,-0.58247,2.78022,True,8
+SevenNet-Omni-omat24,S08-Ni001-0.125,Ni,(001),c(4x4),0.12500,2,4-fold hollow,3.50928,-0.82000,2.73000,False,True,source,-0.94269,-0.81811,2.73000,True,0
+SevenNet-Omni-omat24,S08-Ni001-0.125,Ni,(001),c(4x4),0.12500,2,4-fold hollow,3.50928,-0.82000,2.73000,False,True,relaxed,-0.94966,-0.82509,2.72930,True,8
+SevenNet-Omni-omat24,S08-Pd001-0.125,Pd,(001),c(4x4),0.12500,2,4-fold hollow,3.94085,-1.10000,2.83000,False,False,source,-1.11931,-0.99474,2.83000,True,0
+SevenNet-Omni-omat24,S08-Pd001-0.125,Pd,(001),c(4x4),0.12500,2,4-fold hollow,3.94085,-1.10000,2.83000,False,False,relaxed,-1.12895,-1.00438,2.81846,True,8
+SevenNet-Omni-omat24,S08-Pt001-0.125,Pt,(001),c(4x4),0.12500,2,4-fold hollow,3.96618,-1.09000,2.83000,False,False,source,-1.14668,-1.02211,2.83000,True,0
+SevenNet-Omni-omat24,S08-Pt001-0.125,Pt,(001),c(4x4),0.12500,2,4-fold hollow,3.96618,-1.09000,2.83000,False,False,relaxed,-1.15245,-1.02788,2.85205,True,10
+SevenNet-Omni-omat24,S08-Ag001-0.5,Ag,(001),c(2x2),0.50000,2,4-fold hollow,4.14845,-0.51000,3.02000,True,False,source,-0.51870,-0.39413,3.02000,True,0
+SevenNet-Omni-omat24,S08-Ag001-0.5,Ag,(001),c(2x2),0.50000,2,4-fold hollow,4.14845,-0.51000,3.02000,True,False,relaxed,-0.51691,-0.39234,3.03023,True,4
+SevenNet-Omni-omat24,S08-Au001-0.5,Au,(001),c(2x2),0.50000,2,4-fold hollow,4.15395,-0.51000,3.00000,True,False,source,-0.52940,-0.40483,3.00000,True,0
+SevenNet-Omni-omat24,S08-Au001-0.5,Au,(001),c(2x2),0.50000,2,4-fold hollow,4.15395,-0.51000,3.00000,True,False,relaxed,-0.52839,-0.40382,3.02255,True,11
+SevenNet-Omni-omat24,S08-Cu001-0.5,Cu,(001),c(2x2),0.50000,2,4-fold hollow,3.61668,-0.71000,2.80000,True,False,source,-0.71760,-0.59303,2.80000,True,0
+SevenNet-Omni-omat24,S08-Cu001-0.5,Cu,(001),c(2x2),0.50000,2,4-fold hollow,3.61668,-0.71000,2.80000,True,False,relaxed,-0.71395,-0.58938,2.81989,True,10
+SevenNet-Omni-omat24,S08-Ni001-0.5,Ni,(001),c(2x2),0.50000,2,4-fold hollow,3.50928,-0.81000,2.77000,True,True,source,-0.97513,-0.85055,2.77000,True,0
+SevenNet-Omni-omat24,S08-Ni001-0.5,Ni,(001),c(2x2),0.50000,2,4-fold hollow,3.50928,-0.81000,2.77000,True,True,relaxed,-0.97270,-0.84813,2.73729,True,5
+SevenNet-Omni-omat24,S08-Pd001-0.5,Pd,(001),c(2x2),0.50000,2,4-fold hollow,3.94085,-1.08000,2.83000,True,False,source,-1.11801,-0.99344,2.83000,True,0
+SevenNet-Omni-omat24,S08-Pd001-0.5,Pd,(001),c(2x2),0.50000,2,4-fold hollow,3.94085,-1.08000,2.83000,True,False,relaxed,-1.11233,-0.98775,2.83369,True,10
+SevenNet-Omni-omat24,S08-Pt001-0.5,Pt,(001),c(2x2),0.50000,2,4-fold hollow,3.96618,-0.97000,2.85000,True,False,source,-1.10736,-0.98279,2.85000,True,0
+SevenNet-Omni-omat24,S08-Pt001-0.5,Pt,(001),c(2x2),0.50000,2,4-fold hollow,3.96618,-0.97000,2.85000,True,False,relaxed,-1.08339,-0.95882,2.87062,True,11
+SevenNet-Omni-omat24,S08-Ag001-1,Ag,(001),c(1x1),1.00000,4,4-fold hollow,4.14845,-0.30000,3.30000,True,False,source,-0.43679,-0.31221,3.30000,True,0
+SevenNet-Omni-omat24,S08-Ag001-1,Ag,(001),c(1x1),1.00000,4,4-fold hollow,4.14845,-0.30000,3.30000,True,False,relaxed,-0.44321,-0.31864,3.19757,True,13
+SevenNet-Omni-omat24,S08-Au001-1,Au,(001),c(1x1),1.00000,4,4-fold hollow,4.15395,-0.35000,3.39000,True,False,source,-0.43478,-0.31020,3.39000,True,0
+SevenNet-Omni-omat24,S08-Au001-1,Au,(001),c(1x1),1.00000,4,4-fold hollow,4.15395,-0.35000,3.39000,True,False,relaxed,-0.44590,-0.32133,3.25320,True,13
+SevenNet-Omni-omat24,S08-Cu001-1,Cu,(001),c(1x1),1.00000,4,4-fold hollow,3.61668,0.27000,3.14000,True,False,source,0.19754,0.32211,3.14000,True,0
+SevenNet-Omni-omat24,S08-Cu001-1,Cu,(001),c(1x1),1.00000,4,4-fold hollow,3.61668,0.27000,3.14000,True,False,relaxed,0.19539,0.31997,3.07196,True,7
+SevenNet-Omni-omat24,S08-Ni001-1,Ni,(001),c(1x1),1.00000,4,4-fold hollow,3.50928,0.55000,2.99000,True,True,source,0.50299,0.62756,2.99000,True,0
+SevenNet-Omni-omat24,S08-Ni001-1,Ni,(001),c(1x1),1.00000,4,4-fold hollow,3.50928,0.55000,2.99000,True,True,relaxed,0.50671,0.63128,2.98261,True,2
+SevenNet-Omni-omat24,S08-Pd001-1,Pd,(001),c(1x1),1.00000,4,4-fold hollow,3.94085,-0.67000,2.95000,True,False,source,-0.76004,-0.63547,2.95000,True,0
+SevenNet-Omni-omat24,S08-Pd001-1,Pd,(001),c(1x1),1.00000,4,4-fold hollow,3.94085,-0.67000,2.95000,True,False,relaxed,-0.75767,-0.63309,2.95088,True,11
+SevenNet-Omni-omat24,S08-Pt001-1,Pt,(001),c(1x1),1.00000,4,4-fold hollow,3.96618,-0.58000,3.05000,True,False,source,-0.73678,-0.61221,3.05000,True,0
+SevenNet-Omni-omat24,S08-Pt001-1,Pt,(001),c(1x1),1.00000,4,4-fold hollow,3.96618,-0.58000,3.05000,True,False,relaxed,-0.72303,-0.59846,3.03497,True,12
+SevenNet-Omni-omat24,S08-Au001-0.125-bridge,Au,(001),c(4x4),0.12500,2,bridge,4.15395,-0.47000,,False,False,relaxed,-0.48083,-0.35625,2.92358,True,15
+SevenNet-Omni-omat24,S08-Au001-0.125-top,Au,(001),c(4x4),0.12500,2,top,4.15395,-0.36000,,False,False,relaxed,-0.41458,-0.29001,2.85351,True,21

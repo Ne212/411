@@ -1,0 +1,111 @@
+{
+ "settings": {
+  "slab_size": [
+   3,
+   3,
+   4
+  ],
+  "vacuum": 12.0,
+  "fixed_layers": "tag >= 3 (bottom 2 of 4)",
+  "sites": [
+   "ontop",
+   "bridge",
+   "fcc",
+   "hcp"
+  ],
+  "hg_start_height": 2.5,
+  "hg_lateral": "fixed (FixedLine along z) so each site stays at its high-symmetry position; an unconstrained relaxation is also run per site -> mlip_site_stability.csv",
+  "far_height": 10.0,
+  "far_lateral_site": "fcc",
+  "atom_box": 15.0,
+  "optimizer": "BFGS",
+  "fmax": 0.02,
+  "max_steps": 1000,
+  "eos_grid": {
+   "points": 11,
+   "rel_range": 0.03,
+   "eos": "birchmurnaghan"
+  },
+  "hg_bulk": "alpha-Hg rhombohedral (ASE reference a=2.99 A, alpha=70.45 deg), full cell+position relaxation with FrechetCellFilter",
+  "Ecoh_exp_Hg": 0.67,
+  "scan_heights": [
+   1.8,
+   1.9,
+   2.0,
+   2.1,
+   2.2,
+   2.3,
+   2.4,
+   2.5,
+   2.6,
+   2.7,
+   2.8,
+   2.9,
+   3.0,
+   3.1,
+   3.2,
+   3.3,
+   3.4,
+   3.5,
+   3.6,
+   3.7,
+   3.8,
+   3.9,
+   4.0,
+   4.25,
+   4.5,
+   4.75,
+   5.0,
+   5.25,
+   5.5,
+   5.75,
+   6.0,
+   6.25,
+   6.5,
+   6.75,
+   7.0,
+   7.25,
+   7.5,
+   7.75,
+   8.0,
+   8.25,
+   8.5,
+   8.75,
+   9.0,
+   9.25,
+   9.5,
+   9.75,
+   10.0,
+   10.25,
+   10.5,
+   10.75,
+   11.0,
+   11.25,
+   11.5,
+   11.75,
+   12.0
+  ],
+  "scan_note": "rigid scan: relaxed clean slab frozen, Hg above fcc hollow, single points"
+ },
+ "Ecoh_PBE_Hg": 0.169184,
+ "ase": "3.29.0",
+ "torch": "2.11.0+cu130",
+ "cuda": true,
+ "gpu": "NVIDIA RTX PRO 4000 Blackwell",
+ "date": "2026-11-04 15:00:24"
+}
+
+===== ALIGNN-FF-mptrj: {"model": "ALIGNN-FF-mptrj", "alignn_name": "alignn_ff_mptrj", "patch": "forces reshaped to (N,3) for 1-atom cells", "package": "alignn 2026.11.1", "device": "cuda", "dtype": "float32", "a_bracket": [3.8, 4.4]}
+Au bulk: {'a_brent': 4.171089713630527, 'a0': 4.1714449600428445, 'B0_GPa': 135.03935125020982, 'E0_per_atom': -3.2641550127059746}
+[ALIGNN-FF-mptrj_slab] steps=2 converged=True fmax=0.0084 E=-116.980096 eV (0.4 s)
+[ALIGNN-FF-mptrj_far] steps=0 converged=True fmax=0.0084 E=-116.652430 eV (0.1 s)
+alpha-Hg: E/atom=-0.283326 converged=True cellpar=[3.5653, 3.5653, 3.5653, 60.9795, 60.9796, 60.9793] V/atom=32.754 E_coh(model)=0.6110
+[ALIGNN-FF-mptrj_ontop] steps=9 converged=True fmax=0.0151 E=-116.983985 eV (1.3 s)
+[ALIGNN-FF-mptrj_ontop_free] steps=9 converged=True fmax=0.0151 E=-116.983977 eV (1.3 s)
+[ALIGNN-FF-mptrj_bridge] steps=15 converged=True fmax=0.0135 E=-117.315585 eV (2.2 s)
+[ALIGNN-FF-mptrj_bridge_free] steps=15 converged=True fmax=0.0135 E=-117.315620 eV (2.4 s)
+[ALIGNN-FF-mptrj_fcc] steps=9 converged=True fmax=0.0161 E=-117.305167 eV (1.4 s)
+[ALIGNN-FF-mptrj_fcc_free] steps=9 converged=True fmax=0.0161 E=-117.305158 eV (1.1 s)
+[ALIGNN-FF-mptrj_hcp] steps=8 converged=True fmax=0.0193 E=-117.294405 eV (1.1 s)
+[ALIGNN-FF-mptrj_hcp_free] steps=8 converged=True fmax=0.0193 E=-117.294387 eV (1.0 s)
+wall time 18.3 s

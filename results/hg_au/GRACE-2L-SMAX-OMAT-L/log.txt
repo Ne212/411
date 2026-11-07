@@ -1,0 +1,109 @@
+{
+ "settings": {
+  "slab_size": [
+   3,
+   3,
+   4
+  ],
+  "vacuum": 12.0,
+  "fixed_layers": "tag >= 3 (bottom 2 of 4)",
+  "sites": [
+   "ontop",
+   "bridge",
+   "fcc",
+   "hcp"
+  ],
+  "hg_start_height": 2.5,
+  "hg_lateral": "fixed (FixedLine along z) so each site stays at its high-symmetry position; an unconstrained relaxation is also run per site -> mlip_site_stability.csv",
+  "far_height": 10.0,
+  "far_lateral_site": "fcc",
+  "atom_box": 15.0,
+  "optimizer": "BFGS",
+  "fmax": 0.02,
+  "max_steps": 1000,
+  "eos_grid": {
+   "points": 11,
+   "rel_range": 0.03,
+   "eos": "birchmurnaghan"
+  },
+  "hg_bulk": "alpha-Hg rhombohedral (ASE reference a=2.99 A, alpha=70.45 deg), full cell+position relaxation with FrechetCellFilter",
+  "Ecoh_exp_Hg": 0.67,
+  "scan_heights": [
+   1.8,
+   1.9,
+   2.0,
+   2.1,
+   2.2,
+   2.3,
+   2.4,
+   2.5,
+   2.6,
+   2.7,
+   2.8,
+   2.9,
+   3.0,
+   3.1,
+   3.2,
+   3.3,
+   3.4,
+   3.5,
+   3.6,
+   3.7,
+   3.8,
+   3.9,
+   4.0,
+   4.25,
+   4.5,
+   4.75,
+   5.0,
+   5.25,
+   5.5,
+   5.75,
+   6.0,
+   6.25,
+   6.5,
+   6.75,
+   7.0,
+   7.25,
+   7.5,
+   7.75,
+   8.0,
+   8.25,
+   8.5,
+   8.75,
+   9.0,
+   9.25,
+   9.5,
+   9.75,
+   10.0,
+   10.25,
+   10.5,
+   10.75,
+   11.0,
+   11.25,
+   11.5,
+   11.75,
+   12.0
+  ],
+  "scan_note": "rigid scan: relaxed clean slab frozen, Hg above fcc hollow, single points"
+ },
+ "Ecoh_PBE_Hg": 0.169184,
+ "ase": "3.29.0",
+ "torch": null,
+ "date": "2026-11-04 16:14:57"
+}
+
+===== GRACE-2L-SMAX-OMAT-L: {"model": "GRACE-2L-SMAX-OMAT-L", "grace_name": "GRACE-2L-SMAX-OMAT-large-fp64", "package": "tensorpotential 0.6.2.1", "device": "TF default (GPU if visible)", "dtype": "float64", "a_bracket": [3.8, 4.4]}
+Au bulk: {'a_brent': 4.156994657052082, 'a0': 4.156904862238044, 'B0_GPa': 134.9116904762823, 'E0_per_atom': -3.215653945342268}
+[GRACE-2L-SMAX-OMAT-L_slab] steps=6 converged=True fmax=0.0055 E=-109.888109 eV (5.6 s)
+[GRACE-2L-SMAX-OMAT-L_far] steps=0 converged=True fmax=0.0055 E=-110.005175 eV (0.0 s)
+alpha-Hg: E/atom=-0.181921 converged=True cellpar=[3.5064, 3.5064, 3.5064, 60.7428, 60.7428, 60.7428] V/atom=30.996 E_coh(model)=0.0649
+[GRACE-2L-SMAX-OMAT-L_ontop] steps=18 converged=True fmax=0.0195 E=-110.087554 eV (0.5 s)
+[GRACE-2L-SMAX-OMAT-L_ontop_free] steps=18 converged=True fmax=0.0195 E=-110.087554 eV (0.4 s)
+[GRACE-2L-SMAX-OMAT-L_bridge] steps=11 converged=True fmax=0.0195 E=-110.171941 eV (0.2 s)
+[GRACE-2L-SMAX-OMAT-L_bridge_free] steps=11 converged=True fmax=0.0195 E=-110.171942 eV (0.2 s)
+[GRACE-2L-SMAX-OMAT-L_fcc] steps=12 converged=True fmax=0.0173 E=-110.197164 eV (0.2 s)
+[GRACE-2L-SMAX-OMAT-L_fcc_free] steps=12 converged=True fmax=0.0173 E=-110.197164 eV (0.2 s)
+[GRACE-2L-SMAX-OMAT-L_hcp] steps=13 converged=True fmax=0.0178 E=-110.199064 eV (0.2 s)
+[GRACE-2L-SMAX-OMAT-L_hcp_free] steps=13 converged=True fmax=0.0178 E=-110.199064 eV (0.2 s)
+wall time 23.6 s

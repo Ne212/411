@@ -1,0 +1,5 @@
+method,start_site,E_constrained,E_free,dE_free_minus_constrained,lateral_drift_free_A,height_free_A,d_AuHg_min_free_A,converged_free,n_steps_free
+MatterSim-5M,ontop,-112.659920,-112.659920,0.000000,0.000006,2.902926,2.868421,True,19
+MatterSim-5M,bridge,-112.752220,-112.752312,-0.000092,0.010260,2.435614,2.886814,True,14
+MatterSim-5M,fcc,-112.792389,-112.792389,0.000000,0.000000,2.435411,2.983971,True,7
+MatterSim-5M,hcp,-112.785835,-112.785835,0.000000,0.000000,2.447203,2.991383,True,10

@@ -1,0 +1,19 @@
+
+===== TensorNet-MatPES-PBE
+Au bulk a0 = 4.1648 A, B0 = 123.3 GPa
+[TensorNet-MatPES-PBE_slab] steps=2 converged=True fmax=0.0148 E=-109.483498 eV (0.3 s)
+[TensorNet-MatPES-PBE_far] steps=0 converged=True fmax=0.0148 E=-110.088982 eV (0.0 s)
+E(Hg atom)=-0.60549  E(far)-E(slab)=-0.60548  E_coh(Hg, model)=-0.4385 eV
+[TensorNet-MatPES-PBE_ontop] steps=32 converged=True fmax=0.0153 E=-109.726074 eV (5.0 s)
+[TensorNet-MatPES-PBE_ontop_free] steps=32 converged=True fmax=0.0153 E=-109.726089 eV (4.6 s)
+  ontop  E_ads(A)=+0.3629 E_ads(B)=+0.3629 E_ads(C)=-0.7456  h=3.416 d=3.408 drift=0.000
+[TensorNet-MatPES-PBE_bridge] steps=13 converged=True fmax=0.0159 E=-109.779922 eV (1.9 s)
+[TensorNet-MatPES-PBE_bridge_free] steps=13 converged=True fmax=0.0159 E=-109.779922 eV (1.8 s)
+  bridge E_ads(A)=+0.3091 E_ads(B)=+0.3091 E_ads(C)=-0.7995  h=2.528 d=2.959 drift=0.000
+[TensorNet-MatPES-PBE_fcc] steps=11 converged=True fmax=0.0174 E=-109.800507 eV (1.7 s)
+[TensorNet-MatPES-PBE_fcc_free] steps=11 converged=True fmax=0.0174 E=-109.800507 eV (1.5 s)
+  fcc    E_ads(A)=+0.2885 E_ads(B)=+0.2885 E_ads(C)=-0.8200  h=2.429 d=2.977 drift=0.000
+[TensorNet-MatPES-PBE_hcp] steps=13 converged=True fmax=0.0169 E=-109.800484 eV (1.7 s)
+[TensorNet-MatPES-PBE_hcp_free] steps=13 converged=True fmax=0.0169 E=-109.800484 eV (1.8 s)
+  hcp    E_ads(A)=+0.2885 E_ads(B)=+0.2885 E_ads(C)=-0.8200  h=2.426 d=2.976 drift=0.000
+done TensorNet-MatPES-PBE (28 s)

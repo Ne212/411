@@ -1,0 +1,39 @@
+{
+ "model": "DPA-3.1-3M-AgAu-PBED3",
+ "ok": true,
+ "info": {
+  "model": "DPA-3.1-3M-AgAu-PBED3",
+  "checkpoint": "DPA-3.1-3M",
+  "head": "Metals_AgAu_PBED3",
+  "package": "deepmd-kit 3.2.0",
+  "device": "torch default (cuda)"
+ },
+ "t_load_s": 9.2,
+ "E_Au_bulk_a4.08_per_atom": -3.8760401010513306,
+ "E_Hg_atom_15A": 0.46158939599990845,
+ "E_Au_atom_15A": -0.16093015670776367,
+ "sum_forces_rattled_Au32": 4.451426955931481e-07,
+ "stress_analytic_eVA3": [
+  0.01384731040939984,
+  0.013946974486288025,
+  0.014459610752536106,
+  3.922940669762281e-09,
+  -2.8118980309711706e-10,
+  0.0028551860409123785
+ ],
+ "stress_numeric_eVA3": [
+  0.013841223481945048,
+  0.013926452690577715,
+  0.014506011309279847,
+  1.7045841726533313e-05,
+  -1.7045841726533313e-05,
+  0.002863701410057596
+ ],
+ "stress_max_abs_diff_eVA3": 4.640055674374165e-05,
+ "t_single_point_37atoms_s": 2.3452,
+ "E_slab_Hg_37": -128.72900297492743,
+ "torch": "2.11.0+cu130",
+ "cuda": true,
+ "gpu_mem_peak_MB": 461.1,
+ "t_total_s": 44.4
+}

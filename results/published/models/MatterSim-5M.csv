@@ -1,0 +1,87 @@
+model,system,metal,facet,overlayer,coverage_ML,n_Hg_our_cell,site_kind,a0_metal_A,E_ads_ref_eV,d_MHg_ref_A,in_main_MAE,Ni_flag,mode,E_ads_A_eV,E_ads_D_eV,d_MHg_A,converged,n_steps
+MatterSim-5M,S08-Ag111-0.083,Ag,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,4.16580,-0.34000,3.00000,True,False,source,-0.27817,-0.20547,3.00000,True,0
+MatterSim-5M,S08-Ag111-0.083,Ag,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,4.16580,-0.34000,3.00000,True,False,relaxed,-0.28435,-0.21165,3.00736,True,7
+MatterSim-5M,S08-Au111-0.083,Au,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,4.17125,-0.36000,2.99000,True,False,source,-0.35008,-0.27738,2.99000,True,0
+MatterSim-5M,S08-Au111-0.083,Au,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,4.17125,-0.36000,2.99000,True,False,relaxed,-0.38273,-0.31003,2.97736,True,11
+MatterSim-5M,S08-Cu111-0.083,Cu,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.61830,-0.52000,2.75000,True,False,source,-0.42384,-0.35114,2.75000,True,0
+MatterSim-5M,S08-Cu111-0.083,Cu,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.61830,-0.52000,2.75000,True,False,relaxed,-0.43069,-0.35799,2.77305,True,6
+MatterSim-5M,S08-Ni111-0.083,Ni,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.50688,-0.67000,2.72000,True,True,source,-0.66844,-0.59574,2.72000,True,0
+MatterSim-5M,S08-Ni111-0.083,Ni,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.50688,-0.67000,2.72000,True,True,relaxed,-0.67195,-0.59925,2.68248,True,10
+MatterSim-5M,S08-Pd111-0.083,Pd,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.95271,-0.84000,2.81000,True,False,source,-0.89673,-0.82403,2.81000,True,0
+MatterSim-5M,S08-Pd111-0.083,Pd,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.95271,-0.84000,2.81000,True,False,relaxed,-0.91409,-0.84139,2.76949,True,10
+MatterSim-5M,S08-Pt111-0.083,Pt,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.97735,-0.75000,2.86000,True,False,source,-0.92686,-0.85416,2.86000,True,0
+MatterSim-5M,S08-Pt111-0.083,Pt,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.97735,-0.75000,2.86000,True,False,relaxed,-0.95756,-0.88486,2.81199,True,12
+MatterSim-5M,S08-Ag111-0.25,Ag,(111),p(2x2),0.25000,1,fcc hollow,4.16580,-0.36000,3.01000,True,False,source,-0.28853,-0.21583,3.01000,True,0
+MatterSim-5M,S08-Ag111-0.25,Ag,(111),p(2x2),0.25000,1,fcc hollow,4.16580,-0.36000,3.01000,True,False,relaxed,-0.28813,-0.21543,3.01834,True,3
+MatterSim-5M,S08-Au111-0.25,Au,(111),p(2x2),0.25000,1,fcc hollow,4.17125,-0.38000,3.01000,True,False,source,-0.35672,-0.28402,3.01000,True,0
+MatterSim-5M,S08-Au111-0.25,Au,(111),p(2x2),0.25000,1,fcc hollow,4.17125,-0.38000,3.01000,True,False,relaxed,-0.36711,-0.29441,2.99796,True,4
+MatterSim-5M,S08-Cu111-0.25,Cu,(111),p(2x2),0.25000,1,fcc hollow,3.61830,-0.53000,2.78000,True,False,source,-0.41453,-0.34183,2.78000,True,0
+MatterSim-5M,S08-Cu111-0.25,Cu,(111),p(2x2),0.25000,1,fcc hollow,3.61830,-0.53000,2.78000,True,False,relaxed,-0.41510,-0.34240,2.78684,True,2
+MatterSim-5M,S08-Ni111-0.25,Ni,(111),p(2x2),0.25000,1,fcc hollow,3.50688,-0.64000,2.74000,True,True,source,-0.64918,-0.57648,2.74000,True,0
+MatterSim-5M,S08-Ni111-0.25,Ni,(111),p(2x2),0.25000,1,fcc hollow,3.50688,-0.64000,2.74000,True,True,relaxed,-0.65476,-0.58206,2.69091,True,11
+MatterSim-5M,S08-Pd111-0.25,Pd,(111),p(2x2),0.25000,1,fcc hollow,3.95271,-0.81000,2.83000,True,False,source,-0.87929,-0.80659,2.83000,True,0
+MatterSim-5M,S08-Pd111-0.25,Pd,(111),p(2x2),0.25000,1,fcc hollow,3.95271,-0.81000,2.83000,True,False,relaxed,-0.89512,-0.82242,2.78319,True,11
+MatterSim-5M,S08-Pt111-0.25,Pt,(111),p(2x2),0.25000,1,fcc hollow,3.97735,-0.68000,2.88000,True,False,source,-0.89564,-0.82294,2.88000,True,0
+MatterSim-5M,S08-Pt111-0.25,Pt,(111),p(2x2),0.25000,1,fcc hollow,3.97735,-0.68000,2.88000,True,False,relaxed,-0.90985,-0.83715,2.84664,True,9
+MatterSim-5M,S08-Ag111-0.333,Ag,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,4.16580,-0.31000,3.06000,True,False,source,-0.27297,-0.20027,3.06000,True,0
+MatterSim-5M,S08-Ag111-0.333,Ag,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,4.16580,-0.31000,3.06000,True,False,relaxed,-0.27374,-0.20104,3.03921,True,6
+MatterSim-5M,S08-Au111-0.333,Au,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,4.17125,-0.32000,3.05000,True,False,source,-0.33117,-0.25847,3.05000,True,0
+MatterSim-5M,S08-Au111-0.333,Au,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,4.17125,-0.32000,3.05000,True,False,relaxed,-0.33944,-0.26674,3.02335,True,7
+MatterSim-5M,S08-Cu111-0.333,Cu,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.61830,-0.48000,2.82000,True,False,source,-0.45168,-0.37898,2.82000,True,0
+MatterSim-5M,S08-Cu111-0.333,Cu,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.61830,-0.48000,2.82000,True,False,relaxed,-0.45177,-0.37907,2.80076,True,4
+MatterSim-5M,S08-Ni111-0.333,Ni,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.50688,-0.61000,2.76000,True,True,source,-0.70476,-0.63206,2.76000,True,0
+MatterSim-5M,S08-Ni111-0.333,Ni,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.50688,-0.61000,2.76000,True,True,relaxed,-0.71194,-0.63924,2.70269,True,5
+MatterSim-5M,S08-Pd111-0.333,Pd,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.95271,-0.80000,2.83000,True,False,source,-0.82582,-0.75312,2.83000,True,0
+MatterSim-5M,S08-Pd111-0.333,Pd,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.95271,-0.80000,2.83000,True,False,relaxed,-0.83596,-0.76325,2.79509,True,6
+MatterSim-5M,S08-Pt111-0.333,Pt,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.97735,-0.67000,2.89000,True,False,source,-0.82779,-0.75509,2.89000,True,0
+MatterSim-5M,S08-Pt111-0.333,Pt,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.97735,-0.67000,2.89000,True,False,relaxed,-0.84046,-0.76776,2.87268,True,7
+MatterSim-5M,S08-Ag111-0.5,Ag,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,4.16580,-0.37000,3.09000,False,False,source,-0.38544,-0.31274,3.09000,True,0
+MatterSim-5M,S08-Ag111-0.5,Ag,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,4.16580,-0.37000,3.09000,False,False,relaxed,-0.38464,-0.31194,3.07087,True,6
+MatterSim-5M,S08-Au111-0.5,Au,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,4.17125,-0.35000,3.11000,False,False,source,-0.40467,-0.33197,3.11000,True,0
+MatterSim-5M,S08-Au111-0.5,Au,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,4.17125,-0.35000,3.11000,False,False,relaxed,-0.40686,-0.33416,3.08088,True,4
+MatterSim-5M,S08-Cu111-0.5,Cu,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.61830,-0.51000,2.87000,False,False,source,-0.53150,-0.45880,2.87000,True,0
+MatterSim-5M,S08-Cu111-0.5,Cu,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.61830,-0.51000,2.87000,False,False,relaxed,-0.53083,-0.45813,2.85571,True,4
+MatterSim-5M,S08-Ni111-0.5,Ni,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.50688,-0.61000,2.75000,False,True,source,-0.70115,-0.62845,2.75000,True,0
+MatterSim-5M,S08-Ni111-0.5,Ni,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.50688,-0.61000,2.75000,False,True,relaxed,-0.69854,-0.62584,2.76729,True,4
+MatterSim-5M,S08-Pd111-0.5,Pd,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.95271,-0.81000,2.85000,False,False,source,-0.91908,-0.84638,2.85000,True,0
+MatterSim-5M,S08-Pd111-0.5,Pd,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.95271,-0.81000,2.85000,False,False,relaxed,-0.92098,-0.84828,2.84448,True,9
+MatterSim-5M,S08-Pt111-0.5,Pt,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.97735,-0.69000,2.92000,False,False,source,-0.86500,-0.79230,2.92000,True,0
+MatterSim-5M,S08-Pt111-0.5,Pt,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.97735,-0.69000,2.92000,False,False,relaxed,-0.86665,-0.79395,2.92009,True,9
+MatterSim-5M,S08-Ag001-0.125,Ag,(001),c(4x4),0.12500,2,4-fold hollow,4.16580,-0.50000,3.01000,False,False,source,-0.41933,-0.34663,3.01000,True,0
+MatterSim-5M,S08-Ag001-0.125,Ag,(001),c(4x4),0.12500,2,4-fold hollow,4.16580,-0.50000,3.01000,False,False,relaxed,-0.43271,-0.36001,3.03907,True,10
+MatterSim-5M,S08-Au001-0.125,Au,(001),c(4x4),0.12500,2,4-fold hollow,4.17125,-0.61000,2.94000,False,False,source,-0.55553,-0.48283,2.94000,True,0
+MatterSim-5M,S08-Au001-0.125,Au,(001),c(4x4),0.12500,2,4-fold hollow,4.17125,-0.61000,2.94000,False,False,relaxed,-0.61832,-0.54561,2.94927,True,18
+MatterSim-5M,S08-Cu001-0.125,Cu,(001),c(4x4),0.12500,2,4-fold hollow,3.61830,-0.67000,2.78000,False,False,source,-0.58808,-0.51538,2.78000,True,0
+MatterSim-5M,S08-Cu001-0.125,Cu,(001),c(4x4),0.12500,2,4-fold hollow,3.61830,-0.67000,2.78000,False,False,relaxed,-0.58653,-0.51383,2.78745,True,9
+MatterSim-5M,S08-Ni001-0.125,Ni,(001),c(4x4),0.12500,2,4-fold hollow,3.50688,-0.82000,2.73000,False,True,source,-0.81175,-0.73905,2.73000,True,0
+MatterSim-5M,S08-Ni001-0.125,Ni,(001),c(4x4),0.12500,2,4-fold hollow,3.50688,-0.82000,2.73000,False,True,relaxed,-0.80414,-0.73144,2.70127,True,7
+MatterSim-5M,S08-Pd001-0.125,Pd,(001),c(4x4),0.12500,2,4-fold hollow,3.95271,-1.10000,2.83000,False,False,source,-0.96565,-0.89295,2.83000,True,0
+MatterSim-5M,S08-Pd001-0.125,Pd,(001),c(4x4),0.12500,2,4-fold hollow,3.95271,-1.10000,2.83000,False,False,relaxed,-0.96484,-0.89214,2.80236,True,10
+MatterSim-5M,S08-Pt001-0.125,Pt,(001),c(4x4),0.12500,2,4-fold hollow,3.97735,-1.09000,2.83000,False,False,source,-0.97088,-0.89818,2.83000,True,0
+MatterSim-5M,S08-Pt001-0.125,Pt,(001),c(4x4),0.12500,2,4-fold hollow,3.97735,-1.09000,2.83000,False,False,relaxed,-0.98509,-0.91239,2.90451,True,13
+MatterSim-5M,S08-Ag001-0.5,Ag,(001),c(2x2),0.50000,2,4-fold hollow,4.16580,-0.51000,3.02000,True,False,source,-0.42365,-0.35095,3.02000,True,0
+MatterSim-5M,S08-Ag001-0.5,Ag,(001),c(2x2),0.50000,2,4-fold hollow,4.16580,-0.51000,3.02000,True,False,relaxed,-0.42258,-0.34988,3.06936,True,6
+MatterSim-5M,S08-Au001-0.5,Au,(001),c(2x2),0.50000,2,4-fold hollow,4.17125,-0.51000,3.00000,True,False,source,-0.51448,-0.44178,3.00000,True,0
+MatterSim-5M,S08-Au001-0.5,Au,(001),c(2x2),0.50000,2,4-fold hollow,4.17125,-0.51000,3.00000,True,False,relaxed,-0.51411,-0.44141,3.02407,True,11
+MatterSim-5M,S08-Cu001-0.5,Cu,(001),c(2x2),0.50000,2,4-fold hollow,3.61830,-0.71000,2.80000,True,False,source,-0.65998,-0.58728,2.80000,True,0
+MatterSim-5M,S08-Cu001-0.5,Cu,(001),c(2x2),0.50000,2,4-fold hollow,3.61830,-0.71000,2.80000,True,False,relaxed,-0.65376,-0.58106,2.83330,True,12
+MatterSim-5M,S08-Ni001-0.5,Ni,(001),c(2x2),0.50000,2,4-fold hollow,3.50688,-0.81000,2.77000,True,True,source,-0.89031,-0.81761,2.77000,True,0
+MatterSim-5M,S08-Ni001-0.5,Ni,(001),c(2x2),0.50000,2,4-fold hollow,3.50688,-0.81000,2.77000,True,True,relaxed,-0.87842,-0.80572,2.73362,True,5
+MatterSim-5M,S08-Pd001-0.5,Pd,(001),c(2x2),0.50000,2,4-fold hollow,3.95271,-1.08000,2.83000,True,False,source,-1.00227,-0.92957,2.83000,True,0
+MatterSim-5M,S08-Pd001-0.5,Pd,(001),c(2x2),0.50000,2,4-fold hollow,3.95271,-1.08000,2.83000,True,False,relaxed,-0.98866,-0.91596,2.82127,True,10
+MatterSim-5M,S08-Pt001-0.5,Pt,(001),c(2x2),0.50000,2,4-fold hollow,3.97735,-0.97000,2.85000,True,False,source,-1.00172,-0.92902,2.85000,True,0
+MatterSim-5M,S08-Pt001-0.5,Pt,(001),c(2x2),0.50000,2,4-fold hollow,3.97735,-0.97000,2.85000,True,False,relaxed,-0.99568,-0.92298,2.90591,True,14
+MatterSim-5M,S08-Ag001-1,Ag,(001),c(1x1),1.00000,4,4-fold hollow,4.16580,-0.30000,3.30000,True,False,source,-0.45118,-0.37848,3.30000,True,0
+MatterSim-5M,S08-Ag001-1,Ag,(001),c(1x1),1.00000,4,4-fold hollow,4.16580,-0.30000,3.30000,True,False,relaxed,-0.46281,-0.39011,3.17614,True,14
+MatterSim-5M,S08-Au001-1,Au,(001),c(1x1),1.00000,4,4-fold hollow,4.17125,-0.35000,3.39000,True,False,source,-0.45841,-0.38571,3.39000,True,0
+MatterSim-5M,S08-Au001-1,Au,(001),c(1x1),1.00000,4,4-fold hollow,4.17125,-0.35000,3.39000,True,False,relaxed,-0.49644,-0.42374,3.18530,True,13
+MatterSim-5M,S08-Cu001-1,Cu,(001),c(1x1),1.00000,4,4-fold hollow,3.61830,0.27000,3.14000,True,False,source,0.22822,0.30092,3.14000,True,0
+MatterSim-5M,S08-Cu001-1,Cu,(001),c(1x1),1.00000,4,4-fold hollow,3.61830,0.27000,3.14000,True,False,relaxed,0.22723,0.29993,3.07074,True,6
+MatterSim-5M,S08-Ni001-1,Ni,(001),c(1x1),1.00000,4,4-fold hollow,3.50688,0.55000,2.99000,True,True,source,0.55741,0.63011,2.99000,True,0
+MatterSim-5M,S08-Ni001-1,Ni,(001),c(1x1),1.00000,4,4-fold hollow,3.50688,0.55000,2.99000,True,True,relaxed,0.56319,0.63589,2.94482,True,6
+MatterSim-5M,S08-Pd001-1,Pd,(001),c(1x1),1.00000,4,4-fold hollow,3.95271,-0.67000,2.95000,True,False,source,-0.81851,-0.74581,2.95000,True,0
+MatterSim-5M,S08-Pd001-1,Pd,(001),c(1x1),1.00000,4,4-fold hollow,3.95271,-0.67000,2.95000,True,False,relaxed,-0.81249,-0.73979,2.95670,True,12
+MatterSim-5M,S08-Pt001-1,Pt,(001),c(1x1),1.00000,4,4-fold hollow,3.97735,-0.58000,3.05000,True,False,source,-0.79247,-0.71977,3.05000,True,0
+MatterSim-5M,S08-Pt001-1,Pt,(001),c(1x1),1.00000,4,4-fold hollow,3.97735,-0.58000,3.05000,True,False,relaxed,-0.78579,-0.71309,3.02190,True,12
+MatterSim-5M,S08-Au001-0.125-bridge,Au,(001),c(4x4),0.12500,2,bridge,4.17125,-0.47000,,False,False,relaxed,-0.46474,-0.39204,2.86708,True,12
+MatterSim-5M,S08-Au001-0.125-top,Au,(001),c(4x4),0.12500,2,top,4.17125,-0.36000,,False,False,relaxed,-0.28985,-0.21715,2.84641,True,22

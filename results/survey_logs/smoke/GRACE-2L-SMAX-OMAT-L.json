@@ -1,0 +1,36 @@
+{
+ "model": "GRACE-2L-SMAX-OMAT-L",
+ "ok": true,
+ "info": {
+  "model": "GRACE-2L-SMAX-OMAT-L",
+  "grace_name": "GRACE-2L-SMAX-OMAT-large-fp64",
+  "package": "tensorpotential 0.6.2.1",
+  "device": "TF default (GPU if visible)",
+  "dtype": "float64"
+ },
+ "t_load_s": 36.6,
+ "E_Au_bulk_a4.08_per_atom": -3.190402025337999,
+ "E_Hg_atom_15A": -0.11706589516375034,
+ "E_Au_atom_15A": 0.5225091675216087,
+ "sum_forces_rattled_Au32": 8.881784197001252e-16,
+ "stress_analytic_eVA3": [
+  -0.02469317312498693,
+  -0.024565216220010316,
+  -0.0240772699660314,
+  -2.2770957300901616e-17,
+  -4.236687916115464e-17,
+  0.0038952255980684537
+ ],
+ "stress_numeric_eVA3": [
+  -0.024693183732327737,
+  -0.02456522675476556,
+  -0.024077280046051624,
+  -2.5400283525188733e-13,
+  0.0,
+  0.003895226429909241
+ ],
+ "stress_max_abs_diff_eVA3": 1.0607340807794463e-08,
+ "t_single_point_37atoms_s": 0.0125,
+ "E_slab_Hg_37": -110.20781379880896,
+ "t_total_s": 46.2
+}

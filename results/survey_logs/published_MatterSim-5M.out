@@ -1,0 +1,48 @@
+[32m2026-11-04 17:17:58.289[0m | [1mINFO    [0m | [36mmattersim.forcefield.potential[0m:[36mfrom_checkpoint[0m:[36m936[0m - [1mLoading the pre-trained mattersim-v1.0.0-5M.pth model[0m
+/home/ne212/START/venvs/mattersim/lib/python3.12/site-packages/ase/io/extxyz.py:320: UserWarning: Skipping unhashable information adsorbate_info
+  warnings.warn('Skipping unhashable information '
+S08-Ag111-0.083          n=1 fcc hollow           source:-0.278 relaxed:-0.284 ref -0.34
+S08-Au111-0.083          n=1 fcc hollow           source:-0.350 relaxed:-0.383 ref -0.36
+S08-Cu111-0.083          n=1 fcc hollow           source:-0.424 relaxed:-0.431 ref -0.52
+S08-Ni111-0.083          n=1 fcc hollow           source:-0.668 relaxed:-0.672 ref -0.67
+S08-Pd111-0.083          n=1 fcc hollow           source:-0.897 relaxed:-0.914 ref -0.84
+S08-Pt111-0.083          n=1 fcc hollow           source:-0.927 relaxed:-0.958 ref -0.75
+S08-Ag111-0.25           n=1 fcc hollow           source:-0.289 relaxed:-0.288 ref -0.36
+S08-Au111-0.25           n=1 fcc hollow           source:-0.357 relaxed:-0.367 ref -0.38
+S08-Cu111-0.25           n=1 fcc hollow           source:-0.415 relaxed:-0.415 ref -0.53
+S08-Ni111-0.25           n=1 fcc hollow           source:-0.649 relaxed:-0.655 ref -0.64
+S08-Pd111-0.25           n=1 fcc hollow           source:-0.879 relaxed:-0.895 ref -0.81
+S08-Pt111-0.25           n=1 fcc hollow           source:-0.896 relaxed:-0.910 ref -0.68
+S08-Ag111-0.333          n=1 fcc hollow           source:-0.273 relaxed:-0.274 ref -0.31
+S08-Au111-0.333          n=1 fcc hollow           source:-0.331 relaxed:-0.339 ref -0.32
+S08-Cu111-0.333          n=1 fcc hollow           source:-0.452 relaxed:-0.452 ref -0.48
+S08-Ni111-0.333          n=1 fcc hollow           source:-0.705 relaxed:-0.712 ref -0.61
+S08-Pd111-0.333          n=1 fcc hollow           source:-0.826 relaxed:-0.836 ref -0.80
+S08-Pt111-0.333          n=1 fcc hollow           source:-0.828 relaxed:-0.840 ref -0.67
+S08-Ag111-0.5            n=2 fcc+hcp honeycomb    source:-0.385 relaxed:-0.385 ref -0.37
+S08-Au111-0.5            n=2 fcc+hcp honeycomb    source:-0.405 relaxed:-0.407 ref -0.35
+S08-Cu111-0.5            n=2 fcc+hcp honeycomb    source:-0.532 relaxed:-0.531 ref -0.51
+S08-Ni111-0.5            n=2 fcc+hcp honeycomb    source:-0.701 relaxed:-0.699 ref -0.61
+S08-Pd111-0.5            n=2 fcc+hcp honeycomb    source:-0.919 relaxed:-0.921 ref -0.81
+S08-Pt111-0.5            n=2 fcc+hcp honeycomb    source:-0.865 relaxed:-0.867 ref -0.69
+S08-Ag001-0.125          n=2 4-fold hollow        source:-0.419 relaxed:-0.433 ref -0.50
+S08-Au001-0.125          n=2 4-fold hollow        source:-0.556 relaxed:-0.618 ref -0.61
+S08-Cu001-0.125          n=2 4-fold hollow        source:-0.588 relaxed:-0.587 ref -0.67
+S08-Ni001-0.125          n=2 4-fold hollow        source:-0.812 relaxed:-0.804 ref -0.82
+S08-Pd001-0.125          n=2 4-fold hollow        source:-0.966 relaxed:-0.965 ref -1.10
+S08-Pt001-0.125          n=2 4-fold hollow        source:-0.971 relaxed:-0.985 ref -1.09
+S08-Ag001-0.5            n=2 4-fold hollow        source:-0.424 relaxed:-0.423 ref -0.51
+S08-Au001-0.5            n=2 4-fold hollow        source:-0.514 relaxed:-0.514 ref -0.51
+S08-Cu001-0.5            n=2 4-fold hollow        source:-0.660 relaxed:-0.654 ref -0.71
+S08-Ni001-0.5            n=2 4-fold hollow        source:-0.890 relaxed:-0.878 ref -0.81
+S08-Pd001-0.5            n=2 4-fold hollow        source:-1.002 relaxed:-0.989 ref -1.08
+S08-Pt001-0.5            n=2 4-fold hollow        source:-1.002 relaxed:-0.996 ref -0.97
+S08-Ag001-1              n=4 4-fold hollow        source:-0.451 relaxed:-0.463 ref -0.30
+S08-Au001-1              n=4 4-fold hollow        source:-0.458 relaxed:-0.496 ref -0.35
+S08-Cu001-1              n=4 4-fold hollow        source:+0.228 relaxed:+0.227 ref +0.27
+S08-Ni001-1              n=4 4-fold hollow        source:+0.557 relaxed:+0.563 ref +0.55
+S08-Pd001-1              n=4 4-fold hollow        source:-0.819 relaxed:-0.812 ref -0.67
+S08-Pt001-1              n=4 4-fold hollow        source:-0.792 relaxed:-0.786 ref -0.58
+S08-Au001-0.125-bridge   n=2 bridge               relaxed:-0.465 ref -0.47
+S08-Au001-0.125-top      n=2 top                  relaxed:-0.290 ref -0.36
+done MatterSim-5M 45 s

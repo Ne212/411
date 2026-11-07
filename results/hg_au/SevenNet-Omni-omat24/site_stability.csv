@@ -1,0 +1,5 @@
+method,start_site,E_constrained,E_free,dE_free_minus_constrained,lateral_drift_free_A,height_free_A,d_AuHg_min_free_A,converged_free,n_steps_free
+SevenNet-Omni-omat24,ontop,-110.394295,-110.394295,0.000000,0.000000,2.939085,2.900455,True,22
+SevenNet-Omni-omat24,bridge,-110.458443,-110.458458,-0.000015,0.002213,2.537033,2.956638,True,7
+SevenNet-Omni-omat24,fcc,-110.487015,-110.487015,0.000000,0.000000,2.467645,3.007058,True,10
+SevenNet-Omni-omat24,hcp,-110.478928,-110.478928,0.000000,0.000000,2.471842,3.009728,True,12

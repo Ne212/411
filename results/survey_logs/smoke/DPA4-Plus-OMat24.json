@@ -1,0 +1,39 @@
+{
+ "model": "DPA4-Plus-OMat24",
+ "ok": true,
+ "info": {
+  "model": "DPA4-Plus-OMat24",
+  "checkpoint": "DPA4-Plus-OMat24-v20260805",
+  "head": null,
+  "package": "deepmd-kit 3.2.0",
+  "device": "torch default (cuda)"
+ },
+ "t_load_s": 7.2,
+ "E_Au_bulk_a4.08_per_atom": -3.1876687303589293,
+ "E_Hg_atom_15A": 0.007978710332281258,
+ "E_Au_atom_15A": -1.7271421820329138,
+ "sum_forces_rattled_Au32": 0.0,
+ "stress_analytic_eVA3": [
+  -0.025110109916107064,
+  -0.02500267023982929,
+  -0.02448823224439031,
+  1.8763926252580245e-09,
+  2.5690621334864674e-09,
+  0.0031535522696774887
+ ],
+ "stress_numeric_eVA3": [
+  -0.025104263402751934,
+  -0.02491569377865216,
+  -0.024458652147359483,
+  -7.244482733776657e-05,
+  3.835314388469995e-05,
+  0.0031353695125742207
+ ],
+ "stress_max_abs_diff_eVA3": 8.697646117713023e-05,
+ "t_single_point_37atoms_s": 0.0406,
+ "E_slab_Hg_37": -110.15715063677695,
+ "torch": "2.11.0+cu130",
+ "cuda": true,
+ "gpu_mem_peak_MB": 750.0,
+ "t_total_s": 10.7
+}

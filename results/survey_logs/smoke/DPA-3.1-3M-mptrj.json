@@ -1,0 +1,39 @@
+{
+ "model": "DPA-3.1-3M-mptrj",
+ "ok": true,
+ "info": {
+  "model": "DPA-3.1-3M-mptrj",
+  "checkpoint": "DPA-3.1-3M",
+  "head": "MP_traj_v024_alldata_mixu",
+  "package": "deepmd-kit 3.2.0",
+  "device": "torch default (cuda)"
+ },
+ "t_load_s": 9.2,
+ "E_Au_bulk_a4.08_per_atom": -3.203041136264801,
+ "E_Hg_atom_15A": -0.03746967017650604,
+ "E_Au_atom_15A": -0.5916242599487305,
+ "sum_forces_rattled_Au32": 1.5549289811289668e-07,
+ "stress_analytic_eVA3": [
+  -0.03159808535699117,
+  -0.031481979668756245,
+  -0.03097999353688566,
+  2.2847743115293826e-09,
+  -1.118061665126246e-09,
+  0.0035451631324005775
+ ],
+ "stress_numeric_eVA3": [
+  -0.03158594471926623,
+  -0.031432532143727425,
+  -0.03095524857538449,
+  -1.7045841726533313e-05,
+  -3.4091683453066625e-05,
+  0.0035284892373923953
+ ],
+ "stress_max_abs_diff_eVA3": 4.9447525028820105e-05,
+ "t_single_point_37atoms_s": 2.3495,
+ "E_slab_Hg_37": -111.19054628908634,
+ "torch": "2.11.0+cu130",
+ "cuda": true,
+ "gpu_mem_peak_MB": 461.1,
+ "t_total_s": 44.7
+}

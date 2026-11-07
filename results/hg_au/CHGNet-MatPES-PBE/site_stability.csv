@@ -1,0 +1,5 @@
+method,start_site,E_constrained,E_free,dE_free_minus_constrained,lateral_drift_free_A,height_free_A,d_AuHg_min_free_A,converged_free,n_steps_free
+CHGNet-MatPES-PBE,ontop,-109.888382,-109.888382,0.000000,0.000018,2.877934,2.879764,True,21
+CHGNet-MatPES-PBE,bridge,-109.975609,-109.975594,0.000015,0.000523,2.567044,2.966778,True,12
+CHGNet-MatPES-PBE,fcc,-110.000755,-110.000771,-0.000015,0.000025,2.548468,3.060967,True,12
+CHGNet-MatPES-PBE,hcp,-110.004257,-110.004250,0.000008,0.000126,2.573139,3.078661,True,16

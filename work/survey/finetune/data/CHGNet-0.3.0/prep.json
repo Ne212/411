@@ -1,0 +1,32 @@
+{
+ "model": "CHGNet-0.3.0",
+ "test_site": "site_ontop",
+ "shift_eV_per_atom": {
+  "Au": 3733.7868180838414,
+  "Hg": 1466.0867084656459
+ },
+ "shift_fit_rms_eV": 0.0426438467683492,
+ "n": {
+  "train": 84,
+  "valid": 8,
+  "test": 16,
+  "atom_group": 2
+ },
+ "train_calcs": [
+  "Hg_bulk",
+  "bulkAu_a4.0000",
+  "bulkAu_a4.0375",
+  "bulkAu_a4.0750",
+  "bulkAu_a4.1125",
+  "bulkAu_a4.1500",
+  "bulkAu_a4.1875",
+  "bulkAu_a4.2250",
+  "bulkAu_a4.2625",
+  "bulkAu_a4.3000",
+  "site_bridge",
+  "site_fcc",
+  "site_hcp",
+  "slab"
+ ],
+ "qe_dir": "/home/ne212/START/work/dft/runs/prod/PBE"
+}

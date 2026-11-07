@@ -1,0 +1,24 @@
+{
+ "model": "MACE-OMAT-0-medium",
+ "ok": true,
+ "info": {
+  "model": "MACE-OMAT-0-medium",
+  "mace_name": "medium-omat-0",
+  "head": null,
+  "package": "mace-torch 0.3.17",
+  "device": "cuda",
+  "dtype": "float64",
+  "dispersion": false
+ },
+ "t_load_s": 208.9,
+ "E_Au_bulk_a4.08_per_atom": -3.1962197467095987,
+ "E_Hg_atom_15A": -0.12454674,
+ "E_Au_atom_15A": -0.28801193,
+ "sum_forces_rattled_Au32": 7.771561172376096e-16,
+ "t_single_point_37atoms_s": 0.3807,
+ "E_slab_Hg_37": -110.85216476973011,
+ "torch": "2.11.0+cu130",
+ "cuda": true,
+ "gpu_mem_peak_MB": 363.2,
+ "t_total_s": 210.6
+}

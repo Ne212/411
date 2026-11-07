@@ -1,0 +1,48 @@
+cuequivariance or cuequivariance_torch is not available. Cuequivariance acceleration will be disabled.
+Using Materials Project MACE for MACECalculator with /home/ne212/.cache/mace/20231203mace128L1_epoch199model
+Using float64 for MACECalculator, which is slower but more accurate. Recommended for geometry optimization.
+S08-Ag111-0.083          n=1 fcc hollow           source:-0.736 relaxed:-0.760 ref -0.34
+S08-Au111-0.083          n=1 fcc hollow           source:-0.762 relaxed:-0.777 ref -0.36
+S08-Cu111-0.083          n=1 fcc hollow           source:-1.018 relaxed:-1.026 ref -0.52
+S08-Ni111-0.083          n=1 fcc hollow           source:-1.553 relaxed:-1.593 ref -0.67
+S08-Pd111-0.083          n=1 fcc hollow           source:-1.239 relaxed:-1.259 ref -0.84
+S08-Pt111-0.083          n=1 fcc hollow           source:-1.106 relaxed:-1.144 ref -0.75
+S08-Ag111-0.25           n=1 fcc hollow           source:-0.722 relaxed:-0.745 ref -0.36
+S08-Au111-0.25           n=1 fcc hollow           source:-0.753 relaxed:-0.763 ref -0.38
+S08-Cu111-0.25           n=1 fcc hollow           source:-0.974 relaxed:-0.986 ref -0.53
+S08-Ni111-0.25           n=1 fcc hollow           source:-1.483 relaxed:-1.530 ref -0.64
+S08-Pd111-0.25           n=1 fcc hollow           source:-1.215 relaxed:-1.224 ref -0.81
+S08-Pt111-0.25           n=1 fcc hollow           source:-1.114 relaxed:-1.134 ref -0.68
+S08-Ag111-0.333          n=1 fcc hollow           source:-0.691 relaxed:-0.738 ref -0.31
+S08-Au111-0.333          n=1 fcc hollow           source:-0.730 relaxed:-0.747 ref -0.32
+S08-Cu111-0.333          n=1 fcc hollow           source:-0.924 relaxed:-0.947 ref -0.48
+S08-Ni111-0.333          n=1 fcc hollow           source:-1.411 relaxed:-1.462 ref -0.61
+S08-Pd111-0.333          n=1 fcc hollow           source:-1.183 relaxed:-1.190 ref -0.80
+S08-Pt111-0.333          n=1 fcc hollow           source:-1.107 relaxed:-1.122 ref -0.67
+S08-Ag111-0.5            n=2 fcc+hcp honeycomb    source:-0.674 relaxed:-0.693 ref -0.37
+S08-Au111-0.5            n=2 fcc+hcp honeycomb    source:-0.680 relaxed:-0.684 ref -0.35
+S08-Cu111-0.5            n=2 fcc+hcp honeycomb    source:-0.768 relaxed:-0.772 ref -0.51
+S08-Ni111-0.5            n=2 fcc+hcp honeycomb    source:-1.188 relaxed:-1.189 ref -0.61
+S08-Pd111-0.5            n=2 fcc+hcp honeycomb    source:-1.092 relaxed:-1.095 ref -0.81
+S08-Pt111-0.5            n=2 fcc+hcp honeycomb    source:-1.049 relaxed:-1.062 ref -0.69
+S08-Ag001-0.125          n=2 4-fold hollow        source:-0.874 relaxed:-0.897 ref -0.50
+S08-Au001-0.125          n=2 4-fold hollow        source:-0.906 relaxed:-0.946 ref -0.61
+S08-Cu001-0.125          n=2 4-fold hollow        source:-1.184 relaxed:-1.202 ref -0.67
+S08-Ni001-0.125          n=2 4-fold hollow        source:-1.736 relaxed:-1.761 ref -0.82
+S08-Pd001-0.125          n=2 4-fold hollow        source:-1.415 relaxed:-1.454 ref -1.10
+S08-Pt001-0.125          n=2 4-fold hollow        source:-1.261 relaxed:-1.317 ref -1.09
+S08-Ag001-0.5            n=2 4-fold hollow        source:-0.824 relaxed:-0.829 ref -0.51
+S08-Au001-0.5            n=2 4-fold hollow        source:-0.848 relaxed:-0.851 ref -0.51
+S08-Cu001-0.5            n=2 4-fold hollow        source:-1.024 relaxed:-1.024 ref -0.71
+S08-Ni001-0.5            n=2 4-fold hollow        source:-1.478 relaxed:-1.485 ref -0.81
+S08-Pd001-0.5            n=2 4-fold hollow        source:-1.289 relaxed:-1.278 ref -1.08
+S08-Pt001-0.5            n=2 4-fold hollow        source:-1.229 relaxed:-1.264 ref -0.97
+S08-Ag001-1              n=4 4-fold hollow        source:-0.606 relaxed:-0.622 ref -0.30
+S08-Au001-1              n=4 4-fold hollow        source:-0.624 relaxed:-0.642 ref -0.35
+S08-Cu001-1              n=4 4-fold hollow        source:+0.156 relaxed:+0.156 ref +0.27
+S08-Ni001-1              n=4 4-fold hollow        source:+0.528 relaxed:+0.533 ref +0.55
+S08-Pd001-1              n=4 4-fold hollow        source:-0.856 relaxed:-0.861 ref -0.67
+S08-Pt001-1              n=4 4-fold hollow        source:-0.821 relaxed:-0.853 ref -0.58
+S08-Au001-0.125-bridge   n=2 bridge               relaxed:-0.801 ref -0.47
+S08-Au001-0.125-top      n=2 top                  relaxed:-0.606 ref -0.36
+done MACE-MP-0-medium 42 s

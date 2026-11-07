@@ -1,0 +1,87 @@
+model,system,metal,facet,overlayer,coverage_ML,n_Hg_our_cell,site_kind,a0_metal_A,E_ads_ref_eV,d_MHg_ref_A,in_main_MAE,Ni_flag,mode,E_ads_A_eV,E_ads_D_eV,d_MHg_A,converged,n_steps
+Allegro-OAM-L,S08-Ag111-0.083,Ag,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,4.16125,-0.34000,3.00000,True,False,source,-0.38929,-0.39222,3.00000,True,0
+Allegro-OAM-L,S08-Ag111-0.083,Ag,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,4.16125,-0.34000,3.00000,True,False,relaxed,-0.39278,-0.39571,3.01104,True,6
+Allegro-OAM-L,S08-Au111-0.083,Au,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,4.16965,-0.36000,2.99000,True,False,source,-0.36069,-0.36362,2.99000,True,0
+Allegro-OAM-L,S08-Au111-0.083,Au,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,4.16965,-0.36000,2.99000,True,False,relaxed,-0.37223,-0.37515,2.99895,True,9
+Allegro-OAM-L,S08-Cu111-0.083,Cu,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.62497,-0.52000,2.75000,True,False,source,-0.53081,-0.53373,2.75000,True,0
+Allegro-OAM-L,S08-Cu111-0.083,Cu,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.62497,-0.52000,2.75000,True,False,relaxed,-0.53874,-0.54167,2.78363,True,9
+Allegro-OAM-L,S08-Ni111-0.083,Ni,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.52002,-0.67000,2.72000,True,True,source,-0.75319,-0.75612,2.72000,True,0
+Allegro-OAM-L,S08-Ni111-0.083,Ni,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.52002,-0.67000,2.72000,True,True,relaxed,-0.75703,-0.75996,2.72444,True,5
+Allegro-OAM-L,S08-Pd111-0.083,Pd,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.95127,-0.84000,2.81000,True,False,source,-0.95604,-0.95896,2.81000,True,0
+Allegro-OAM-L,S08-Pd111-0.083,Pd,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.95127,-0.84000,2.81000,True,False,relaxed,-0.96688,-0.96981,2.81438,True,6
+Allegro-OAM-L,S08-Pt111-0.083,Pt,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.98415,-0.75000,2.86000,True,False,source,-0.81051,-0.81344,2.86000,True,0
+Allegro-OAM-L,S08-Pt111-0.083,Pt,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.98415,-0.75000,2.86000,True,False,relaxed,-0.83608,-0.83901,2.84318,True,6
+Allegro-OAM-L,S08-Ag111-0.25,Ag,(111),p(2x2),0.25000,1,fcc hollow,4.16125,-0.36000,3.01000,True,False,source,-0.34594,-0.34886,3.01000,True,0
+Allegro-OAM-L,S08-Ag111-0.25,Ag,(111),p(2x2),0.25000,1,fcc hollow,4.16125,-0.36000,3.01000,True,False,relaxed,-0.34797,-0.35089,3.01055,True,4
+Allegro-OAM-L,S08-Au111-0.25,Au,(111),p(2x2),0.25000,1,fcc hollow,4.16965,-0.38000,3.01000,True,False,source,-0.31500,-0.31792,3.01000,True,0
+Allegro-OAM-L,S08-Au111-0.25,Au,(111),p(2x2),0.25000,1,fcc hollow,4.16965,-0.38000,3.01000,True,False,relaxed,-0.32022,-0.32315,3.00133,True,4
+Allegro-OAM-L,S08-Cu111-0.25,Cu,(111),p(2x2),0.25000,1,fcc hollow,3.62497,-0.53000,2.78000,True,False,source,-0.48902,-0.49195,2.78000,True,0
+Allegro-OAM-L,S08-Cu111-0.25,Cu,(111),p(2x2),0.25000,1,fcc hollow,3.62497,-0.53000,2.78000,True,False,relaxed,-0.49102,-0.49395,2.77899,True,4
+Allegro-OAM-L,S08-Ni111-0.25,Ni,(111),p(2x2),0.25000,1,fcc hollow,3.52002,-0.64000,2.74000,True,True,source,-0.70709,-0.71002,2.74000,True,0
+Allegro-OAM-L,S08-Ni111-0.25,Ni,(111),p(2x2),0.25000,1,fcc hollow,3.52002,-0.64000,2.74000,True,True,relaxed,-0.70571,-0.70864,2.73483,True,4
+Allegro-OAM-L,S08-Pd111-0.25,Pd,(111),p(2x2),0.25000,1,fcc hollow,3.95127,-0.81000,2.83000,True,False,source,-0.88153,-0.88445,2.83000,True,0
+Allegro-OAM-L,S08-Pd111-0.25,Pd,(111),p(2x2),0.25000,1,fcc hollow,3.95127,-0.81000,2.83000,True,False,relaxed,-0.88741,-0.89033,2.81764,True,4
+Allegro-OAM-L,S08-Pt111-0.25,Pt,(111),p(2x2),0.25000,1,fcc hollow,3.98415,-0.68000,2.88000,True,False,source,-0.76066,-0.76359,2.88000,True,0
+Allegro-OAM-L,S08-Pt111-0.25,Pt,(111),p(2x2),0.25000,1,fcc hollow,3.98415,-0.68000,2.88000,True,False,relaxed,-0.77372,-0.77665,2.84372,True,6
+Allegro-OAM-L,S08-Ag111-0.333,Ag,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,4.16125,-0.31000,3.06000,True,False,source,-0.34177,-0.34470,3.06000,True,0
+Allegro-OAM-L,S08-Ag111-0.333,Ag,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,4.16125,-0.31000,3.06000,True,False,relaxed,-0.34409,-0.34702,3.02151,True,4
+Allegro-OAM-L,S08-Au111-0.333,Au,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,4.16965,-0.32000,3.05000,True,False,source,-0.29137,-0.29430,3.05000,True,0
+Allegro-OAM-L,S08-Au111-0.333,Au,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,4.16965,-0.32000,3.05000,True,False,relaxed,-0.29691,-0.29983,3.01046,True,7
+Allegro-OAM-L,S08-Cu111-0.333,Cu,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.62497,-0.48000,2.82000,True,False,source,-0.48490,-0.48782,2.82000,True,0
+Allegro-OAM-L,S08-Cu111-0.333,Cu,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.62497,-0.48000,2.82000,True,False,relaxed,-0.48755,-0.49047,2.78698,True,4
+Allegro-OAM-L,S08-Ni111-0.333,Ni,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.52002,-0.61000,2.76000,True,True,source,-0.69149,-0.69441,2.76000,True,0
+Allegro-OAM-L,S08-Ni111-0.333,Ni,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.52002,-0.61000,2.76000,True,True,relaxed,-0.69117,-0.69410,2.73824,True,4
+Allegro-OAM-L,S08-Pd111-0.333,Pd,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.95127,-0.80000,2.83000,True,False,source,-0.83352,-0.83644,2.83000,True,0
+Allegro-OAM-L,S08-Pd111-0.333,Pd,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.95127,-0.80000,2.83000,True,False,relaxed,-0.83832,-0.84124,2.81407,True,5
+Allegro-OAM-L,S08-Pt111-0.333,Pt,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.98415,-0.67000,2.89000,True,False,source,-0.72361,-0.72654,2.89000,True,0
+Allegro-OAM-L,S08-Pt111-0.333,Pt,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.98415,-0.67000,2.89000,True,False,relaxed,-0.73666,-0.73958,2.84419,True,5
+Allegro-OAM-L,S08-Ag111-0.5,Ag,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,4.16125,-0.37000,3.09000,False,False,source,-0.36669,-0.36961,3.09000,True,0
+Allegro-OAM-L,S08-Ag111-0.5,Ag,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,4.16125,-0.37000,3.09000,False,False,relaxed,-0.36789,-0.37081,3.07305,True,4
+Allegro-OAM-L,S08-Au111-0.5,Au,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,4.16965,-0.35000,3.11000,False,False,source,-0.30573,-0.30865,3.11000,True,0
+Allegro-OAM-L,S08-Au111-0.5,Au,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,4.16965,-0.35000,3.11000,False,False,relaxed,-0.30886,-0.31178,3.07627,True,5
+Allegro-OAM-L,S08-Cu111-0.5,Cu,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.62497,-0.51000,2.87000,False,False,source,-0.47022,-0.47315,2.87000,True,0
+Allegro-OAM-L,S08-Cu111-0.5,Cu,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.62497,-0.51000,2.87000,False,False,relaxed,-0.47096,-0.47389,2.86517,True,4
+Allegro-OAM-L,S08-Ni111-0.5,Ni,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.52002,-0.61000,2.75000,False,True,source,-0.63969,-0.64262,2.75000,True,0
+Allegro-OAM-L,S08-Ni111-0.5,Ni,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.52002,-0.61000,2.75000,False,True,relaxed,-0.64168,-0.64460,2.79505,True,12
+Allegro-OAM-L,S08-Pd111-0.5,Pd,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.95127,-0.81000,2.85000,False,False,source,-0.80448,-0.80741,2.85000,True,0
+Allegro-OAM-L,S08-Pd111-0.5,Pd,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.95127,-0.81000,2.85000,False,False,relaxed,-0.80652,-0.80944,2.86065,True,11
+Allegro-OAM-L,S08-Pt111-0.5,Pt,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.98415,-0.69000,2.92000,False,False,source,-0.69387,-0.69680,2.92000,True,0
+Allegro-OAM-L,S08-Pt111-0.5,Pt,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.98415,-0.69000,2.92000,False,False,relaxed,-0.69819,-0.70111,2.89550,True,11
+Allegro-OAM-L,S08-Ag001-0.125,Ag,(001),c(4x4),0.12500,2,4-fold hollow,4.16125,-0.50000,3.01000,False,False,source,-0.46795,-0.47088,3.01000,True,0
+Allegro-OAM-L,S08-Ag001-0.125,Ag,(001),c(4x4),0.12500,2,4-fold hollow,4.16125,-0.50000,3.01000,False,False,relaxed,-0.47375,-0.47668,3.00370,True,9
+Allegro-OAM-L,S08-Au001-0.125,Au,(001),c(4x4),0.12500,2,4-fold hollow,4.16965,-0.61000,2.94000,False,False,source,-0.49089,-0.49382,2.94000,True,0
+Allegro-OAM-L,S08-Au001-0.125,Au,(001),c(4x4),0.12500,2,4-fold hollow,4.16965,-0.61000,2.94000,False,False,relaxed,-0.53364,-0.53656,2.93646,True,17
+Allegro-OAM-L,S08-Cu001-0.125,Cu,(001),c(4x4),0.12500,2,4-fold hollow,3.62497,-0.67000,2.78000,False,False,source,-0.64730,-0.65022,2.78000,True,0
+Allegro-OAM-L,S08-Cu001-0.125,Cu,(001),c(4x4),0.12500,2,4-fold hollow,3.62497,-0.67000,2.78000,False,False,relaxed,-0.64928,-0.65220,2.78620,True,8
+Allegro-OAM-L,S08-Ni001-0.125,Ni,(001),c(4x4),0.12500,2,4-fold hollow,3.52002,-0.82000,2.73000,False,True,source,-0.91805,-0.92098,2.73000,True,0
+Allegro-OAM-L,S08-Ni001-0.125,Ni,(001),c(4x4),0.12500,2,4-fold hollow,3.52002,-0.82000,2.73000,False,True,relaxed,-0.92045,-0.92337,2.74757,True,8
+Allegro-OAM-L,S08-Pd001-0.125,Pd,(001),c(4x4),0.12500,2,4-fold hollow,3.95127,-1.10000,2.83000,False,False,source,-1.21707,-1.21999,2.83000,True,0
+Allegro-OAM-L,S08-Pd001-0.125,Pd,(001),c(4x4),0.12500,2,4-fold hollow,3.95127,-1.10000,2.83000,False,False,relaxed,-1.23132,-1.23424,2.81192,True,9
+Allegro-OAM-L,S08-Pt001-0.125,Pt,(001),c(4x4),0.12500,2,4-fold hollow,3.98415,-1.09000,2.83000,False,False,source,-1.16220,-1.16513,2.83000,True,0
+Allegro-OAM-L,S08-Pt001-0.125,Pt,(001),c(4x4),0.12500,2,4-fold hollow,3.98415,-1.09000,2.83000,False,False,relaxed,-1.18348,-1.18640,2.83665,True,9
+Allegro-OAM-L,S08-Ag001-0.5,Ag,(001),c(2x2),0.50000,2,4-fold hollow,4.16125,-0.51000,3.02000,True,False,source,-0.42545,-0.42838,3.02000,True,0
+Allegro-OAM-L,S08-Ag001-0.5,Ag,(001),c(2x2),0.50000,2,4-fold hollow,4.16125,-0.51000,3.02000,True,False,relaxed,-0.42367,-0.42659,3.02233,True,4
+Allegro-OAM-L,S08-Au001-0.5,Au,(001),c(2x2),0.50000,2,4-fold hollow,4.16965,-0.51000,3.00000,True,False,source,-0.42331,-0.42624,3.00000,True,0
+Allegro-OAM-L,S08-Au001-0.5,Au,(001),c(2x2),0.50000,2,4-fold hollow,4.16965,-0.51000,3.00000,True,False,relaxed,-0.42316,-0.42608,2.99146,True,2
+Allegro-OAM-L,S08-Cu001-0.5,Cu,(001),c(2x2),0.50000,2,4-fold hollow,3.62497,-0.71000,2.80000,True,False,source,-0.60085,-0.60377,2.80000,True,0
+Allegro-OAM-L,S08-Cu001-0.5,Cu,(001),c(2x2),0.50000,2,4-fold hollow,3.62497,-0.71000,2.80000,True,False,relaxed,-0.59752,-0.60045,2.81716,True,10
+Allegro-OAM-L,S08-Ni001-0.5,Ni,(001),c(2x2),0.50000,2,4-fold hollow,3.52002,-0.81000,2.77000,True,True,source,-0.88280,-0.88572,2.77000,True,0
+Allegro-OAM-L,S08-Ni001-0.5,Ni,(001),c(2x2),0.50000,2,4-fold hollow,3.52002,-0.81000,2.77000,True,True,relaxed,-0.87126,-0.87419,2.75967,True,2
+Allegro-OAM-L,S08-Pd001-0.5,Pd,(001),c(2x2),0.50000,2,4-fold hollow,3.95127,-1.08000,2.83000,True,False,source,-1.07006,-1.07299,2.83000,True,0
+Allegro-OAM-L,S08-Pd001-0.5,Pd,(001),c(2x2),0.50000,2,4-fold hollow,3.95127,-1.08000,2.83000,True,False,relaxed,-1.06812,-1.07104,2.83083,True,10
+Allegro-OAM-L,S08-Pt001-0.5,Pt,(001),c(2x2),0.50000,2,4-fold hollow,3.98415,-0.97000,2.85000,True,False,source,-1.05273,-1.05565,2.85000,True,0
+Allegro-OAM-L,S08-Pt001-0.5,Pt,(001),c(2x2),0.50000,2,4-fold hollow,3.98415,-0.97000,2.85000,True,False,relaxed,-1.03262,-1.03554,2.85786,True,10
+Allegro-OAM-L,S08-Ag001-1,Ag,(001),c(1x1),1.00000,4,4-fold hollow,4.16125,-0.30000,3.30000,True,False,source,-0.32296,-0.32589,3.30000,True,0
+Allegro-OAM-L,S08-Ag001-1,Ag,(001),c(1x1),1.00000,4,4-fold hollow,4.16125,-0.30000,3.30000,True,False,relaxed,-0.33005,-0.33298,3.19567,True,13
+Allegro-OAM-L,S08-Au001-1,Au,(001),c(1x1),1.00000,4,4-fold hollow,4.16965,-0.35000,3.39000,True,False,source,-0.31434,-0.31727,3.39000,True,0
+Allegro-OAM-L,S08-Au001-1,Au,(001),c(1x1),1.00000,4,4-fold hollow,4.16965,-0.35000,3.39000,True,False,relaxed,-0.32943,-0.33235,3.23470,True,13
+Allegro-OAM-L,S08-Cu001-1,Cu,(001),c(1x1),1.00000,4,4-fold hollow,3.62497,0.27000,3.14000,True,False,source,0.34149,0.33856,3.14000,True,0
+Allegro-OAM-L,S08-Cu001-1,Cu,(001),c(1x1),1.00000,4,4-fold hollow,3.62497,0.27000,3.14000,True,False,relaxed,0.34102,0.33810,3.09217,True,6
+Allegro-OAM-L,S08-Ni001-1,Ni,(001),c(1x1),1.00000,4,4-fold hollow,3.52002,0.55000,2.99000,True,True,source,0.59795,0.59502,2.99000,True,0
+Allegro-OAM-L,S08-Ni001-1,Ni,(001),c(1x1),1.00000,4,4-fold hollow,3.52002,0.55000,2.99000,True,True,relaxed,0.60314,0.60022,2.96545,True,5
+Allegro-OAM-L,S08-Pd001-1,Pd,(001),c(1x1),1.00000,4,4-fold hollow,3.95127,-0.67000,2.95000,True,False,source,-0.68921,-0.69214,2.95000,True,0
+Allegro-OAM-L,S08-Pd001-1,Pd,(001),c(1x1),1.00000,4,4-fold hollow,3.95127,-0.67000,2.95000,True,False,relaxed,-0.68989,-0.69281,2.94064,True,8
+Allegro-OAM-L,S08-Pt001-1,Pt,(001),c(1x1),1.00000,4,4-fold hollow,3.98415,-0.58000,3.05000,True,False,source,-0.65582,-0.65874,3.05000,True,0
+Allegro-OAM-L,S08-Pt001-1,Pt,(001),c(1x1),1.00000,4,4-fold hollow,3.98415,-0.58000,3.05000,True,False,relaxed,-0.64633,-0.64925,3.02095,True,12
+Allegro-OAM-L,S08-Au001-0.125-bridge,Au,(001),c(4x4),0.12500,2,bridge,4.16965,-0.47000,,False,False,relaxed,-0.42021,-0.42314,2.91215,True,12
+Allegro-OAM-L,S08-Au001-0.125-top,Au,(001),c(4x4),0.12500,2,top,4.16965,-0.36000,,False,False,relaxed,-0.34235,-0.34528,2.82314,True,21

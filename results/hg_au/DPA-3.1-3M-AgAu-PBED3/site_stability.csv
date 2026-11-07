@@ -1,0 +1,5 @@
+method,start_site,E_constrained,E_free,dE_free_minus_constrained,lateral_drift_free_A,height_free_A,d_AuHg_min_free_A,converged_free,n_steps_free
+DPA-3.1-3M-AgAu-PBED3,ontop,-128.638945,-128.638947,-0.000001,0.000000,2.721236,2.807679,True,18
+DPA-3.1-3M-AgAu-PBED3,bridge,-128.732396,-128.732457,-0.000061,0.008174,2.463480,2.910120,True,14
+DPA-3.1-3M-AgAu-PBED3,fcc,-128.767503,-128.767503,-0.000000,0.000000,2.364345,2.950306,True,15
+DPA-3.1-3M-AgAu-PBED3,hcp,-128.760141,-128.760142,-0.000001,0.000000,2.376923,2.952122,True,12

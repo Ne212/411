@@ -1,0 +1,40 @@
+{
+ "model": "CHGNet-MatPES-PBE",
+ "ok": true,
+ "info": {
+  "model": "CHGNet-MatPES-PBE",
+  "hf_repo": "materialyze/CHGNet-PES-MatPES-PBE-2025.2.10",
+  "package": "matgl 4.1.4",
+  "device": "cpu",
+  "dtype": "float32",
+  "stress_unit": "eV/A3"
+ },
+ "t_load_s": 7.5,
+ "E_Au_bulk_a4.08_per_atom": -3.1899681091308594,
+ "E_Hg_atom_15A": -0.03678864240646362,
+ "E_Au_atom_15A": -0.6747727394104004,
+ "sum_forces_rattled_Au32": 5.662441253662109e-07,
+ "stress_analytic_eVA3": [
+  -0.02106393314898014,
+  -0.021026430651545525,
+  -0.02184431441128254,
+  -4.559763056022348e-08,
+  -1.2784383329744742e-08,
+  0.0017344040097668767
+ ],
+ "stress_numeric_eVA3": [
+  -0.02106866037399517,
+  -0.02106866037399517,
+  -0.02181867740996264,
+  0.0,
+  0.0,
+  0.0021136843740901306
+ ],
+ "stress_max_abs_diff_eVA3": 0.0003792803643232539,
+ "t_single_point_37atoms_s": 0.1237,
+ "E_slab_Hg_37": -109.96361541748047,
+ "torch": "2.11.0+cu130",
+ "cuda": true,
+ "gpu_mem_peak_MB": 0.0,
+ "t_total_s": 8.2
+}

@@ -1,0 +1,32 @@
+[W1104 16:16:34.109963493 quantities.cpp:881] Warning: the 'non_conservative_forces' quantity is deprecated, please update this code to use 'non_conservative_force' instead. (function validate_quantity_name)
+Warp 1.19.0 initialized:
+   CUDA Toolkit 13.4, Driver 13.2
+   Devices:
+     "cpu"      : "x86_64"
+     "cuda:0"   : "NVIDIA RTX PRO 4000 Blackwell" (23 GiB, sm_120, mempool enabled)
+   Kernel cache:
+     /home/ne212/.cache/warp/1.19.0
+
+===== PET-OAM-L
+Module nvalchemiops.neighbors.base_dispatch c41242e load on device 'cuda:0' took 0.52 ms  (cached)
+Module nvalchemiops.neighbors.neighbor_utils 00376ad load on device 'cuda:0' took 0.42 ms  (cached)
+Module nvalchemiops.neighbors.neighbor_utils 74e9dba load on device 'cuda:0' took 0.61 ms  (cached)
+Module _wrap_positions_single_kernel__f32_3960fd7e cd2e659 load on device 'cuda:0' took 0.41 ms  (cached)
+Module naive_tile 3ce57d4 load on device 'cuda:0' took 0.39 ms  (cached)
+Au bulk a0 = 4.1564 A, B0 = 128.2 GPa
+[PET-OAM-L_slab] steps=6 converged=True fmax=0.0114 E=-109.886642 eV (1.3 s)
+[PET-OAM-L_far] steps=0 converged=True fmax=0.0114 E=-109.978615 eV (0.0 s)
+E(Hg atom)=-0.09197  E(far)-E(slab)=-0.09197  E_coh(Hg, model)=0.0846 eV
+[PET-OAM-L_ontop] steps=19 converged=True fmax=0.0187 E=-110.159393 eV (0.7 s)
+[PET-OAM-L_ontop_free] steps=19 converged=True fmax=0.0187 E=-110.159401 eV (0.5 s)
+  ontop  E_ads(A)=-0.1808 E_ads(B)=-0.1808 E_ads(C)=-0.7662  h=2.811 d=2.823 drift=0.000
+[PET-OAM-L_bridge] steps=13 converged=True fmax=0.0163 E=-110.251167 eV (0.6 s)
+[PET-OAM-L_bridge_free] steps=13 converged=True fmax=0.0163 E=-110.251175 eV (0.4 s)
+  bridge E_ads(A)=-0.2726 E_ads(B)=-0.2726 E_ads(C)=-0.8580  h=2.464 d=2.900 drift=0.000
+[PET-OAM-L_fcc] steps=12 converged=True fmax=0.0168 E=-110.272835 eV (0.4 s)
+[PET-OAM-L_fcc_free] steps=12 converged=True fmax=0.0168 E=-110.272835 eV (0.3 s)
+  fcc    E_ads(A)=-0.2942 E_ads(B)=-0.2942 E_ads(C)=-0.8796  h=2.390 d=2.955 drift=0.000
+[PET-OAM-L_hcp] steps=15 converged=True fmax=0.0143 E=-110.278381 eV (0.5 s)
+[PET-OAM-L_hcp_free] steps=15 converged=True fmax=0.0144 E=-110.278389 eV (0.4 s)
+  hcp    E_ads(A)=-0.2998 E_ads(B)=-0.2998 E_ads(C)=-0.8852  h=2.380 d=2.952 drift=0.000
+done PET-OAM-L (18 s)

@@ -1,0 +1,48 @@
+CHGNet v0.3.0 initialized with 412,525 parameters
+CHGNet will run on cuda
+
+===== CHGNet-ft-atom
+Au bulk a0 = 4.1453 A, B0 = 157.9 GPa
+[CHGNet-ft-atom_slab] steps=8 converged=True fmax=0.0069 E=-113.356537 eV (1.3 s)
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+[CHGNet-ft-atom_far] steps=0 converged=True fmax=0.0069 E=-113.057037 eV (0.1 s)
+E(Hg atom)=0.29949  E(far)-E(slab)=0.29950  E_coh(Hg, model)=0.6055 eV
+[CHGNet-ft-atom_ontop] steps=17 converged=True fmax=0.0188 E=-113.832451 eV (2.6 s)
+[CHGNet-ft-atom_ontop_free] steps=17 converged=True fmax=0.0188 E=-113.832458 eV (2.5 s)
+  ontop  E_ads(A)=-0.7754 E_ads(B)=-0.7754 E_ads(C)=-0.8399  h=2.450 d=2.654 drift=0.000
+[CHGNet-ft-atom_bridge] steps=7 converged=True fmax=0.0180 E=-113.927757 eV (1.3 s)
+[CHGNet-ft-atom_bridge_free] steps=7 converged=True fmax=0.0186 E=-113.927750 eV (1.0 s)
+  bridge E_ads(A)=-0.8707 E_ads(B)=-0.8707 E_ads(C)=-0.9352  h=2.541 d=2.954 drift=0.000
+[CHGNet-ft-atom_fcc] steps=4 converged=True fmax=0.0175 E=-114.013023 eV (0.8 s)
+[CHGNet-ft-atom_fcc_free] steps=4 converged=True fmax=0.0169 E=-114.013016 eV (0.8 s)
+  fcc    E_ads(A)=-0.9560 E_ads(B)=-0.9560 E_ads(C)=-1.0205  h=2.472 d=3.005 drift=0.000
+[CHGNet-ft-atom_hcp] steps=6 converged=True fmax=0.0127 E=-114.004784 eV (1.0 s)
+[CHGNet-ft-atom_hcp_free] steps=7 converged=True fmax=0.0092 E=-114.004807 eV (1.1 s)
+  hcp    E_ads(A)=-0.9477 E_ads(B)=-0.9477 E_ads(C)=-1.0123  h=2.473 d=3.008 drift=0.000
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+Structure graph_id=None has 1 isolated atom(s) with atom_graph_cutoff=6. CHGNet calculation will likely go wrong
+done CHGNet-ft-atom (23 s)

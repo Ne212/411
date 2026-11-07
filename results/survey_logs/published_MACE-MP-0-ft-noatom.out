@@ -1,0 +1,11 @@
+cuequivariance or cuequivariance_torch is not available. Cuequivariance acceleration will be disabled.
+S08-Au111-0.083          n=1 fcc hollow           source:-0.433 relaxed:-0.445 ref -0.36
+S08-Au111-0.25           n=1 fcc hollow           source:-0.433 relaxed:-0.438 ref -0.38
+S08-Au111-0.333          n=1 fcc hollow           source:-0.414 relaxed:-0.414 ref -0.32
+S08-Au111-0.5            n=2 fcc+hcp honeycomb    source:-0.420 relaxed:-0.420 ref -0.35
+S08-Au001-0.125          n=2 4-fold hollow        source:-0.533 relaxed:-0.554 ref -0.61
+S08-Au001-0.5            n=2 4-fold hollow        source:-0.477 relaxed:-0.472 ref -0.51
+S08-Au001-1              n=4 4-fold hollow        source:-0.409 relaxed:-0.405 ref -0.35
+S08-Au001-0.125-bridge   n=2 bridge               relaxed:-0.474 ref -0.47
+S08-Au001-0.125-top      n=2 top                  relaxed:-0.388 ref -0.36
+done MACE-MP-0-ft-noatom 22 s

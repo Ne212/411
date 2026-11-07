@@ -1,0 +1,40 @@
+{
+ "model": "PET-OAM-L",
+ "ok": true,
+ "info": {
+  "model": "PET-OAM-L",
+  "upet_model": "pet-oam-l",
+  "version": "0.1.0",
+  "package": "upet 0.3.1",
+  "device": "cuda",
+  "wrapper": "FullPBC (vacuum gap >= 12 A checked); free_energy := energy"
+ },
+ "t_load_s": 9.3,
+ "E_Au_bulk_a4.08_per_atom": -3.18294620513916,
+ "E_Hg_atom_15A": -0.09197254478931427,
+ "E_Au_atom_15A": -2.2363317012786865,
+ "sum_forces_rattled_Au32": 7.613562047481537e-08,
+ "stress_analytic_eVA3": [
+  -0.023280810564756393,
+  -0.022872310131788254,
+  -0.02276843786239624,
+  -7.645400182809681e-05,
+  -0.00010553590982453898,
+  0.0019431732944212854
+ ],
+ "stress_numeric_eVA3": [
+  -0.023250528114991436,
+  -0.02290961128046077,
+  -0.022773244546648502,
+  -6.818336690613325e-05,
+  -0.0001363667338122665,
+  0.0019773176402778643
+ ],
+ "stress_max_abs_diff_eVA3": 3.730114867251527e-05,
+ "t_single_point_37atoms_s": 0.0224,
+ "E_slab_Hg_37": -110.18556213378906,
+ "torch": "2.11.0+cu130",
+ "cuda": true,
+ "gpu_mem_peak_MB": 909.8,
+ "t_total_s": 13.4
+}

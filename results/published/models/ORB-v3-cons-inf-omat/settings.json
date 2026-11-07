@@ -1,0 +1,42 @@
+{
+ "settings": {
+  "layers": 4,
+  "vacuum": 12.0,
+  "fmax": 0.02,
+  "max_steps": 1000,
+  "atom_box": 15.0,
+  "start_height_top_bridge": 2.6,
+  "eos": {
+   "points": 11,
+   "rel_range": 0.03
+  },
+  "a_guess": {
+   "Ag": 4.09,
+   "Au": 4.08,
+   "Cu": 3.61,
+   "Ni": 3.52,
+   "Pd": 3.89,
+   "Pt": 3.92
+  }
+ },
+ "info": {
+  "model": "ORB-v3-cons-inf-omat",
+  "package": "orb-models 0.7.0",
+  "device": "cuda",
+  "wrapper": "FullPBC: slabs evaluated with pbc=True (vacuum gap >= 12 A checked)",
+  "precision": "float32-highest",
+  "compile": false
+ },
+ "a0": {
+  "Ag": 4.145606050983313,
+  "Au": 4.150755502657383,
+  "Cu": 3.6134895089956376,
+  "Ni": 3.505567926166195,
+  "Pd": 3.9394464916867133,
+  "Pt": 3.9659667887002628
+ },
+ "E_Hg_atom": 0.14434480667114258,
+ "E_ref_D": -0.018116999999999994,
+ "Ecoh_PBE": 0.169184,
+ "wall_s": 39.084203243255615
+}

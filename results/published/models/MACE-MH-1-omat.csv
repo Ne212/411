@@ -1,0 +1,87 @@
+model,system,metal,facet,overlayer,coverage_ML,n_Hg_our_cell,site_kind,a0_metal_A,E_ads_ref_eV,d_MHg_ref_A,in_main_MAE,Ni_flag,mode,E_ads_A_eV,E_ads_D_eV,d_MHg_A,converged,n_steps
+MACE-MH-1-omat,S08-Ag111-0.083,Ag,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,4.14369,-0.34000,3.00000,True,False,source,-0.30928,-0.32633,3.00000,True,0
+MACE-MH-1-omat,S08-Ag111-0.083,Ag,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,4.14369,-0.34000,3.00000,True,False,relaxed,-0.31903,-0.33608,3.06591,True,11
+MACE-MH-1-omat,S08-Au111-0.083,Au,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,4.15676,-0.36000,2.99000,True,False,source,-0.34853,-0.36557,2.99000,True,0
+MACE-MH-1-omat,S08-Au111-0.083,Au,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,4.15676,-0.36000,2.99000,True,False,relaxed,-0.36901,-0.38605,2.99471,True,11
+MACE-MH-1-omat,S08-Cu111-0.083,Cu,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.63329,-0.52000,2.75000,True,False,source,-0.41636,-0.43340,2.75000,True,0
+MACE-MH-1-omat,S08-Cu111-0.083,Cu,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.63329,-0.52000,2.75000,True,False,relaxed,-0.42676,-0.44380,2.81558,True,11
+MACE-MH-1-omat,S08-Ni111-0.083,Ni,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.51509,-0.67000,2.72000,True,True,source,-0.68577,-0.70281,2.72000,True,0
+MACE-MH-1-omat,S08-Ni111-0.083,Ni,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.51509,-0.67000,2.72000,True,True,relaxed,-0.68491,-0.70195,2.72347,True,4
+MACE-MH-1-omat,S08-Pd111-0.083,Pd,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.93323,-0.84000,2.81000,True,False,source,-0.77204,-0.78908,2.81000,True,0
+MACE-MH-1-omat,S08-Pd111-0.083,Pd,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.93323,-0.84000,2.81000,True,False,relaxed,-0.79296,-0.81000,2.84965,True,6
+MACE-MH-1-omat,S08-Pt111-0.083,Pt,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.95777,-0.75000,2.86000,True,False,source,-0.64937,-0.66641,2.86000,True,0
+MACE-MH-1-omat,S08-Pt111-0.083,Pt,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.95777,-0.75000,2.86000,True,False,relaxed,-0.68897,-0.70601,2.90115,True,7
+MACE-MH-1-omat,S08-Ag111-0.25,Ag,(111),p(2x2),0.25000,1,fcc hollow,4.14369,-0.36000,3.01000,True,False,source,-0.31823,-0.33528,3.01000,True,0
+MACE-MH-1-omat,S08-Ag111-0.25,Ag,(111),p(2x2),0.25000,1,fcc hollow,4.14369,-0.36000,3.01000,True,False,relaxed,-0.32377,-0.34081,3.06575,True,5
+MACE-MH-1-omat,S08-Au111-0.25,Au,(111),p(2x2),0.25000,1,fcc hollow,4.15676,-0.38000,3.01000,True,False,source,-0.34519,-0.36223,3.01000,True,0
+MACE-MH-1-omat,S08-Au111-0.25,Au,(111),p(2x2),0.25000,1,fcc hollow,4.15676,-0.38000,3.01000,True,False,relaxed,-0.35240,-0.36944,3.01253,True,6
+MACE-MH-1-omat,S08-Cu111-0.25,Cu,(111),p(2x2),0.25000,1,fcc hollow,3.63329,-0.53000,2.78000,True,False,source,-0.44925,-0.46629,2.78000,True,0
+MACE-MH-1-omat,S08-Cu111-0.25,Cu,(111),p(2x2),0.25000,1,fcc hollow,3.63329,-0.53000,2.78000,True,False,relaxed,-0.45306,-0.47010,2.82147,True,8
+MACE-MH-1-omat,S08-Ni111-0.25,Ni,(111),p(2x2),0.25000,1,fcc hollow,3.51509,-0.64000,2.74000,True,True,source,-0.68858,-0.70563,2.74000,True,0
+MACE-MH-1-omat,S08-Ni111-0.25,Ni,(111),p(2x2),0.25000,1,fcc hollow,3.51509,-0.64000,2.74000,True,True,relaxed,-0.68561,-0.70265,2.73273,True,4
+MACE-MH-1-omat,S08-Pd111-0.25,Pd,(111),p(2x2),0.25000,1,fcc hollow,3.93323,-0.81000,2.83000,True,False,source,-0.77760,-0.79465,2.83000,True,0
+MACE-MH-1-omat,S08-Pd111-0.25,Pd,(111),p(2x2),0.25000,1,fcc hollow,3.93323,-0.81000,2.83000,True,False,relaxed,-0.78440,-0.80144,2.85749,True,4
+MACE-MH-1-omat,S08-Pt111-0.25,Pt,(111),p(2x2),0.25000,1,fcc hollow,3.95777,-0.68000,2.88000,True,False,source,-0.65521,-0.67225,2.88000,True,0
+MACE-MH-1-omat,S08-Pt111-0.25,Pt,(111),p(2x2),0.25000,1,fcc hollow,3.95777,-0.68000,2.88000,True,False,relaxed,-0.66727,-0.68432,2.91103,True,8
+MACE-MH-1-omat,S08-Ag111-0.333,Ag,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,4.14369,-0.31000,3.06000,True,False,source,-0.33418,-0.35122,3.06000,True,0
+MACE-MH-1-omat,S08-Ag111-0.333,Ag,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,4.14369,-0.31000,3.06000,True,False,relaxed,-0.33483,-0.35187,3.07011,True,2
+MACE-MH-1-omat,S08-Au111-0.333,Au,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,4.15676,-0.32000,3.05000,True,False,source,-0.34565,-0.36269,3.05000,True,0
+MACE-MH-1-omat,S08-Au111-0.333,Au,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,4.15676,-0.32000,3.05000,True,False,relaxed,-0.34876,-0.36580,3.02943,True,10
+MACE-MH-1-omat,S08-Cu111-0.333,Cu,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.63329,-0.48000,2.82000,True,False,source,-0.47032,-0.48736,2.82000,True,0
+MACE-MH-1-omat,S08-Cu111-0.333,Cu,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.63329,-0.48000,2.82000,True,False,relaxed,-0.47076,-0.48780,2.82627,True,2
+MACE-MH-1-omat,S08-Ni111-0.333,Ni,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.51509,-0.61000,2.76000,True,True,source,-0.69557,-0.71261,2.76000,True,0
+MACE-MH-1-omat,S08-Ni111-0.333,Ni,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.51509,-0.61000,2.76000,True,True,relaxed,-0.69488,-0.71192,2.73755,True,5
+MACE-MH-1-omat,S08-Pd111-0.333,Pd,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.93323,-0.80000,2.83000,True,False,source,-0.78318,-0.80022,2.83000,True,0
+MACE-MH-1-omat,S08-Pd111-0.333,Pd,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.93323,-0.80000,2.83000,True,False,relaxed,-0.78921,-0.80625,2.86193,True,9
+MACE-MH-1-omat,S08-Pt111-0.333,Pt,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.95777,-0.67000,2.89000,True,False,source,-0.66247,-0.67951,2.89000,True,0
+MACE-MH-1-omat,S08-Pt111-0.333,Pt,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.95777,-0.67000,2.89000,True,False,relaxed,-0.67271,-0.68975,2.91404,True,5
+MACE-MH-1-omat,S08-Ag111-0.5,Ag,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,4.14369,-0.37000,3.09000,False,False,source,-0.33618,-0.35322,3.09000,True,0
+MACE-MH-1-omat,S08-Ag111-0.5,Ag,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,4.14369,-0.37000,3.09000,False,False,relaxed,-0.33670,-0.35375,3.08907,True,2
+MACE-MH-1-omat,S08-Au111-0.5,Au,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,4.15676,-0.35000,3.11000,False,False,source,-0.31748,-0.33452,3.11000,True,0
+MACE-MH-1-omat,S08-Au111-0.5,Au,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,4.15676,-0.35000,3.11000,False,False,relaxed,-0.32094,-0.33799,3.10799,True,6
+MACE-MH-1-omat,S08-Cu111-0.5,Cu,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.63329,-0.51000,2.87000,False,False,source,-0.45140,-0.46844,2.87000,True,0
+MACE-MH-1-omat,S08-Cu111-0.5,Cu,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.63329,-0.51000,2.87000,False,False,relaxed,-0.45192,-0.46896,2.85085,True,4
+MACE-MH-1-omat,S08-Ni111-0.5,Ni,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.51509,-0.61000,2.75000,False,True,source,-0.65181,-0.66885,2.75000,True,0
+MACE-MH-1-omat,S08-Ni111-0.5,Ni,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.51509,-0.61000,2.75000,False,True,relaxed,-0.64966,-0.66670,2.77206,True,9
+MACE-MH-1-omat,S08-Pd111-0.5,Pd,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.93323,-0.81000,2.85000,False,False,source,-0.77259,-0.78964,2.85000,True,0
+MACE-MH-1-omat,S08-Pd111-0.5,Pd,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.93323,-0.81000,2.85000,False,False,relaxed,-0.77346,-0.79051,2.86660,True,4
+MACE-MH-1-omat,S08-Pt111-0.5,Pt,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.95777,-0.69000,2.92000,False,False,source,-0.67641,-0.69345,2.92000,True,0
+MACE-MH-1-omat,S08-Pt111-0.5,Pt,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.95777,-0.69000,2.92000,False,False,relaxed,-0.68157,-0.69861,2.94464,True,12
+MACE-MH-1-omat,S08-Ag001-0.125,Ag,(001),c(4x4),0.12500,2,4-fold hollow,4.14369,-0.50000,3.01000,False,False,source,-0.37269,-0.38973,3.01000,True,0
+MACE-MH-1-omat,S08-Ag001-0.125,Ag,(001),c(4x4),0.12500,2,4-fold hollow,4.14369,-0.50000,3.01000,False,False,relaxed,-0.38199,-0.39904,3.04949,True,9
+MACE-MH-1-omat,S08-Au001-0.125,Au,(001),c(4x4),0.12500,2,4-fold hollow,4.15676,-0.61000,2.94000,False,False,source,-0.46672,-0.48376,2.94000,True,0
+MACE-MH-1-omat,S08-Au001-0.125,Au,(001),c(4x4),0.12500,2,4-fold hollow,4.15676,-0.61000,2.94000,False,False,relaxed,-0.50711,-0.52415,2.93400,True,17
+MACE-MH-1-omat,S08-Cu001-0.125,Cu,(001),c(4x4),0.12500,2,4-fold hollow,3.63329,-0.67000,2.78000,False,False,source,-0.54647,-0.56351,2.78000,True,0
+MACE-MH-1-omat,S08-Cu001-0.125,Cu,(001),c(4x4),0.12500,2,4-fold hollow,3.63329,-0.67000,2.78000,False,False,relaxed,-0.54391,-0.56095,2.80589,True,10
+MACE-MH-1-omat,S08-Ni001-0.125,Ni,(001),c(4x4),0.12500,2,4-fold hollow,3.51509,-0.82000,2.73000,False,True,source,-0.87463,-0.89168,2.73000,True,0
+MACE-MH-1-omat,S08-Ni001-0.125,Ni,(001),c(4x4),0.12500,2,4-fold hollow,3.51509,-0.82000,2.73000,False,True,relaxed,-0.86622,-0.88326,2.71749,True,6
+MACE-MH-1-omat,S08-Pd001-0.125,Pd,(001),c(4x4),0.12500,2,4-fold hollow,3.93323,-1.10000,2.83000,False,False,source,-1.06137,-1.07841,2.83000,True,0
+MACE-MH-1-omat,S08-Pd001-0.125,Pd,(001),c(4x4),0.12500,2,4-fold hollow,3.93323,-1.10000,2.83000,False,False,relaxed,-1.07381,-1.09085,2.84251,True,11
+MACE-MH-1-omat,S08-Pt001-0.125,Pt,(001),c(4x4),0.12500,2,4-fold hollow,3.95777,-1.09000,2.83000,False,False,source,-1.02113,-1.03817,2.83000,True,0
+MACE-MH-1-omat,S08-Pt001-0.125,Pt,(001),c(4x4),0.12500,2,4-fold hollow,3.95777,-1.09000,2.83000,False,False,relaxed,-1.01854,-1.03558,2.86289,True,12
+MACE-MH-1-omat,S08-Ag001-0.5,Ag,(001),c(2x2),0.50000,2,4-fold hollow,4.14369,-0.51000,3.02000,True,False,source,-0.39045,-0.40749,3.02000,True,0
+MACE-MH-1-omat,S08-Ag001-0.5,Ag,(001),c(2x2),0.50000,2,4-fold hollow,4.14369,-0.51000,3.02000,True,False,relaxed,-0.39019,-0.40723,3.05863,True,8
+MACE-MH-1-omat,S08-Au001-0.5,Au,(001),c(2x2),0.50000,2,4-fold hollow,4.15676,-0.51000,3.00000,True,False,source,-0.41789,-0.43493,3.00000,True,0
+MACE-MH-1-omat,S08-Au001-0.5,Au,(001),c(2x2),0.50000,2,4-fold hollow,4.15676,-0.51000,3.00000,True,False,relaxed,-0.41539,-0.43243,3.01977,True,10
+MACE-MH-1-omat,S08-Cu001-0.5,Cu,(001),c(2x2),0.50000,2,4-fold hollow,3.63329,-0.71000,2.80000,True,False,source,-0.59847,-0.61551,2.80000,True,0
+MACE-MH-1-omat,S08-Cu001-0.5,Cu,(001),c(2x2),0.50000,2,4-fold hollow,3.63329,-0.71000,2.80000,True,False,relaxed,-0.58954,-0.60658,2.83256,True,14
+MACE-MH-1-omat,S08-Ni001-0.5,Ni,(001),c(2x2),0.50000,2,4-fold hollow,3.51509,-0.81000,2.77000,True,True,source,-0.87556,-0.89260,2.77000,True,0
+MACE-MH-1-omat,S08-Ni001-0.5,Ni,(001),c(2x2),0.50000,2,4-fold hollow,3.51509,-0.81000,2.77000,True,True,relaxed,-0.86020,-0.87724,2.74104,True,6
+MACE-MH-1-omat,S08-Pd001-0.5,Pd,(001),c(2x2),0.50000,2,4-fold hollow,3.93323,-1.08000,2.83000,True,False,source,-1.03751,-1.05456,2.83000,True,0
+MACE-MH-1-omat,S08-Pd001-0.5,Pd,(001),c(2x2),0.50000,2,4-fold hollow,3.93323,-1.08000,2.83000,True,False,relaxed,-1.03625,-1.05329,2.84600,True,11
+MACE-MH-1-omat,S08-Pt001-0.5,Pt,(001),c(2x2),0.50000,2,4-fold hollow,3.95777,-0.97000,2.85000,True,False,source,-0.98200,-0.99904,2.85000,True,0
+MACE-MH-1-omat,S08-Pt001-0.5,Pt,(001),c(2x2),0.50000,2,4-fold hollow,3.95777,-0.97000,2.85000,True,False,relaxed,-0.95003,-0.96707,2.87638,True,14
+MACE-MH-1-omat,S08-Ag001-1,Ag,(001),c(1x1),1.00000,4,4-fold hollow,4.14369,-0.30000,3.30000,True,False,source,-0.29789,-0.31494,3.30000,True,0
+MACE-MH-1-omat,S08-Ag001-1,Ag,(001),c(1x1),1.00000,4,4-fold hollow,4.14369,-0.30000,3.30000,True,False,relaxed,-0.30195,-0.31899,3.20847,True,13
+MACE-MH-1-omat,S08-Au001-1,Au,(001),c(1x1),1.00000,4,4-fold hollow,4.15676,-0.35000,3.39000,True,False,source,-0.29730,-0.31434,3.39000,True,0
+MACE-MH-1-omat,S08-Au001-1,Au,(001),c(1x1),1.00000,4,4-fold hollow,4.15676,-0.35000,3.39000,True,False,relaxed,-0.29778,-0.31482,3.32910,True,7
+MACE-MH-1-omat,S08-Cu001-1,Cu,(001),c(1x1),1.00000,4,4-fold hollow,3.63329,0.27000,3.14000,True,False,source,0.26570,0.24866,3.14000,True,0
+MACE-MH-1-omat,S08-Cu001-1,Cu,(001),c(1x1),1.00000,4,4-fold hollow,3.63329,0.27000,3.14000,True,False,relaxed,0.26910,0.25206,3.09217,True,6
+MACE-MH-1-omat,S08-Ni001-1,Ni,(001),c(1x1),1.00000,4,4-fold hollow,3.51509,0.55000,2.99000,True,True,source,0.54332,0.52628,2.99000,True,0
+MACE-MH-1-omat,S08-Ni001-1,Ni,(001),c(1x1),1.00000,4,4-fold hollow,3.51509,0.55000,2.99000,True,True,relaxed,0.55312,0.53608,2.96897,True,9
+MACE-MH-1-omat,S08-Pd001-1,Pd,(001),c(1x1),1.00000,4,4-fold hollow,3.93323,-0.67000,2.95000,True,False,source,-0.66681,-0.68385,2.95000,True,0
+MACE-MH-1-omat,S08-Pd001-1,Pd,(001),c(1x1),1.00000,4,4-fold hollow,3.93323,-0.67000,2.95000,True,False,relaxed,-0.66739,-0.68443,2.96822,True,12
+MACE-MH-1-omat,S08-Pt001-1,Pt,(001),c(1x1),1.00000,4,4-fold hollow,3.95777,-0.58000,3.05000,True,False,source,-0.62628,-0.64332,3.05000,True,0
+MACE-MH-1-omat,S08-Pt001-1,Pt,(001),c(1x1),1.00000,4,4-fold hollow,3.95777,-0.58000,3.05000,True,False,relaxed,-0.60881,-0.62585,3.06203,True,12
+MACE-MH-1-omat,S08-Au001-0.125-bridge,Au,(001),c(4x4),0.12500,2,bridge,4.15676,-0.47000,,False,False,relaxed,-0.36733,-0.38437,2.93138,True,16
+MACE-MH-1-omat,S08-Au001-0.125-top,Au,(001),c(4x4),0.12500,2,top,4.15676,-0.36000,,False,False,relaxed,-0.30085,-0.31789,2.83839,True,21

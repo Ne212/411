@@ -1,0 +1,40 @@
+{
+ "model": "SevenNet-Omni-oc20",
+ "ok": true,
+ "info": {
+  "model": "SevenNet-Omni-oc20",
+  "sevenn_model": "7net-omni",
+  "modal": "oc20",
+  "package": "sevenn 0.13.0",
+  "device": "cuda",
+  "dtype": "float32"
+ },
+ "t_load_s": 7.4,
+ "E_Au_bulk_a4.08_per_atom": -2.576953649520874,
+ "E_Hg_atom_15A": -0.0012464523315429688,
+ "E_Au_atom_15A": -0.266958087682724,
+ "sum_forces_rattled_Au32": 2.384185791015625e-07,
+ "stress_analytic_eVA3": [
+  -0.05222557485103607,
+  -0.05210793763399124,
+  -0.051578719168901443,
+  -2.756632255795921e-09,
+  1.8377549482195832e-09,
+  0.003765465458855033
+ ],
+ "stress_numeric_eVA3": [
+  -0.05216027568319193,
+  -0.052092092316285796,
+  -0.051546625381036736,
+  0.0,
+  0.0,
+  0.003818268546743462
+ ],
+ "stress_max_abs_diff_eVA3": 6.52991678441392e-05,
+ "t_single_point_37atoms_s": 0.0594,
+ "E_slab_Hg_37": -89.70364379882812,
+ "torch": "2.11.0+cu130",
+ "cuda": true,
+ "gpu_mem_peak_MB": 902.0,
+ "t_total_s": 8.7
+}

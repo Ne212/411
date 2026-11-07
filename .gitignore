@@ -22,3 +22,14 @@ results/structures/**/*.traj
 report/*.out
 *.synctex.gz
 report/overleaf_upload.zip
+# MLIP survey (Nov 2026): environments, model files and checkpoints are not redistributed
+venvs/
+upstream_latest/
+work/survey/models/
+work/survey/finetune/runs/
+work/survey/finetune/mp_finetuning-*.xyz
+*.pt2
+*.model
+*.pth.tar
+results/**/*.traj
+results/**/_discarded*

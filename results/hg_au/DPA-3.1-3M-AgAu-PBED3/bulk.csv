@@ -1,0 +1,2 @@
+method,a0_A,a_brent_A,B0_GPa,E_slab,slab_converged,E_Hg_atom,E_far,far_converged,far_height_A,far_dmin_AuHg_A,E_far_minus_slab,E_Hg_bulk_per_atom,Hg_bulk_converged,Hg_bulk_a_A,Hg_bulk_alpha_deg,Hg_bulk_V_per_atom,Ecoh_Hg_model,Ecoh_Hg_exp,Ecoh_Hg_PBE,atom_error_vs_PBE,model,wall_time_s
+DPA-3.1-3M-AgAu-PBED3,4.097585,4.097827,149.814577,-128.490956,True,0.461589,-128.029367,True,10.000000,10.138953,0.461589,0.013643,True,2.984280,79.839000,25.459432,0.447947,0.670000,0.169184,0.278763,DPA-3.1-3M-AgAu-PBED3,76.752229

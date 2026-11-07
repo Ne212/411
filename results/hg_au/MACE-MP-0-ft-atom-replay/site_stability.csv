@@ -1,0 +1,5 @@
+method,start_site,E_constrained,E_free,dE_free_minus_constrained,lateral_drift_free_A,height_free_A,d_AuHg_min_free_A,converged_free,n_steps_free
+MACE-MP-0-ft-atom-replay,ontop,-111.769280,-111.769280,0.000000,0.000000,2.809829,2.819822,True,19
+MACE-MP-0-ft-atom-replay,bridge,-111.881356,-111.881362,-0.000005,0.001709,2.545019,2.954970,True,7
+MACE-MP-0-ft-atom-replay,fcc,-111.898767,-111.898767,-0.000000,0.000000,2.497195,3.026793,True,7
+MACE-MP-0-ft-atom-replay,hcp,-111.903344,-111.903344,0.000000,0.000000,2.486636,3.018113,True,8

@@ -1,0 +1,5 @@
+method,start_site,E_constrained,E_free,dE_free_minus_constrained,lateral_drift_free_A,height_free_A,d_AuHg_min_free_A,converged_free,n_steps_free
+MACE-OMAT-0-medium,ontop,-110.733747,-110.733747,0.000000,0.000000,2.927128,2.895184,True,21
+MACE-OMAT-0-medium,bridge,-110.803817,-110.803818,-0.000001,0.000602,2.536952,2.957146,True,7
+MACE-OMAT-0-medium,fcc,-110.826591,-110.826591,-0.000000,0.000000,2.471423,3.010557,True,10
+MACE-OMAT-0-medium,hcp,-110.823765,-110.823765,0.000000,0.000000,2.503500,3.036003,True,8

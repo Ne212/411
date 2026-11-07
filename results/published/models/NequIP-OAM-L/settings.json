@@ -1,0 +1,41 @@
+{
+ "settings": {
+  "layers": 4,
+  "vacuum": 12.0,
+  "fmax": 0.02,
+  "max_steps": 1000,
+  "atom_box": 15.0,
+  "start_height_top_bridge": 2.6,
+  "eos": {
+   "points": 11,
+   "rel_range": 0.03
+  },
+  "a_guess": {
+   "Ag": 4.09,
+   "Au": 4.08,
+   "Cu": 3.61,
+   "Ni": 3.52,
+   "Pd": 3.89,
+   "Pt": 3.92
+  }
+ },
+ "info": {
+  "model": "NequIP-OAM-L",
+  "nequip_id": "nequip.net:mir-group/NequIP-OAM-L:0.1",
+  "compiled": "/home/ne212/START/work/survey/models/NequIP-OAM-L.nequip.pt2",
+  "package": "nequip 0.19.1 / nequip-allegro 0.8.3",
+  "device": "cuda"
+ },
+ "a0": {
+  "Ag": 4.159384646170305,
+  "Au": 4.173409450745997,
+  "Cu": 3.630621452338956,
+  "Ni": 3.515031849621735,
+  "Pd": 3.9423022406047683,
+  "Pt": 3.9749824727884886
+ },
+ "E_Hg_atom": -0.1235,
+ "E_ref_D": -0.12099300000000002,
+ "Ecoh_PBE": 0.169184,
+ "wall_s": 30.822956085205078
+}

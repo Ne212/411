@@ -1,0 +1,40 @@
+{
+ "model": "SevenNet-Omni-omat24",
+ "ok": true,
+ "info": {
+  "model": "SevenNet-Omni-omat24",
+  "sevenn_model": "7net-omni",
+  "modal": "omat24",
+  "package": "sevenn 0.13.0",
+  "device": "cuda",
+  "dtype": "float32"
+ },
+ "t_load_s": 7.5,
+ "E_Au_bulk_a4.08_per_atom": -3.198155164718628,
+ "E_Hg_atom_15A": 0.10887002944946289,
+ "E_Au_atom_15A": -0.35486024618148804,
+ "sum_forces_rattled_Au32": 4.76837158203125e-07,
+ "stress_analytic_eVA3": [
+  -0.023293904960155487,
+  -0.023166950792074203,
+  -0.022651271894574165,
+  8.323165490153883e-10,
+  1.4781941226615913e-09,
+  0.004072458483278751
+ ],
+ "stress_numeric_eVA3": [
+  -0.023250528114991436,
+  -0.02311416138117917,
+  -0.022773244546648502,
+  0.0,
+  -6.818336690613325e-05,
+  0.004159185381274128
+ ],
+ "stress_max_abs_diff_eVA3": 0.00012197265207433694,
+ "t_single_point_37atoms_s": 0.05,
+ "E_slab_Hg_37": -110.43402099609375,
+ "torch": "2.11.0+cu130",
+ "cuda": true,
+ "gpu_mem_peak_MB": 902.0,
+ "t_total_s": 8.8
+}

@@ -1,0 +1,19 @@
+
+===== NequIP-OAM-L
+Au bulk a0 = 4.1734 A, B0 = 135.3 GPa
+[NequIP-OAM-L_slab] steps=6 converged=True fmax=0.0188 E=-112.133693 eV (0.1 s)
+[NequIP-OAM-L_far] steps=0 converged=True fmax=0.0188 E=-112.257190 eV (0.0 s)
+E(Hg atom)=-0.12350  E(far)-E(slab)=-0.12350  E_coh(Hg, model)=0.1667 eV
+[NequIP-OAM-L_ontop] steps=19 converged=True fmax=0.0183 E=-112.517903 eV (0.6 s)
+[NequIP-OAM-L_ontop_free] steps=19 converged=True fmax=0.0183 E=-112.517905 eV (0.4 s)
+  ontop  E_ads(A)=-0.2607 E_ads(B)=-0.2607 E_ads(C)=-0.7640  h=2.901 d=2.889 drift=0.000
+[NequIP-OAM-L_bridge] steps=6 converged=True fmax=0.0171 E=-112.570070 eV (0.1 s)
+[NequIP-OAM-L_bridge_free] steps=6 converged=True fmax=0.0171 E=-112.570086 eV (0.1 s)
+  bridge E_ads(A)=-0.3129 E_ads(B)=-0.3129 E_ads(C)=-0.8162  h=2.533 d=2.961 drift=0.000
+[NequIP-OAM-L_fcc] steps=10 converged=True fmax=0.0199 E=-112.598077 eV (0.1 s)
+[NequIP-OAM-L_fcc_free] steps=10 converged=True fmax=0.0199 E=-112.598081 eV (0.2 s)
+  fcc    E_ads(A)=-0.3409 E_ads(B)=-0.3409 E_ads(C)=-0.8442  h=2.451 d=3.003 drift=0.000
+[NequIP-OAM-L_hcp] steps=10 converged=True fmax=0.0171 E=-112.590015 eV (0.1 s)
+[NequIP-OAM-L_hcp_free] steps=10 converged=True fmax=0.0171 E=-112.590015 eV (0.1 s)
+  hcp    E_ads(A)=-0.3328 E_ads(B)=-0.3328 E_ads(C)=-0.8361  h=2.472 d=3.019 drift=0.000
+done NequIP-OAM-L (26 s)

@@ -1,0 +1,20 @@
+cuequivariance or cuequivariance_torch is not available. Cuequivariance acceleration will be disabled.
+
+===== MACE-MP-0-ft-noatom
+Au bulk a0 = 4.1521 A, B0 = 121.9 GPa
+[MACE-MP-0-ft-noatom_slab] steps=6 converged=True fmax=0.0056 E=-111.216968 eV (1.1 s)
+[MACE-MP-0-ft-noatom_far] steps=0 converged=True fmax=0.0056 E=-111.283439 eV (0.1 s)
+E(Hg atom)=-0.06647  E(far)-E(slab)=-0.06647  E_coh(Hg, model)=0.2735 eV
+[MACE-MP-0-ft-noatom_ontop] steps=18 converged=True fmax=0.0184 E=-111.621401 eV (2.0 s)
+[MACE-MP-0-ft-noatom_ontop_free] steps=18 converged=True fmax=0.0184 E=-111.621401 eV (2.2 s)
+  ontop  E_ads(A)=-0.3380 E_ads(B)=-0.3380 E_ads(C)=-0.7344  h=2.795 d=2.819 drift=0.000
+[MACE-MP-0-ft-noatom_bridge] steps=7 converged=True fmax=0.0152 E=-111.709196 eV (0.9 s)
+[MACE-MP-0-ft-noatom_bridge_free] steps=7 converged=True fmax=0.0152 E=-111.709197 eV (0.8 s)
+  bridge E_ads(A)=-0.4258 E_ads(B)=-0.4258 E_ads(C)=-0.8222  h=2.536 d=2.950 drift=0.000
+[MACE-MP-0-ft-noatom_fcc] steps=8 converged=True fmax=0.0162 E=-111.726946 eV (1.0 s)
+[MACE-MP-0-ft-noatom_fcc_free] steps=8 converged=True fmax=0.0162 E=-111.726946 eV (1.0 s)
+  fcc    E_ads(A)=-0.4435 E_ads(B)=-0.4435 E_ads(C)=-0.8400  h=2.485 d=3.019 drift=0.000
+[MACE-MP-0-ft-noatom_hcp] steps=8 converged=True fmax=0.0187 E=-111.729278 eV (0.9 s)
+[MACE-MP-0-ft-noatom_hcp_free] steps=8 converged=True fmax=0.0187 E=-111.729278 eV (1.1 s)
+  hcp    E_ads(A)=-0.4458 E_ads(B)=-0.4458 E_ads(C)=-0.8423  h=2.483 d=3.020 drift=0.000
+done MACE-MP-0-ft-noatom (19 s)

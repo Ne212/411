@@ -1,0 +1,42 @@
+{
+ "settings": {
+  "layers": 4,
+  "vacuum": 12.0,
+  "fmax": 0.02,
+  "max_steps": 1000,
+  "atom_box": 15.0,
+  "start_height_top_bridge": 2.6,
+  "eos": {
+   "points": 11,
+   "rel_range": 0.03
+  },
+  "a_guess": {
+   "Ag": 4.09,
+   "Au": 4.08,
+   "Cu": 3.61,
+   "Ni": 3.52,
+   "Pd": 3.89,
+   "Pt": 3.92
+  }
+ },
+ "info": {
+  "model": "CHGNet-MatPES-PBE",
+  "hf_repo": "materialyze/CHGNet-PES-MatPES-PBE-2025.2.10",
+  "package": "matgl 4.1.4",
+  "device": "cpu",
+  "dtype": "float32",
+  "stress_unit": "eV/A3"
+ },
+ "a0": {
+  "Ag": 4.154721638827226,
+  "Au": 4.155889873412953,
+  "Cu": 3.6325955536371146,
+  "Ni": 3.5172224248583412,
+  "Pd": 3.9417952545873427,
+  "Pt": 3.969575954779417
+ },
+ "E_Hg_atom": -0.03678864240646362,
+ "E_ref_D": -0.014972999999999986,
+ "Ecoh_PBE": 0.169184,
+ "wall_s": 159.9833652973175
+}

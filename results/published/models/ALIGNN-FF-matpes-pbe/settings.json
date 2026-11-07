@@ -1,0 +1,42 @@
+{
+ "settings": {
+  "layers": 4,
+  "vacuum": 12.0,
+  "fmax": 0.02,
+  "max_steps": 1000,
+  "atom_box": 15.0,
+  "start_height_top_bridge": 2.6,
+  "eos": {
+   "points": 11,
+   "rel_range": 0.03
+  },
+  "a_guess": {
+   "Ag": 4.09,
+   "Au": 4.08,
+   "Cu": 3.61,
+   "Ni": 3.52,
+   "Pd": 3.89,
+   "Pt": 3.92
+  }
+ },
+ "info": {
+  "model": "ALIGNN-FF-matpes-pbe",
+  "alignn_name": "alignn_ff_matpes_pbe",
+  "patch": "forces reshaped to (N,3) for 1-atom cells",
+  "package": "alignn 2026.11.1",
+  "device": "cuda",
+  "dtype": "float32"
+ },
+ "a0": {
+  "Ag": 4.142987214713091,
+  "Au": 4.157471016105956,
+  "Cu": 3.6408624720784677,
+  "Ni": 3.525149344929632,
+  "Pd": 3.941559105097814,
+  "Pt": 3.972830977600255
+ },
+ "E_Hg_atom": 0.11663413047790527,
+ "E_ref_D": -0.04247300000000001,
+ "Ecoh_PBE": 0.169184,
+ "wall_s": 285.2837998867035
+}

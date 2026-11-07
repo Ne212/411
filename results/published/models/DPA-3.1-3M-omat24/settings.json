@@ -1,0 +1,41 @@
+{
+ "settings": {
+  "layers": 4,
+  "vacuum": 12.0,
+  "fmax": 0.02,
+  "max_steps": 1000,
+  "atom_box": 15.0,
+  "start_height_top_bridge": 2.6,
+  "eos": {
+   "points": 11,
+   "rel_range": 0.03
+  },
+  "a_guess": {
+   "Ag": 4.09,
+   "Au": 4.08,
+   "Cu": 3.61,
+   "Ni": 3.52,
+   "Pd": 3.89,
+   "Pt": 3.92
+  }
+ },
+ "info": {
+  "model": "DPA-3.1-3M-omat24",
+  "checkpoint": "DPA-3.1-3M",
+  "head": "Omat24",
+  "package": "deepmd-kit 3.2.0",
+  "device": "torch default (cuda)"
+ },
+ "a0": {
+  "Ag": 4.145531873629095,
+  "Au": 4.15399809109097,
+  "Cu": 3.611520862168117,
+  "Ni": 3.5070881611334435,
+  "Pd": 3.943895942414986,
+  "Pt": 3.966282338287313
+ },
+ "E_Hg_atom": 0.08700108528137207,
+ "E_ref_D": -0.0048900000000000055,
+ "Ecoh_PBE": 0.169184,
+ "wall_s": 83.38190722465515
+}

@@ -1,0 +1,54 @@
+Warp 1.19.0 initialized:
+   CUDA Toolkit 13.4, Driver 13.2
+   Devices:
+     "cpu"      : "x86_64"
+     "cuda:0"   : "NVIDIA RTX PRO 4000 Blackwell" (23 GiB, sm_120, mempool enabled)
+   Kernel cache:
+     /home/ne212/.cache/warp/1.19.0
+Module nvalchemiops.neighbors.neighbor_utils d062b50 load on device 'cuda:0' took 0.60 ms  (cached)
+Module nvalchemiops.neighbors.naive c176179 load on device 'cuda:0' took 1.00 ms  (cached)
+S08-Ag111-0.083          n=1 fcc hollow           source:-0.697 relaxed:-0.705 ref -0.34
+S08-Au111-0.083          n=1 fcc hollow           source:-0.503 relaxed:-0.528 ref -0.36
+S08-Cu111-0.083          n=1 fcc hollow           source:-0.820 relaxed:-0.834 ref -0.52
+S08-Ni111-0.083          n=1 fcc hollow           source:-0.666 relaxed:-0.680 ref -0.67
+S08-Pd111-0.083          n=1 fcc hollow           source:-0.835 relaxed:-0.849 ref -0.84
+S08-Pt111-0.083          n=1 fcc hollow           source:-0.965 relaxed:-0.986 ref -0.75
+S08-Ag111-0.25           n=1 fcc hollow           source:-0.537 relaxed:-0.547 ref -0.36
+S08-Au111-0.25           n=1 fcc hollow           source:-0.321 relaxed:-0.335 ref -0.38
+S08-Cu111-0.25           n=1 fcc hollow           source:-0.622 relaxed:-0.628 ref -0.53
+S08-Ni111-0.25           n=1 fcc hollow           source:-0.700 relaxed:-0.704 ref -0.64
+S08-Pd111-0.25           n=1 fcc hollow           source:-0.804 relaxed:-0.811 ref -0.81
+S08-Pt111-0.25           n=1 fcc hollow           source:-0.810 relaxed:-0.793 ref -0.68
+S08-Ag111-0.333          n=1 fcc hollow           source:-0.522 relaxed:-0.529 ref -0.31
+S08-Au111-0.333          n=1 fcc hollow           source:-0.426 relaxed:-0.439 ref -0.32
+S08-Cu111-0.333          n=1 fcc hollow           source:-0.583 relaxed:-0.599 ref -0.48
+S08-Ni111-0.333          n=1 fcc hollow           source:-0.769 relaxed:-0.777 ref -0.61
+S08-Pd111-0.333          n=1 fcc hollow           source:-0.825 relaxed:-0.835 ref -0.80
+S08-Pt111-0.333          n=1 fcc hollow           source:-0.709 relaxed:-0.693 ref -0.67
+S08-Ag111-0.5            n=2 fcc+hcp honeycomb    source:-0.534 relaxed:-0.534 ref -0.37
+S08-Au111-0.5            n=2 fcc+hcp honeycomb    source:-0.335 relaxed:-0.336 ref -0.35
+S08-Cu111-0.5            n=2 fcc+hcp honeycomb    source:-0.685 relaxed:-0.690 ref -0.51
+S08-Ni111-0.5            n=2 fcc+hcp honeycomb    source:-0.834 relaxed:-0.834 ref -0.61
+S08-Pd111-0.5            n=2 fcc+hcp honeycomb    source:-0.902 relaxed:-0.906 ref -0.81
+S08-Pt111-0.5            n=2 fcc+hcp honeycomb    source:-0.764 relaxed:-0.758 ref -0.69
+S08-Ag001-0.125          n=2 4-fold hollow        source:-0.717 relaxed:-0.749 ref -0.50
+S08-Au001-0.125          n=2 4-fold hollow        source:-0.770 relaxed:-0.805 ref -0.61
+S08-Cu001-0.125          n=2 4-fold hollow        source:-0.882 relaxed:-0.907 ref -0.67
+S08-Ni001-0.125          n=2 4-fold hollow        source:-0.882 relaxed:-0.953 ref -0.82
+S08-Pd001-0.125          n=2 4-fold hollow        source:-1.137 relaxed:-1.166 ref -1.10
+S08-Pt001-0.125          n=2 4-fold hollow        source:-1.257 relaxed:-1.263 ref -1.09
+S08-Ag001-0.5            n=2 4-fold hollow        source:-0.574 relaxed:-0.581 ref -0.51
+S08-Au001-0.5            n=2 4-fold hollow        source:-0.483 relaxed:-0.483 ref -0.51
+S08-Cu001-0.5            n=2 4-fold hollow        source:-0.783 relaxed:-0.781 ref -0.71
+S08-Ni001-0.5            n=2 4-fold hollow        source:-1.065 relaxed:-1.059 ref -0.81
+S08-Pd001-0.5            n=2 4-fold hollow        source:-1.149 relaxed:-1.149 ref -1.08
+S08-Pt001-0.5            n=2 4-fold hollow        source:-1.006 relaxed:-0.971 ref -0.97
+S08-Ag001-1              n=4 4-fold hollow        source:-0.500 relaxed:-0.514 ref -0.30
+S08-Au001-1              n=4 4-fold hollow        source:-0.484 relaxed:-0.500 ref -0.35
+S08-Cu001-1              n=4 4-fold hollow        source:+0.153 relaxed:+0.144 ref +0.27
+S08-Ni001-1              n=4 4-fold hollow        source:+0.397 relaxed:+0.395 ref +0.55
+S08-Pd001-1              n=4 4-fold hollow        source:-0.836 relaxed:-0.840 ref -0.67
+S08-Pt001-1              n=4 4-fold hollow        source:-0.743 relaxed:-0.729 ref -0.58
+S08-Au001-0.125-bridge   n=2 bridge               relaxed:-0.525 ref -0.47
+S08-Au001-0.125-top      n=2 top                  relaxed:-0.396 ref -0.36
+done ORB-v3-cons-inf-omat 39 s

@@ -1,0 +1,5 @@
+method,start_site,E_constrained,E_free,dE_free_minus_constrained,lateral_drift_free_A,height_free_A,d_AuHg_min_free_A,converged_free,n_steps_free
+ALIGNN-FF-omat24,ontop,-110.961627,-110.961521,0.000106,0.008124,2.829535,2.813589,True,21
+ALIGNN-FF-omat24,bridge,-111.135957,-111.097442,0.038515,0.025585,2.432853,2.882179,False,1000
+ALIGNN-FF-omat24,fcc,-111.065764,-111.065764,0.000000,0.000000,2.388561,2.934987,True,9
+ALIGNN-FF-omat24,hcp,-111.080134,-111.080134,0.000000,0.000000,2.386707,2.936443,True,9

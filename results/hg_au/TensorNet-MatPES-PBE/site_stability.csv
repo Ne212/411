@@ -1,0 +1,5 @@
+method,start_site,E_constrained,E_free,dE_free_minus_constrained,lateral_drift_free_A,height_free_A,d_AuHg_min_free_A,converged_free,n_steps_free
+TensorNet-MatPES-PBE,ontop,-109.726074,-109.726089,-0.000015,0.000000,3.415755,3.407490,True,32
+TensorNet-MatPES-PBE,bridge,-109.779922,-109.779922,0.000000,0.000181,2.528199,2.958515,True,13
+TensorNet-MatPES-PBE,fcc,-109.800507,-109.800507,0.000000,0.000000,2.429216,2.976823,True,11
+TensorNet-MatPES-PBE,hcp,-109.800484,-109.800484,0.000000,0.000000,2.425609,2.975933,True,13

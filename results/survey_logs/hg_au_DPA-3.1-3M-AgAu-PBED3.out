@@ -1,0 +1,20 @@
+To get the best performance, it is recommended to adjust the number of threads by setting the environment variables OMP_NUM_THREADS, DP_INTRA_OP_PARALLELISM_THREADS, and DP_INTER_OP_PARALLELISM_THREADS. See https://deepmd.rtfd.io/parallelism/ for more information.
+
+===== DPA-3.1-3M-AgAu-PBED3
+Au bulk a0 = 4.0976 A, B0 = 149.8 GPa
+[DPA-3.1-3M-AgAu-PBED3_slab] steps=8 converged=True fmax=0.0122 E=-128.490956 eV (10.3 s)
+[DPA-3.1-3M-AgAu-PBED3_far] steps=0 converged=True fmax=0.0122 E=-128.029367 eV (0.1 s)
+E(Hg atom)=0.46159  E(far)-E(slab)=0.46159  E_coh(Hg, model)=0.4479 eV
+[DPA-3.1-3M-AgAu-PBED3_ontop] steps=18 converged=True fmax=0.0146 E=-128.638945 eV (4.5 s)
+[DPA-3.1-3M-AgAu-PBED3_ontop_free] steps=18 converged=True fmax=0.0146 E=-128.638947 eV (4.4 s)
+  ontop  E_ads(A)=-0.6096 E_ads(B)=-0.6096 E_ads(C)=-0.8316  h=2.721 d=2.808 drift=0.000
+[DPA-3.1-3M-AgAu-PBED3_bridge] steps=14 converged=True fmax=0.0180 E=-128.732396 eV (3.2 s)
+[DPA-3.1-3M-AgAu-PBED3_bridge_free] steps=14 converged=True fmax=0.0183 E=-128.732457 eV (3.0 s)
+  bridge E_ads(A)=-0.7030 E_ads(B)=-0.7030 E_ads(C)=-0.9251  h=2.464 d=2.910 drift=0.000
+[DPA-3.1-3M-AgAu-PBED3_fcc] steps=15 converged=True fmax=0.0165 E=-128.767503 eV (3.8 s)
+[DPA-3.1-3M-AgAu-PBED3_fcc_free] steps=15 converged=True fmax=0.0165 E=-128.767503 eV (2.9 s)
+  fcc    E_ads(A)=-0.7381 E_ads(B)=-0.7381 E_ads(C)=-0.9602  h=2.364 d=2.950 drift=0.000
+[DPA-3.1-3M-AgAu-PBED3_hcp] steps=12 converged=True fmax=0.0199 E=-128.760141 eV (2.8 s)
+[DPA-3.1-3M-AgAu-PBED3_hcp_free] steps=12 converged=True fmax=0.0199 E=-128.760142 eV (1.3 s)
+  hcp    E_ads(A)=-0.7308 E_ads(B)=-0.7308 E_ads(C)=-0.9528  h=2.377 d=2.952 drift=0.000
+done DPA-3.1-3M-AgAu-PBED3 (77 s)

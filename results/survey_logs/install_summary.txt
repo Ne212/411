@@ -1,0 +1,11 @@
+chgnet: OK
+matgl: OK
+alignn: OK
+sevenn: OK
+mattersim: OK
+orb: OK
+fairchem: OK
+grace: OK
+nequip: OK
+deepmd: OK
+upet: OK

@@ -1,0 +1,42 @@
+{
+ "settings": {
+  "layers": 4,
+  "vacuum": 12.0,
+  "fmax": 0.02,
+  "max_steps": 1000,
+  "atom_box": 15.0,
+  "start_height_top_bridge": 2.6,
+  "eos": {
+   "points": 11,
+   "rel_range": 0.03
+  },
+  "a_guess": {
+   "Ag": 4.09,
+   "Au": 4.08,
+   "Cu": 3.61,
+   "Ni": 3.52,
+   "Pd": 3.89,
+   "Pt": 3.92
+  }
+ },
+ "info": {
+  "model": "UMA-s-1p2p1-omat",
+  "checkpoint": "uma-s-1p2p1",
+  "task": "omat",
+  "inference_settings": "batch (fp32, no compile)",
+  "package": "fairchem-core 2.25.0",
+  "device": "cuda"
+ },
+ "a0": {
+  "Ag": 4.140547740614094,
+  "Au": 4.155894344284867,
+  "Cu": 3.615517748822251,
+  "Ni": 3.5066913770795196,
+  "Pd": 3.9439273385471307,
+  "Pt": 3.964398839590569
+ },
+ "E_Hg_atom": -0.011041658674397437,
+ "E_ref_D": 0.003152999999999989,
+ "Ecoh_PBE": 0.169184,
+ "wall_s": 46.16195321083069
+}

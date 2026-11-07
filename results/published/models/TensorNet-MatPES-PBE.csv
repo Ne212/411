@@ -1,0 +1,87 @@
+model,system,metal,facet,overlayer,coverage_ML,n_Hg_our_cell,site_kind,a0_metal_A,E_ads_ref_eV,d_MHg_ref_A,in_main_MAE,Ni_flag,mode,E_ads_A_eV,E_ads_D_eV,d_MHg_A,converged,n_steps
+TensorNet-MatPES-PBE,S08-Ag111-0.083,Ag,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,4.15211,-0.34000,3.00000,True,False,source,0.28870,-0.31901,3.00000,True,0
+TensorNet-MatPES-PBE,S08-Ag111-0.083,Ag,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,4.15211,-0.34000,3.00000,True,False,relaxed,0.28299,-0.32473,3.00900,True,5
+TensorNet-MatPES-PBE,S08-Au111-0.083,Au,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,4.16484,-0.36000,2.99000,True,False,source,0.30665,-0.30107,2.99000,True,0
+TensorNet-MatPES-PBE,S08-Au111-0.083,Au,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,4.16484,-0.36000,2.99000,True,False,relaxed,0.28492,-0.32280,2.96723,True,12
+TensorNet-MatPES-PBE,S08-Cu111-0.083,Cu,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.64492,-0.52000,2.75000,True,False,source,0.17011,-0.43760,2.75000,True,0
+TensorNet-MatPES-PBE,S08-Cu111-0.083,Cu,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.64492,-0.52000,2.75000,True,False,relaxed,0.15966,-0.44806,2.78485,True,5
+TensorNet-MatPES-PBE,S08-Ni111-0.083,Ni,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.51540,-0.67000,2.72000,True,True,source,0.01142,-0.59629,2.72000,True,0
+TensorNet-MatPES-PBE,S08-Ni111-0.083,Ni,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.51540,-0.67000,2.72000,True,True,relaxed,0.00368,-0.60403,2.67776,True,6
+TensorNet-MatPES-PBE,S08-Pd111-0.083,Pd,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.94879,-0.84000,2.81000,True,False,source,-0.12611,-0.73382,2.81000,True,0
+TensorNet-MatPES-PBE,S08-Pd111-0.083,Pd,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.94879,-0.84000,2.81000,True,False,relaxed,-0.13464,-0.74235,2.81301,True,7
+TensorNet-MatPES-PBE,S08-Pt111-0.083,Pt,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.96300,-0.75000,2.86000,True,False,source,-0.04270,-0.65042,2.86000,True,0
+TensorNet-MatPES-PBE,S08-Pt111-0.083,Pt,(111),(2sqrt3 x 3),0.08300,1,fcc hollow,3.96300,-0.75000,2.86000,True,False,relaxed,-0.07835,-0.68606,2.83235,True,11
+TensorNet-MatPES-PBE,S08-Ag111-0.25,Ag,(111),p(2x2),0.25000,1,fcc hollow,4.15211,-0.36000,3.01000,True,False,source,0.29366,-0.31405,3.01000,True,0
+TensorNet-MatPES-PBE,S08-Ag111-0.25,Ag,(111),p(2x2),0.25000,1,fcc hollow,4.15211,-0.36000,3.01000,True,False,relaxed,0.29080,-0.31691,3.01900,True,2
+TensorNet-MatPES-PBE,S08-Au111-0.25,Au,(111),p(2x2),0.25000,1,fcc hollow,4.16484,-0.38000,3.01000,True,False,source,0.31670,-0.29101,3.01000,True,0
+TensorNet-MatPES-PBE,S08-Au111-0.25,Au,(111),p(2x2),0.25000,1,fcc hollow,4.16484,-0.38000,3.01000,True,False,relaxed,0.30864,-0.29907,3.00196,True,6
+TensorNet-MatPES-PBE,S08-Cu111-0.25,Cu,(111),p(2x2),0.25000,1,fcc hollow,3.64492,-0.53000,2.78000,True,False,source,0.18134,-0.42637,2.78000,True,0
+TensorNet-MatPES-PBE,S08-Cu111-0.25,Cu,(111),p(2x2),0.25000,1,fcc hollow,3.64492,-0.53000,2.78000,True,False,relaxed,0.17643,-0.43129,2.79138,True,4
+TensorNet-MatPES-PBE,S08-Ni111-0.25,Ni,(111),p(2x2),0.25000,1,fcc hollow,3.51540,-0.64000,2.74000,True,True,source,0.04049,-0.56723,2.74000,True,0
+TensorNet-MatPES-PBE,S08-Ni111-0.25,Ni,(111),p(2x2),0.25000,1,fcc hollow,3.51540,-0.64000,2.74000,True,True,relaxed,0.03115,-0.57656,2.68572,True,10
+TensorNet-MatPES-PBE,S08-Pd111-0.25,Pd,(111),p(2x2),0.25000,1,fcc hollow,3.94879,-0.81000,2.83000,True,False,source,-0.12154,-0.72925,2.83000,True,0
+TensorNet-MatPES-PBE,S08-Pd111-0.25,Pd,(111),p(2x2),0.25000,1,fcc hollow,3.94879,-0.81000,2.83000,True,False,relaxed,-0.12726,-0.73497,2.81228,True,9
+TensorNet-MatPES-PBE,S08-Pt111-0.25,Pt,(111),p(2x2),0.25000,1,fcc hollow,3.96300,-0.68000,2.88000,True,False,source,-0.03580,-0.64351,2.88000,True,0
+TensorNet-MatPES-PBE,S08-Pt111-0.25,Pt,(111),p(2x2),0.25000,1,fcc hollow,3.96300,-0.68000,2.88000,True,False,relaxed,-0.06149,-0.66920,2.84209,True,13
+TensorNet-MatPES-PBE,S08-Ag111-0.333,Ag,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,4.15211,-0.31000,3.06000,True,False,source,0.30381,-0.30391,3.06000,True,0
+TensorNet-MatPES-PBE,S08-Ag111-0.333,Ag,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,4.15211,-0.31000,3.06000,True,False,relaxed,0.29964,-0.30807,3.01637,True,6
+TensorNet-MatPES-PBE,S08-Au111-0.333,Au,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,4.16484,-0.32000,3.05000,True,False,source,0.33206,-0.27565,3.05000,True,0
+TensorNet-MatPES-PBE,S08-Au111-0.333,Au,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,4.16484,-0.32000,3.05000,True,False,relaxed,0.32544,-0.28227,3.06339,True,6
+TensorNet-MatPES-PBE,S08-Cu111-0.333,Cu,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.64492,-0.48000,2.82000,True,False,source,0.15210,-0.45561,2.82000,True,0
+TensorNet-MatPES-PBE,S08-Cu111-0.333,Cu,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.64492,-0.48000,2.82000,True,False,relaxed,0.15087,-0.45684,2.80946,True,5
+TensorNet-MatPES-PBE,S08-Ni111-0.333,Ni,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.51540,-0.61000,2.76000,True,True,source,-0.05212,-0.65983,2.76000,True,0
+TensorNet-MatPES-PBE,S08-Ni111-0.333,Ni,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.51540,-0.61000,2.76000,True,True,relaxed,-0.05882,-0.66653,2.70063,True,6
+TensorNet-MatPES-PBE,S08-Pd111-0.333,Pd,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.94879,-0.80000,2.83000,True,False,source,-0.12120,-0.72892,2.83000,True,0
+TensorNet-MatPES-PBE,S08-Pd111-0.333,Pd,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.94879,-0.80000,2.83000,True,False,relaxed,-0.12797,-0.73568,2.81195,True,11
+TensorNet-MatPES-PBE,S08-Pt111-0.333,Pt,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.96300,-0.67000,2.89000,True,False,source,-0.02545,-0.63316,2.89000,True,0
+TensorNet-MatPES-PBE,S08-Pt111-0.333,Pt,(111),(sqrt3 x sqrt3)R30,0.33300,1,fcc hollow,3.96300,-0.67000,2.89000,True,False,relaxed,-0.05159,-0.65931,2.84430,True,8
+TensorNet-MatPES-PBE,S08-Ag111-0.5,Ag,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,4.15211,-0.37000,3.09000,False,False,source,0.24048,-0.36723,3.09000,True,0
+TensorNet-MatPES-PBE,S08-Ag111-0.5,Ag,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,4.15211,-0.37000,3.09000,False,False,relaxed,0.23753,-0.37018,3.04360,True,6
+TensorNet-MatPES-PBE,S08-Au111-0.5,Au,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,4.16484,-0.35000,3.11000,False,False,source,0.25459,-0.35312,3.11000,True,0
+TensorNet-MatPES-PBE,S08-Au111-0.5,Au,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,4.16484,-0.35000,3.11000,False,False,relaxed,0.25355,-0.35417,3.11644,True,4
+TensorNet-MatPES-PBE,S08-Cu111-0.5,Cu,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.64492,-0.51000,2.87000,False,False,source,0.08755,-0.52016,2.87000,True,0
+TensorNet-MatPES-PBE,S08-Cu111-0.5,Cu,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.64492,-0.51000,2.87000,False,False,relaxed,0.08833,-0.51938,2.86722,True,2
+TensorNet-MatPES-PBE,S08-Ni111-0.5,Ni,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.51540,-0.61000,2.75000,False,True,source,-0.03160,-0.63932,2.75000,True,0
+TensorNet-MatPES-PBE,S08-Ni111-0.5,Ni,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.51540,-0.61000,2.75000,False,True,relaxed,-0.03209,-0.63980,2.79261,True,13
+TensorNet-MatPES-PBE,S08-Pd111-0.5,Pd,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.94879,-0.81000,2.85000,False,False,source,-0.13393,-0.74165,2.85000,True,0
+TensorNet-MatPES-PBE,S08-Pd111-0.5,Pd,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.94879,-0.81000,2.85000,False,False,relaxed,-0.13485,-0.74257,2.85959,True,11
+TensorNet-MatPES-PBE,S08-Pt111-0.5,Pt,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.96300,-0.69000,2.92000,False,False,source,-0.04969,-0.65741,2.92000,True,0
+TensorNet-MatPES-PBE,S08-Pt111-0.5,Pt,(111),p(2x2),0.50000,2,fcc+hcp honeycomb,3.96300,-0.69000,2.92000,False,False,relaxed,-0.06794,-0.67566,2.96722,True,15
+TensorNet-MatPES-PBE,S08-Ag001-0.125,Ag,(001),c(4x4),0.12500,2,4-fold hollow,4.15211,-0.50000,3.01000,False,False,source,0.12231,-0.48540,3.01000,True,0
+TensorNet-MatPES-PBE,S08-Ag001-0.125,Ag,(001),c(4x4),0.12500,2,4-fold hollow,4.15211,-0.50000,3.01000,False,False,relaxed,0.11431,-0.49340,2.99580,True,10
+TensorNet-MatPES-PBE,S08-Au001-0.125,Au,(001),c(4x4),0.12500,2,4-fold hollow,4.16484,-0.61000,2.94000,False,False,source,0.09021,-0.51750,2.94000,True,0
+TensorNet-MatPES-PBE,S08-Au001-0.125,Au,(001),c(4x4),0.12500,2,4-fold hollow,4.16484,-0.61000,2.94000,False,False,relaxed,0.05781,-0.54990,2.91584,True,11
+TensorNet-MatPES-PBE,S08-Cu001-0.125,Cu,(001),c(4x4),0.12500,2,4-fold hollow,3.64492,-0.67000,2.78000,False,False,source,0.03312,-0.57459,2.78000,True,0
+TensorNet-MatPES-PBE,S08-Cu001-0.125,Cu,(001),c(4x4),0.12500,2,4-fold hollow,3.64492,-0.67000,2.78000,False,False,relaxed,0.02763,-0.58008,2.75404,True,10
+TensorNet-MatPES-PBE,S08-Ni001-0.125,Ni,(001),c(4x4),0.12500,2,4-fold hollow,3.51540,-0.82000,2.73000,False,True,source,-0.19378,-0.80149,2.73000,True,0
+TensorNet-MatPES-PBE,S08-Ni001-0.125,Ni,(001),c(4x4),0.12500,2,4-fold hollow,3.51540,-0.82000,2.73000,False,True,relaxed,-0.18550,-0.79321,2.69166,True,8
+TensorNet-MatPES-PBE,S08-Pd001-0.125,Pd,(001),c(4x4),0.12500,2,4-fold hollow,3.94879,-1.10000,2.83000,False,False,source,-0.32173,-0.92944,2.83000,True,0
+TensorNet-MatPES-PBE,S08-Pd001-0.125,Pd,(001),c(4x4),0.12500,2,4-fold hollow,3.94879,-1.10000,2.83000,False,False,relaxed,-0.31308,-0.92079,2.83311,True,10
+TensorNet-MatPES-PBE,S08-Pt001-0.125,Pt,(001),c(4x4),0.12500,2,4-fold hollow,3.96300,-1.09000,2.83000,False,False,source,-0.43338,-1.04109,2.83000,True,0
+TensorNet-MatPES-PBE,S08-Pt001-0.125,Pt,(001),c(4x4),0.12500,2,4-fold hollow,3.96300,-1.09000,2.83000,False,False,relaxed,-0.41940,-1.02711,2.83794,True,10
+TensorNet-MatPES-PBE,S08-Ag001-0.5,Ag,(001),c(2x2),0.50000,2,4-fold hollow,4.15211,-0.51000,3.02000,True,False,source,0.15845,-0.44926,3.02000,True,0
+TensorNet-MatPES-PBE,S08-Ag001-0.5,Ag,(001),c(2x2),0.50000,2,4-fold hollow,4.15211,-0.51000,3.02000,True,False,relaxed,0.16027,-0.44745,3.00983,True,2
+TensorNet-MatPES-PBE,S08-Au001-0.5,Au,(001),c(2x2),0.50000,2,4-fold hollow,4.16484,-0.51000,3.00000,True,False,source,0.15884,-0.44888,3.00000,True,0
+TensorNet-MatPES-PBE,S08-Au001-0.5,Au,(001),c(2x2),0.50000,2,4-fold hollow,4.16484,-0.51000,3.00000,True,False,relaxed,0.16061,-0.44710,2.97526,True,5
+TensorNet-MatPES-PBE,S08-Cu001-0.5,Cu,(001),c(2x2),0.50000,2,4-fold hollow,3.64492,-0.71000,2.80000,True,False,source,-0.04773,-0.65545,2.80000,True,0
+TensorNet-MatPES-PBE,S08-Cu001-0.5,Cu,(001),c(2x2),0.50000,2,4-fold hollow,3.64492,-0.71000,2.80000,True,False,relaxed,-0.03883,-0.64655,2.80217,True,8
+TensorNet-MatPES-PBE,S08-Ni001-0.5,Ni,(001),c(2x2),0.50000,2,4-fold hollow,3.51540,-0.81000,2.77000,True,True,source,-0.28195,-0.88966,2.77000,True,0
+TensorNet-MatPES-PBE,S08-Ni001-0.5,Ni,(001),c(2x2),0.50000,2,4-fold hollow,3.51540,-0.81000,2.77000,True,True,relaxed,-0.26855,-0.87626,2.73646,True,9
+TensorNet-MatPES-PBE,S08-Pd001-0.5,Pd,(001),c(2x2),0.50000,2,4-fold hollow,3.94879,-1.08000,2.83000,True,False,source,-0.35189,-0.95960,2.83000,True,0
+TensorNet-MatPES-PBE,S08-Pd001-0.5,Pd,(001),c(2x2),0.50000,2,4-fold hollow,3.94879,-1.08000,2.83000,True,False,relaxed,-0.34156,-0.94927,2.83600,True,10
+TensorNet-MatPES-PBE,S08-Pt001-0.5,Pt,(001),c(2x2),0.50000,2,4-fold hollow,3.96300,-0.97000,2.85000,True,False,source,-0.37952,-0.98723,2.85000,True,0
+TensorNet-MatPES-PBE,S08-Pt001-0.5,Pt,(001),c(2x2),0.50000,2,4-fold hollow,3.96300,-0.97000,2.85000,True,False,relaxed,-0.35754,-0.96525,2.86386,True,11
+TensorNet-MatPES-PBE,S08-Ag001-1,Ag,(001),c(1x1),1.00000,4,4-fold hollow,4.15211,-0.30000,3.30000,True,False,source,0.23657,-0.37114,3.30000,True,0
+TensorNet-MatPES-PBE,S08-Ag001-1,Ag,(001),c(1x1),1.00000,4,4-fold hollow,4.15211,-0.30000,3.30000,True,False,relaxed,0.23042,-0.37729,3.19805,True,11
+TensorNet-MatPES-PBE,S08-Au001-1,Au,(001),c(1x1),1.00000,4,4-fold hollow,4.16484,-0.35000,3.39000,True,False,source,0.20998,-0.39773,3.39000,True,0
+TensorNet-MatPES-PBE,S08-Au001-1,Au,(001),c(1x1),1.00000,4,4-fold hollow,4.16484,-0.35000,3.39000,True,False,relaxed,0.19840,-0.40931,3.24914,True,13
+TensorNet-MatPES-PBE,S08-Cu001-1,Cu,(001),c(1x1),1.00000,4,4-fold hollow,3.64492,0.27000,3.14000,True,False,source,0.79407,0.18635,3.14000,True,0
+TensorNet-MatPES-PBE,S08-Cu001-1,Cu,(001),c(1x1),1.00000,4,4-fold hollow,3.64492,0.27000,3.14000,True,False,relaxed,0.78321,0.17550,2.99722,True,13
+TensorNet-MatPES-PBE,S08-Ni001-1,Ni,(001),c(1x1),1.00000,4,4-fold hollow,3.51540,0.55000,2.99000,True,True,source,1.16148,0.55377,2.99000,True,0
+TensorNet-MatPES-PBE,S08-Ni001-1,Ni,(001),c(1x1),1.00000,4,4-fold hollow,3.51540,0.55000,2.99000,True,True,relaxed,1.15661,0.54890,2.88000,True,13
+TensorNet-MatPES-PBE,S08-Pd001-1,Pd,(001),c(1x1),1.00000,4,4-fold hollow,3.94879,-0.67000,2.95000,True,False,source,-0.00732,-0.61504,2.95000,True,0
+TensorNet-MatPES-PBE,S08-Pd001-1,Pd,(001),c(1x1),1.00000,4,4-fold hollow,3.94879,-0.67000,2.95000,True,False,relaxed,-0.00246,-0.61017,2.94644,True,11
+TensorNet-MatPES-PBE,S08-Pt001-1,Pt,(001),c(1x1),1.00000,4,4-fold hollow,3.96300,-0.58000,3.05000,True,False,source,0.01473,-0.59298,3.05000,True,0
+TensorNet-MatPES-PBE,S08-Pt001-1,Pt,(001),c(1x1),1.00000,4,4-fold hollow,3.96300,-0.58000,3.05000,True,False,relaxed,0.02489,-0.58282,3.08291,True,12
+TensorNet-MatPES-PBE,S08-Au001-0.125-bridge,Au,(001),c(4x4),0.12500,2,bridge,4.16484,-0.47000,,False,False,relaxed,0.25856,-0.34916,2.87583,True,16
+TensorNet-MatPES-PBE,S08-Au001-0.125-top,Au,(001),c(4x4),0.12500,2,top,4.16484,-0.36000,,False,False,relaxed,0.34758,-0.26013,3.34348,True,26
